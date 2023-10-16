@@ -2,3 +2,5 @@ pcb-backups
 ~*.lck
 __pycache__
 dist/
+kicad/pcb/gerber/
+kicad/pcb/fp-info-cache

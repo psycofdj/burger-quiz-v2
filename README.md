@@ -16,9 +16,14 @@
 
 ### Global Schematics
 
+Sources for global schematics are [here](./kicad/board)
+
 ![board](./kicad/board/board.svg "global schematic")
 
+
 ### Ready to solder PCB
+
+Sources for ready-to-solder PCB are [here](./kicad/pcb)
 
 ![pcb](./kicad/pcb/pcb.svg "pcb schematic")
 
@@ -29,6 +34,8 @@
 ## Construction
 
 ### Global design
+
+Sources for desk design are [here](./sketcup)
 
 ![back](./sketchup/bquiz-back.png "back")
 ![front](./sketchup/bquiz-front.png "front")
@@ -49,6 +56,9 @@
 
 
 ## Installation
+
+Sources for software are [here](./bquiz)
+
 
 - Enable primary I2C port (/dev/i2c-1)
 

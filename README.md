@@ -60,7 +60,14 @@ pactl set-default-sink alsa_output.usb-C-Media_Electronics_Inc._USB_Audio_Device
 - Install software as user startup service
 
 ```
+# install bquiz cli to ~/.local/bin
+python3 -m pip install .
+
+# install user systemd unit
 mkdir -p ~/.config/systemd/user
 ln -s $(pwd)/systemd/user/bquiz.service ~/.config/systemd/
-systemctl --user enable burger_quiz.service
+systemctl --user enable bquiz.service
+
+# run bquiz
+systemctl --user start bquiz.service
 ```

@@ -4,9 +4,8 @@ Description=Burger Quiz software
 [Service]
 Type=simple
 StandardOutput=journal
-ExecStart=bquiz
+ExecStart=/usr/bin/env PATH=%h/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin bquiz
 Restart=always
-
 
 [Install]
 WantedBy=default.target

@@ -1,0 +1,4 @@
+pcb-backups
+~*.lck
+__pycache__
+dist/

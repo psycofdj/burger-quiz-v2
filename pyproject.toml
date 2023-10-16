@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+dependencies = [ "smbus", "wiringpi", "python-vlc" ]
+name = "bquiz"
+version = "2.0.0"
+authors = [
+  { name="Xavier MARCELET", email="contact-burger-quiz@marcelet.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/psycofdj/burger-quiz-v2"
+"Bug Tracker" = "https://github.com/psycofdj/burger-quiz-v2/issues"
+
+[project.scripts]
+bquiz = "bquiz.__main__:main"

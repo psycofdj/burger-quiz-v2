@@ -1,0 +1,12 @@
+[Unit]
+Description=Burger Quiz software
+
+[Service]
+Type=simple
+StandardOutput=journal
+ExecStart=bquiz
+Restart=always
+
+
+[Install]
+WantedBy=default.target

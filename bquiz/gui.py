@@ -106,7 +106,7 @@ class AdditionRenderer:
         lastText = label.text()
         label.setText(text)
         label.adjustSize()
-        log("label.width(): %d", label.width())
+        log("label.width(): %d" % label.width())
         log("label.height() < self.maxHeight: %d < %d" % (
             label.height(),
             self.maxHeight,

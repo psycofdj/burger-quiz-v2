@@ -1,0 +1,239 @@
+- id: 1
+  menu: "Menu Comportement de l’autruche d'Afrique du Nord en période de reproduction, un menu pour étudiant en prépa véto ou pour zoophile passionné."
+  questions:
+  - Q: "Sur combien de mois s'étend la période de reproduction ?"
+    A: "7"
+  - Q: "Quels sont ces mois ?"
+    A: "Mars à Octobre."
+  - Q: "Pouvez-vous me décrire en quelques mots la danse nuptiale de l’Autruche d'Afrique du Nord mâle ?"
+    A: "Il bat des ailes dans un mouvement rotatif en se mettant à genoux. Il plié son cou en forme de S$ et il balance sa tête de droite à gauche."
+  - Q: "Combien d'œufs pond la femelle au cours de la 1ère saison de ponte ?"
+    A: "Entre 10 et 30 œufs."
+
+- id: 2
+  menu: "Menu Catché, qui retrace la mystérieuse mais non moins prodigieuse histoire du catch, ce divertissement controversé qui allie musoulatures excessives et mises en scène explosives. Un menu taillé pour tous ceux qui aiment se battre en slip."
+  questions:
+  - Q: "Le catch est apparu à la fin du 18ème siècle en Europe, quels étaient les premiers lieux publics où l’on pouvait voir ces combats ?"
+    A: "Dans les champs de foire."
+  - Q: "Quel est le nom du tout premier champion du monde de catch ?"
+    A: "Franck Gotch."
+  - Q: "Qui est l'actuel président de la WWE, la plus grande entreprise de catch au monde ?"
+    A: "Vince McMahon."
+  - Q: "Quel groupe a composé la musique « The Game », musique d'entrée du grand catcheur Triple H ?"
+    A: "Motürhead."
+
+- id: 3
+  menu: "Menu les réformes fiscales en Europe de 1992 à 2001, pour les passionnés d'impôts et d'Europe et j'en connais un paquet ici."
+  questions:
+  - Q: "Qu'ont dû faire la majorité des pays européens de 1992 à 1997 ?"
+    A: "Augmenter leurs impôts pour assainir leurs finances."
+  - Q: "V ou F, les cotisations sociales ont augmenté entre 1990 et 2000 ?"
+    A: "Faux. Elles ont baissé dans leur très grande majorité,"
+  - Q: "Que s'est-il réellement passé le 1er janvier 1993 ?"
+    A: "La réalisation du marché unique dans l'Union européenne."
+  - Q: "V ou F: l'augmentation des dépenses publiques a augmenté de 1,6 % pendant cette période pour l'ensemble de l’Union européenne ?"
+    A: "Vrai."
+
+- id: 4
+  menu: "Menu Histoire et vérité sur l'uniforme SS, cette pièce de mode délicate et luxueuse qui, quoi que l’on puisse en dire, savait rendre élégant les batards qui la portaient. Un menu pour ceux qui ne jugent pas l’homme mais l'enveloppe dans laquelle il se situe."
+  questions:
+  - Q: "Question très simple pour se mettre en jambe, qui a designé et fabriqué les uniformes nazis ?"
+    A: "Hugo Ferdinand Boss."
+  - Q: "D'ailleurs, l'a-t-il fait sous la contrainte ou pas du tout ?"
+    A: "Pas du tout, dès 1931 il adhère au parti nazi."
+  - Q: "Qui a eu l'idée de la couleur noire des uniformes SS, pour se différencier des autres soldats ?"
+    A: "Himmler, qui n'avait pas que des mauvaises idées finalement,"
+  - Q: "V ou F, on pouvait acheter son uniforme SS chez IKKSS ?"
+    A: "Faux."
+
+- id: 5
+  menu: "Menu Vasistas, cette petite fenêtre qui, malgré sa taille, fait Eat son possible pour nous faire admirer la beauté du monde"
+  questions:
+  - Q: "V ou F le vasistas vient de l' expression allemande « Was ist das ? » qui veut dire « qu'est-ce-que c'est » ?"
+    A: "C'est vrai, C'était à l'origine une petite fenêtre qui permet- tait de voir qui venait sans ouvrir complétement la porte,"
+  - Q: "Dans quelle édition du dictionnaire de l'Académie française et en quelle année le mot vasistas fait-il son apparition ?"
+    A: "Dans la 5ème édition en 1798."
+  - Q: "À quelle hauteur se situe au départ, un vasistas ?"
+    A: "À hauteur d'yeux."
+  - Q: "V ou F les vasistas sont des fenêtres uniquement fixes ?"
+    A: "Faux. Il y en a aussi avec des ouvertures ce qui est assez pratique pour ouvrir en fait."
+
+- id: 6
+  menu: "Menu « Phantom of the Paradise », un menu passionnant quant on connaît le film de Brian de Palma par cœur mais hyper chiant si on ne l’a jamais vu forcément."
+  questions:
+  - Q: "Quel est le nom de la maison de disques de Swan et celui de l'animal qui en est le logo ?"
+    A: "Death Records, Et c'est un oiseau mort, couché sur le dos,"
+  - Q: "Le groupe qui chante la première chanson du film s'appelle les Juicy Fruits, un faux groupe créé pour le film. Mais de Palma avait pensé à un autre groupe, existant celui-là, pour cette chanson. Lequel ?"
+    A: "Les Rolling Stones (qui n'ont jamais répondu à sa demande)."
+  - Q: "Comment Winslow Leach, le musicien à qui Swan vole sa musique, se fait-il défigurer ?"
+    A: "En se coinçant la tête accidentellement dans une machine à presser les vinyles."
+  - Q: "Quelles sont les 3 œuvres littéraires principales qui influencent clairement « Phantom of the Paradise » ?"
+    A: "« Le Fantôme de l'Opéra » de Gaston Leroux. « Faust » de Goethe. « Le Portrait de Dorian Gray » de Oscar Wilde."
+
+- id: 7
+  menu: "Menu la Feuille de Service du film « La Môme », jour 27, ses horaires de convocation, ses infos stationnements pour les véhicules techniques et l'heure de coupure dej, un menu pas évident même si on y était."
+  questions:
+  - Q: "Quel était le numéro de téléphone pour joindre Marc Vadé, le directeur de production sur place à Prague ?"
+    A: "724 08 88 01. Assez facile à retenir pourtant."
+  - Q: "Quels étaient les horaires de tournage de ce jour 27 au fait ?"
+    A: "10h00/18h00."
+  - Q: "Quelle était l'heure de convocation de Marion Cotillard ?"
+    A: "6h55."
+  - Q: "Combien y avait-il de renforts coiffure pour la figuration sur place ?"
+    A: "4."
+
+- id: 8
+  menu: "Menu sur les traces du Mouflon canadien, ce serial grimpeur d'Amérique du Nord à qui aucune pente rocailleuse ne résiste, un menu idéal pour tous ceux qui se sentent bien dans leurs sabots."
+  questions:
+  - Q: "Quel est le nom binominal du Mouflon canadien ?"
+    A: "Ovis canadensis,"
+  - Q: "Quelle autre espèce de mouflon est très répandue en Amérique du Nord ?"
+    A: "L'Ovis dalli, qui inclut le mouflon de Dall et le mouflon de Stone, il est apparenté au mouflon des neiges."
+  - Q: "Citez 2 maladies auxquelles le mouflon canadien est très vulnérable surtout s'il entre en contact avec un mouton porteur du virus ?"
+    A: "La gale et la pneumonie."
+  - Q: "A 2 jours près, quel est le temps de gestation du mouflon canadien ?"
+    A: "175 jours."
+
+- id: 9
+  menu: "Menu Couscous, cette petite graine plantée dans le cœur des Français il y a bien longtemps, et qui a bien grandi depuis."
+  questions:
+  - Q: "Comment dit-on couscous en berbère ?"
+    A: "Seksu ou keskesu, Un bon keskesu merguez, hmmm, j'ai faim."
+  - Q: "V ou F on trouve des traces de couscous dans « Pantagruel » de Rabelais."
+    A: "Vrai."
+  - Q: "… OK mais comment l’appelait-il dans ce livre ?"
+    A: "Coussou-coussou. Perso, hier j'ai mangé un coussou-coussou royal, fantastique."
+  - Q: "Qu'y at-il dans un couscous barbouche?"
+    A: "Des tripes et des herbes."
+
+- id: 10
+  menu: "Menu Généalogie et utilité du bidet, ce petit meuble d’eau qui a un point de vue singulier du monde, un menu pour les nostalgiques de la couille propre."
+  questions:
+  - Q: "De quand date la première apparition écrite du bidet dans le dictionnaire Trésor de la langue française ?"
+    A: "1739."
+  - Q: "Quel animal a pour nom le bidet ?"
+    A: "Un petit cheval trapu, D'où la chanson « À dada sur mon bidet »."
+  - Q: "Quel empereur français a déclaré dans son testament qu'il possédait plusieurs spécimens de bidet ?"
+    A: "Napoléon."
+  - Q: "V ou F Philippe Starck a déjà designé de super bidets revisités ?"
+    A: "Vrai."
+
+- id: 11
+  menu: "Menu Discrimination, rejet et raillerie autour du 3ème menu du Burger Quiz. Ce menu laissé sur la touche depuis bien trop longtemps, qui ne demande pourtant qu'à exister, et à trouver sa place dans le monde cruel du jeu télévisé."
+  questions:
+  - Q: "V ou F le 3ème menu n'est jamais écrit vraiment, il y a juste 2 questions prévues en exemple ?"
+    A: "Faux, Toutes les questions sont écrites, pensées, travaillées, peaufinées et plein d'autres adjectifs encore."
+  - Q: "Quel était l'intitulé exact du menu concernant le Septolet dans la saison 2 de Burger Quiz ?"
+    A: "Le Septolet, cette division exceptionnelle du temps en solfège. Un menu composé pour vous si vous êtes Frédéric Chopin, sinon honnêtement c'est chaud."
+  - Q: "Où avait lieu le Championnat du Monde de Décorticage de Crevettes grises de 2007 à 2017 ?"
+    A: "À Leffrinckouke."
+  - Q: "V ou F tous les 3èmes menus sont écrits de tête, car nous avons des auteurs incroyablement cultivés ?"
+    A: "Faux."
+
+- id: 12
+  menu: "Menu Connaissance, maîtrise et exploitation des points vitaux au karaté. Un menu qui vous fera gagner des com- bats en infériorité numérique, mais surement pas des Miam."
+  questions:
+  - Q: "Combien y a-t-il de points vitaux ?"
+    A: "32"
+  - Q: "Quel est le terme japonais pour désigner l'art de frapper les points vitaux ?"
+    A: "Kyusho"
+  - Q: "Quel est le terme japonais pour désigner le Point naso-frontal ?"
+    A: "Choto."
+  - Q: "Vou Fil existe des points Vitaa qui à chaque pression vous fait chanter du R'N'B ?"
+    A: "Faux."
+
+- id: 13
+  menu: "Menu Références et messages cachés dans le dernier album de PNL, un menu pour enfin comprendre ce qu’ils ont voulu dire par: « J't'encule sur le continent d'Hadès »."
+  questions:
+  - Q: "A qui fait référence Ademo lorsqu'il dit « La rue j'la dévale à toute allure avec du Gucci comme Mitch » ?"
+    A: "Mitch est un dealeur habillé en Gucci dans le film « Paid In Full »,"
+  - Q: "Pourquoi lorsqu'Ademo dit: « J'fais l'avion comme Pauleta » ça a énervé les supporters parisiens ?"
+    A: "Parce que la célébration de Pauleta s'appelait « L'aigle » pas « l'avion »."
+  - Q: "Que veut dire N'DA ?"
+    A: "« IN DA HOOD » ou dans le quartier."
+  - Q: "Que veut dire «Au DD » ?"
+    A: "Au détail. Ca fait référence à la vente de drogue au détail."
+
+- id: 14
+  menu: "Menu Dates de tournée de Sylvain Costa, le sosie vocal de Gérard Darmon, qui se fait du fric sur son dos et à qui, il a malheureusement fait un peu de pub le 4 décembre 2019 sur TMC."
+  questions:
+  - Q: "Quand sera-t-il à Amiens ?"
+    A: "Le 12 décembre."
+  - Q: "Et à Angers ?"
+    A: "Le 3 mars."
+  - Q: "Quand sera-t-il à Paris ?"
+    A: "Le 12 mai."
+  - Q: "Et enfin à Bruxelles ?"
+    A: "Le 7 avril, en matinée seulement."
+
+- id: 15
+  menu: "Menu Star Trek, au travers du langage Klingon, cette langue extra-terrestre à la prononciation chantante et aux consonnes rétroflexes."
+  questions:
+  - Q: "Que veut dire « nuqneH » ?"
+    A: "« Que voulez-vous ? » ou « Bonjour »."
+  - Q: "Que veut dire “yDoghQo“ ?"
+    A: "« Ne soit pas ridicule »."
+  - Q: "La langue Klingon est en partie composée de consonnes Rétroflexes. En phonétique articulaire, qu'est-ce qu’une consonne rétroflexe ?"
+    A: "Pour faire simple mais incomplet, c'est une consonne dont le lieu d'articulation se situe au niveau du palais."
+  - Q: "V ou F les Klingons sont anticalcaires ?"
+    A: "Faux, C'est Calgon."
+
+- id: 16
+  menu: "Menu Brouillons, le dossier “Brouillons” de la boite GMAIL d'Alain Chabat, un réservoir de messages potentiellement intéressants mais peut-être pas assez puisqu'il ne les a pas envoyés."
+  questions:
+  - Q: "Quel était l'objet du mail qu'il avait prévu d'envoyer à Sybille, qui travaille avec eux sur Burger Quiz ?"
+    A: "“Pour info“. Et puis finalement elle était au courant déjà, Sybille anticipe toujours énormément,"
+  - Q: "V ou F: il a envoyé un mail à son comptable le 24 mai 2013 et finalement non?"
+    A: "Faux, II l'a envoyé."
+  - Q: "En quel format a-t-il téléchargé l'attestation qu'il n'a finalement pas envoyée à la sécurité sociale la semaine dernière ?"
+    A: "En PDF c'était facile."
+  - Q: "Et enfin, quel lien a-t-il placé dans son corps de mail sans jamais avoir mis de destinataires, ni d'objet au cours d’une visite dans un magasin d'électroménager ?"
+    A: "Un lien Amazon pour un lecteur DVD portable. Visiblement il n’a pas donné suite à cet achat qui ne lui a pas manqué pour autant."
+
+- id: 17
+  menu: "Menu les 12 ans de Clotaire Rouve, tune magique remplie de joie et de rires mais surtout d'enfants."
+  questions:
+  - Q: "À quelle heure est arrivé le premier invité ?"
+    A: "À 15h34."
+  - Q: "VouF il n'y avait qu'une fille ?"
+    A: "Faux, Il n'y en avait pas du tout."
+  - Q: "Combien de bougies y avait-il sur le gâteau d'anniversaire?"
+    A: "Il y en avait 11. Son père, Jean-Paul, avait mal compté."
+  - Q: "Vou F la mère du petit Frank est restée boire un coup et du coup Jean-Paul la pécho ?"
+    A: "Faux, c'était pour zéro Miam enfin !"
+
+- id: 18
+  menu: "Menu Calendrier de la collecte des déchets de la Roche- sur-Yon. Quand les petits gestes du quotidien peuvent faire la différence."
+  questions:
+  - Q: "Quel jour sont collectés les ordures ménagères et les sacs jaunes dans le quartier de la Haute Couperie ?"
+    A: "Le mercredi matin,"
+  - Q: "Et si j'habite vers la Bretèche ?"
+    A: "Le lundi matin,"
+  - Q: "La Ville de La Roche-sur-Yon organise gratuitement l'enlève- ment des encombrants. Mais quand ?"
+    A: "Les premiers lundis de chaque mois,"
+  - Q: "Mais pour l’enlèvement des encombrants, vous devez vous plier à deux obligations. Lesquelles ?"
+    A: "Un formulaire doit être rempli huit jours avant la journée de ramassage auprès de La Roche Services,"
+
+- id: 19
+  menu: "Menu les conseillers bancaires de Jérôme Commandeur de 1987 à 2019, Leur sens de la clientèle, leurs investissements au quotidien, mais également leurs choix de carrière."
+  questions:
+  - Q: "Pourquoi Mme Faron, la première conseillère de Jérôme, a-t-elle quitté le CIC en 1989 ?"
+    A: "Le nouveau directeur voulait placer sa fille et du coup, Mme Faron, avec qui le courant ne passait déjà pas beaucoup, est partie au Crédit Agricole"
+  - Q: "Comment s'appelait son conseiller à la Société Générale entre 1998 et 2001 ?"
+    A: "Mr Morel. Gilles de son prénom. Un homme charmant."
+  - Q: "Quelle était la première phrase que lui disait toujours Mr. Morel, quand Jérôme arrivait dans son bureau ?"
+    A: "« Voulez-vous un café ? », je vous ai dit qu'il était charmant."
+  - Q: "Enfin, quel est le dernier conseil que lui a donné Mr. Farahli, son conseiller actuel à la BNP ?"
+    A: "De limiter le paiement sans contact à 40€, par sécurité."
+
+- id: 20
+  menu: "Menu Préparation et conception de votre gel hydroalcoolique maison. Un menu pour survivre à moindre coup tout en ayant les mains propres."
+  questions:
+  - Q: "Quels sont les 4 ingrédients nécessaires pour faire votre gel hydroalcoolique ?"
+    A: "De l'alcool bien sûr, de l'eau oxygénée évidemment, de la glycérine et de l'eau distillée."
+  - Q: "Quelle quantité de glycérine devez-vous mettre pour 1 litre de gel ?"
+    A: "14,5 ml."
+  - Q: "Que devez-vous faire après avoir versé l'alcool dans un récipient gradué ?"
+    A: "Ajoutez l'eau oxygénée, puis le glycérol (glycérine)."
+  - Q: "À la fin de votre préparation, combien de temps devez-vous attendre avant d'utiliser votre gel hydroalcoolique ?"
+    A: "72 heures."

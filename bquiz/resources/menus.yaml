@@ -1,0 +1,1439 @@
+- id: 1
+  menu: "Menu Crooner"
+  questions:
+  - Q: "Que veut dire “Crooner” ou plutôt “To Croon” en anglais ?"
+    A: "Fredonner."
+  - Q: "Quel célèbre crooner américain fait une apparition dans “les Demoiselles de Rochefort”."
+    A: "Gene Kelly."
+  - Q: "V ou F: Frank Sinatra est né avec un tympan perforé ?"
+    A: "Vrai."
+  - Q: "V ou F: Dany Brillant est né avec les deux tympans perforés ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 2
+  menu: "Menu du Dimanche Soir."
+  questions:
+  - Q: "Qui a composé la musique qui a longtemps été le générique de «ciné dimanche» de TF1, le dimanche soir ?"
+    A: "Earth, Wind and Fire."
+  - Q: "Citez 3 émissions de Télé diffusées exclusivement le dimanche ? Le jour du seigneur, Téléfoot, Vivement Dimanche, 7 à 8, Auto-moto,"
+    A: "Stade 2, E-M6, le Cinéma de Minuit."
+  - Q: "V ou F: la Domophobie est le nom utilisé pour décrire la peur du blues du dimanche soir ?"
+    A: "Faux. C’est la peur des maisons."
+  - Q: "V ou F: j'ai déjà eu le blues du dimanche soir un vendredi soir ?"
+    A: "Faux et c'était pour zéro Miam."
+
+- id: 3
+  menu: "Menu Sous Couverture."
+  questions:
+  - Q: "À votre avis, pendant combien de temps Robert Hanssen, expert du contre-espionnage, a-t-il donné des informations au KGB ?"
+    A: "22 ans. De 1979 à 2001."
+  - Q: "Un très grand réalisateur a filé un coup de main sur le James Bond “L'Espion qui m'aimait” en 1977, mais demanda à ne croiser absolument personne. De qui s'agissait-il ?"
+    A: "De Stanley Kubrick."
+  - Q: "V ou F: la CIA eut un projet de chats-espions pour infiltrer les Russes, mais a laissé tomber quand le premier chaton s’est fait écraser par une voiture ?"
+    A: "Vrai."
+  - Q: "V ou F: la CIA eut aussi un projet de girafes-espionnes pour infiltrer les russes, mais a laissé tomber car même avec une chapka on n'y croyait pas trop ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 4
+  menu: "Menu Censuré."
+  questions:
+  - Q: "Une scène de Rain Man a été censurée dans tous les avions par les compagnies aériennes américaines. Pourquoi à votre avis ?"
+    A: "Dans une scène à l'aéroport, Ray Babitt (Dustin Hoffman) énumère les catastrophes aériennes par compagnie."
+  - Q: "Aux États-Unis il existe une liste appelée “Seven Dirty Words“ contenant les mots interdits à l'antenne. Pouvez-vous me citer 2 de ces mots ?"
+    A: "Shit, piss, motherfucker, cocksucker, fuck, cunt et tits."
+  - Q: "V ou F: le “d'oh !” d'Homer Simpson est la version raccourcie de “Dommage je t'aurais bien fait manger mes couilles” ?"
+    A: "Faux, et c'était pour zéro Miam. “D'oh !” est un gimmick, voulant dire «damn», emprunté à James Finnlayson, acteur des années 30."
+  - Q: "V ou F: Fox News a déjà flouté une poitrine sur un tableau de Picasso ?"
+    A: "C’est malheureux mais c'est vrai."
+
+- id: 5
+  menu: "Menu Fier de ses origines."
+  questions:
+  - Q: "Le terme Paparazzi tire son origine d'un film italien des années 60, lequel ?"
+    A: "La Dolce Vita de Federico Fellini."
+  - Q: "À l'origine, pour qui était écrite la chanson “Je ne suis pas un héros” de Daniel Balavoine ?"
+    A: "Pour Johnny Hallyday."
+  - Q: "V ou F: Gérard Lenorman ne vient pas de Normandie ?"
+    A: "Faux, il vient bien de Normandie puisqu'il est né dans le Calvados à Bénouville."
+  - Q: "V ou F: dans l’histoire de l'humanité, il y a déjà eu un match de foot où personne n'a aperçu un drapeau de l'Algérie dans les tribunes ?"
+    A: "Faux, ça n'est jamais arrivé. Mais c'était pour zéro Miam de toute façon."
+
+- id: 6
+  menu: "Menu que les moins de 20 ans ne peuvent pas connaître."
+  questions:
+  - Q: "Aux États-Unis, que ne peut-on pas faire quand on à moins de 20 ans ? Voter, boire de l'alcool ou les 2 ?"
+    A: "On ne peut pas boire de l'alcool, mais on peut voter."
+  - Q: "V ou F: si vous avez moins de 20 ans, vous n'avez pas pu aller voir “Titanic” de James Cameron lors de sa sortie au cinéma ?"
+    A: "Vrai, il est sorti en 1997. Ça file hein."
+  - Q: "V ou F: aux yeux de la loi française, on peut devenir Président de la République à moins de 20 ans ?"
+    A: "Vrai, on peut devenir Président de la République dès ses 18 ans. Aux États-Unis par exemple, il faut avoir au moins 35 ans,"
+  - Q: "V ou F: au Pakistan on peut avoir moins de 20 ans et 15 ans d'ancienneté au boulot ?"
+    A: "Faux et c'était pour zéro Miam,"
+
+- id: 7
+  menu: "Menu qui n'a pas sa langue dans sa poche."
+  questions:
+  - Q: "V ou F: Jean de La Fontaine a fait scandale en écrivant des fables érotiques ?"
+    A: "Vrai."
+  - Q: "V ou F: ce recueil de poèmes érotiques se trouve dans un livre intitulé “Les Fables de la femme Fontaine” ?"
+    A: "Faux."
+  - Q: "Jerry Lee Lewis est à son apogée en 1957. Malheureusement, son mariage va faire scandale et ruiner sa carrière. Pourquoi d’après vous ?"
+    A: "Il s’est marié avec sa cousine, qui n'avait que 13 ans. Le combo fatal !"
+  - Q: "V ou F: des tongs qui choquent l'opinion publique s'appellent des Scandalettes ?"
+    A: "Faux. Et cette vanne est scandaleuse. C'était pour zéro Miam."
+
+- id: 8
+  menu: "Menu on rigole, on rigole, mais on va quand même tous crever."
+  questions:
+  - Q: "Depuis l'aube de l'Humanité on estime que 108 milliards d'individus sont nés. Mais d’après vous, combien sont morts ?"
+    A: "100,8 milliards, soit 93% des êtres humains."
+  - Q: "À qui doit-on cette phrase “Dieu est mort, Marx est mort, et moi-même je ne me sens pas très bien” ?"
+    A: "Woody Allen."
+  - Q: "En France, une personne décède tous les combien de temps selon vous ? (À 5 secondes près)."
+    A: "Toutes les 54 secondes. Soit 603 000 personnes par an."
+  - Q: "V ou F: on se marrait bien dans cette partie avant de faire ce menu ?"
+    A: "Vrai. Mais c'était pour zéro Miam."
+
+- id: 9
+  menu: "Menu Enceint."
+  questions:
+  - Q: "V ou F: chez les Hippocampes, c'est le mâle qui effectue la gestation ?"
+    A: "Vrai."
+  - Q: "Dans la série Malcolm, l'actrice Jane Kaczmarek est tombée enceinte durant le tournage de la saison 4. Qu'ont fait les scénaristes pour ne pas interrompre le tournage ?"
+    A: "Ils ont ajouté un nouveau personnage. Le petit frère Jamie est donc “né” comme ça."
+  - Q: "À votre avis, est-il possible de tomber enceinte alors qu'on l'est déjà ?"
+    A: "Qui, c'est possible, Ce phénomène très rare chez les humains (un à deux cas rapportés chaque année dans le monde) est appelé superfétation,"
+  - Q: "A votre avis, est-il possible pour une femme enceinte de manger un cheesecake entier alors qu'elle en a déjà mangé un ?"
+    A: "Oui, c’est possible et c'est bien normal. On embrasse toutes les femmes enceintes et on leur dit qu'on les aime et qu'elles sont belles. C'était pour zéro Miam."
+
+- id: 10
+  menu: "Menu Super."
+  questions:
+  - Q: "Alors c'est comment d'être ici ?"
+    A: "C'est super. Et c'était pour 1 Miam parce que ça prouve que vous êtes dans l'esprit de ce Menu. (Toutes les autres réponses perdantes.)"
+  - Q: "Combien coûtent 30 sec de pub à la télé pendant le Superbowl à 300.000 dollars près ?"
+    A: "5 millions de dollars US. (soit 166.667 $ la seconde) (4,3 millions d'euros). C'est super cher."
+  - Q: "V ou F: 1 milliard 350 millions d'ailes de poulet seront consom- mées en une soirée dans l'ensemble des États-Unis ?"
+    A: "Vrai, C'est pas super ça ????"
+  - Q: "V ou F: une personne qui dit tout le temps “super”, au bout d'un moment, on a super envie de lui latter la gueule ?"
+    A: "Vrai mais c'était pour zéro Miam."
+
+- id: 11
+  menu: "Menu Sous Hypnose."
+  questions:
+  - Q: "Citez-moi 2 choses qu'on peut faire grâce à l'hypnose."
+    A: "Arrêter de fumer / Arrêter de boire / Mincir / Passer pour un con sur TF1 / Soigner le stress / Faciliter la grossesse et l'accouche- ment / Se débarrasser d’une compulsion."
+  - Q: "V ou F: il existe en Belgique une loi qui interdit les spectacles d'hypnose ?"
+    A: "Vrai. Une loi qui date de 1892."
+  - Q: "Messmer détient le record du monde d'hypnose collective. Combien de personnes a-t-il réussi à hypnotiser en 4 min seulement ? (à 50 près)"
+    A: "854 personnes."
+  - Q: "V ou F: depuis que Messmer répète son spectacle chez lui, son chat aboie ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 12
+  menu: "Un beau Menu de 3,5 kg."
+  questions:
+  - Q: "Lors de sa première année de croissance, combien de kilos un bébé baleine bleue prend-il par jour ?À 10 kilos près."
+    A: "Il prend environ 90 kilos par jour, Soit une prise moyenne d'un kilo toutes les 16 minutes."
+  - Q: "V ou F: à la naissance, les bébés ne pleurent pas tous de la même manière car ils ont déjà un petit accent ?"
+    A: "Vrai. Selon la langue de la mère, qu'ils ont entendue alors qu'ils sont encore dans son ventre, les bébés pleurent de manière différente."
+  - Q: "V ou F: à la manière des bébés humains qui sucent leur pouce, les éléphanteaux sucent leur trompe ? : ."
+    A: "Vrai. Comme pour les humains, c'est un geste qui les apaise, et qu'ils referont même parfois quand ils seront adultes."
+  - Q: "V ou F: le régime nazi utilisa la photo d'un bébé pour représenter le parfait aryen mais ils ne savaient pas qu'il était juif ?"
+    A: "Vrai. Il s'agit de Hessy Taft, une petite fille d'origine juive."
+
+- id: 13
+  menu: "Menu Bande FM."
+  questions:
+  - Q: "Qui détient le record de la chanson la plus diffusée de l'histoire à la radio ?"
+    A: "Les Beatles avec Yesterday. Aux alentours de sept millions de diffusions de 1965 à 2000. Elle détient aussi le record de la chanson la plus reprise au monde (plus de 2000 versions). Cette chanson était intitulée au départ «Scrambled Eggs»"
+  - Q: "Un compositeur de musique de film mondialement connu faisait partie de The Buggles, rendu célèbre par leur tube «Video Killed the Radio Star». De qui s'agit-il ? (Indice : il a composé la musique de «Gladiator» et «Inception»)."
+    A: "Hans Zimmer. On l'aperçoit d'ailleurs à la fin du clip."
+  - Q: "En quoi consiste L'«Emergency Alert System», ce dispositif à la disposition du président américain ?"
+    A: "C’est un dispositif d'alerte qui permet au président américain d'interrompre tous les programmes radio et TV pour s'adresser à la Nation en moins de 10 min. L'alerte est également envoyée par SMS sur les téléphones portables."
+  - Q: "Dans le langage radio, que signifie «Cadrer une intro» ?"
+    A: "C'est le fait de parler sur l'intro d'une chanson et de s'arrêter juste avant que le chanteur se mette à chanter."
+
+- id: 14
+  menu: "Menu qui n’a pas un poil sur le caillou."
+  questions:
+  - Q: "Citez-moi au moins 3 Actrices hollywoodiennes qui se sont rasées la tête pour un rôle ?"
+    A: "Sigourney Weaver pour Alien, Natalie Portman pour ”V for Vendetta”, Charlize Theron pour «Mad Max : Fury Road»..."
+  - Q: "V ou F: le nom chauve-souris vient du fait que l'animal ressemble à une souris chauve ?"
+    A: "Faux. Le terme chauve-souris vient des mots latins «cawa sorix» qui signifie «chouette-souris». Le mot a été déformé par les Romains en «calva sorix» qui lui signifie bien chauve-souris."
+  - Q: "V ou F: en Russie, depuis plus de 100 ans, 1 président sur 2 est chauve ?"
+    A: "Vrai. Depuis 1917, un président chauve succède à un président chevelu et réciproquement."
+  - Q: "V ou F: Gérard Jugnot va jouer dans le prochain Marvel, «Les Gardiens de la Calvitie » ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 15
+  menu: "Menu Tchao."
+  questions:
+  - Q: "V ou F: à la base, «Tchao» veut dire «Je suis votre esclave»."
+    A: "Vrai. Le mot tire son origine du vénitien “s’ciao” (ou «s’ciavo») qui veut dire «esclave »."
+  - Q: "Si je dis à un ami acteur, «C'est ton Tchao Pantin à toi». Qu'est-ce que cela signifie ?"
+    A: "Que c'est un rôle à contre-emploi."
+  - Q: "V ou F: en Mai 2020, plusieurs mosquées de la ville d'Izmir en Turquie ont été piratées et ont diffusé «Bella Ciao» à la place de l'appel à la prière ?"
+    A: "Vrai."
+  - Q: "Et enfin, depuis la série Netflix “la Casa de Papel”, par combien d'artistes la chanson “Bella Ciao” a-t-elle été reprise (à 6 milliards près) ?"
+    A: "Impossible à compter et c'était pour zéro Miam."
+
+- id: 16
+  menu: "Menu Paillette."
+  questions:
+  - Q: "Un projet d’eau de luxe a été créé par Ed Kean, qui prévoit d'extraire une eau vierge de toute pollution. Savez-vous d'où compte-t-il extraire cette eau si pure ?"
+    A: "Des Icebergs. Comme si la fonte des glaces ne suffisait pas. Bravo à toi Ed."
+  - Q: "V ou F: les Allemands ont tenté un projet complètement opposé dans les années 40. Ils ont tenté de faire de L'eau Lowcost ?"
+    A: "C'est faux et minable. C'était pour zéro Miam."
+  - Q: "Pouvez-vous me citer 2 plats de luxe qui étaient considérés comme une nourriture de pauvre dans le passé ?"
+    A: "Les huîtres, le homard, la truffe..."
+  - Q: "V ou F: la marque de stylo de luxe “Mont Blanc” n'est pas du tout Française et s'appelle comme ça juste pour faire chic ?"
+    A: "Vrai, c'est une marque allemande."
+
+- id: 17
+  menu: "Menu En taule,"
+  questions:
+  - Q: "Quelle série a été interdite dans plus d'une dizaine de prisons aux USA ?"
+    A: "Prison Break. La série est toujours interdite dans 13 prisons aux États-Unis, car elle révèle des méthodes pour s'évader de prison."
+  - Q: "Jarrett Adams, condamné à tort à 28 ans de prison a fait, grâce à la bi- bliothèque de la prison, quelque chose qui l'a sauvé. Quoi selon vous ?"
+    A: "Il a étudié le droit, a plaidé sa propre cause devant le juge et s'est fait acquitter."
+  - Q: "V ou F: pour torturer Saddam Hussein en prison, l'armée américaine l'obligeait à regarder South Park, le film ?"
+    A: "D'après les deux créateurs de la série, Trey Parker et Matt Stone, c'est vrai."
+  - Q: "V ou F: pendant la 2% guerre mondiale, pour torturer les prisonniers allemands, on les obligeait à regarder «La vérité si je mens 2» ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 18
+  menu: "Menu Geek."
+  questions:
+  - Q: "Dans quelle langue le mot geek trouve-t-il son origine ?"
+    A: "De l’ancien allemand. Un «Geck» désignait une espèce de fou en marge de la société."
+  - Q: "D'après vous, en 2017, sur 53% des Français qui déclarent jouer aux jeux vidéo, combien d’entre eux sont des femmes ? À 10% près."
+    A: "47%, presque la moitié !"
+  - Q: "V ou F: en Corée du Sud, si vous trichez ou créez des outils de triches pour un jeu vidéo, vous risquerez 5 ans de prison ?"
+    A: "Vrai. Ainsi qu’une amende de 50 millions de wons (environ 40000 euros)."
+  - Q: "V ou F: les créateurs de Mario se sont excusés du manque de crédibilité de leur personnage car c'est un plombier à qui on ne voit jamais la raie ?"
+    A: "Faux. Et c'était pour zéro Miam."
+
+- id: 19
+  menu: "Menu Achipé Achopé"
+  questions:
+  - Q: "Dans quel pays a été diffusée la 1° émission dédiée à la culture Hip Hop en 1984 ?"
+    A: "En France. Elle s'appelait H.I.P. H.0.P et était présentée par Sidney sur TF1."
+  - Q: "V ou F: la danse hip-hop, le «smurf» vient de SMURF, le nom des Schtroumfs en anglais ?"
+    A: "Vrai."
+  - Q: "Un Miam de plus si vous me donnez au moins 3 disciplines du «mouvement hip-hop»."
+    A: "Le Emceeing, le DJaying, la danse, le rap (et le beatboxing), le graffiti, break dancing, beatmaking,"
+  - Q: "V ou F: le nom du groupe NTM signifie «Nique ton Miam» ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 20
+  menu: "Menu Séries TV, un Menu à Binge Miamer."
+  questions:
+  - Q: "La série Black Mirror n'a pas choisi son nom par hasard. Connaissez-vous sa signification ?"
+    A: "Lorsque les ordinateurs, tablettes ou smartphones sont éteints, on voit notre reflet sur l'écran noir, comme un miroir noir."
+  - Q: "D'après vous, qu'est-ce qui a coûté le plus cher ? La saison 6 de Game Of Thrones ou la saison 9 de Friends ?"
+    A: "La saison 9 de Friends pour 168 millions de dollars contre un peu plus de 100 millions pour Game Of Thrones."
+  - Q: "Juan Catalan a été figurant dans la série HBO «Larry et son nombril», et ça lui a sauvé la vie. Pourquoi ?"
+    A: "Il a été accusé d'un meurtre qu'il n'avait pas commis, et son avocat a pu prouver son innocence grâce à la série où il apparaissait en arrière-plan."
+  - Q: "V ou F: depuis qu'il a regardé “Orange Is The New Black”, Trump est persuadé d'être noir ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 21
+  menu: "Menu Hyperglycémie."
+  questions:
+  - Q: "D'après vous, vous grossirez moins si vous vous enfilez une tablette de chocolat d'un coup ou si vous espacez sa dégustation sur plusieurs jours ?"
+    A: "Vous grossirez moins en la défonçant d'un coup."
+  - Q: "V ou F: le chocolat noir ne cause pas de caries ?"
+    A: "Vrai. Le chocolat noir protège les dents contre les caries car il est riche en cacao."
+  - Q: "Dans le film Psychose, quelle sucrerie Hitchcock utilisa pour imiter le sang dans la scène culte de la douche ?"
+    A: "Du chocolat liquide. Il trouvait la texture plus réaliste que du ketchup ou du faux sang."
+  - Q: "Quelle phrase sortie d'une pub Milka est tombée dans le langage courant comme une manière d'exprimer ironiquement qu'on ne croit pas quelqu'un ?"
+    A: "«Et la marmotte elle met le chocolat dans le papier d'alu»."
+
+- id: 22
+  menu: "Menu Bien élevé."
+  questions:
+  - Q: "Selon les règles de politesse, que faut-il dire lorsque quelqu'un éternue ?"
+    A: "Rien. Dire ‘à vos souhaits” à une personne qui éternue est une façon détournée de lui faire remarquer qu’elle nous a importuné en faisant ce bruit."
+  - Q: "À l'origine, mettre sa main devant la bouche pour bâiller n'était pas un signe de politesse, cette pratique vient du Moyen Âge et avait un but récis, lequel ?"
+    A: "Empêcher le diable d'entrer en nous."
+  - Q: "En Russie, d'après vous, que ne faut-il pas faire lorsque l'on dit bonjour à un inconnu ?!"
+    A: "Sourire, En Russie, sourire à un inconnu s'apparente à de l'hypocrisie, et sera interprété négativement de la part de l'inconnu."
+  - Q: "Et enfin, V ou F la peur des excès de formule de politesse s'appelle la StéphaneBernophobie ?"
+    A: "Faux. Et c'était pour zéro Miam."
+
+- id: 23
+  menu: "Menu Recyclé."
+  questions:
+  - Q: "Que font certaines araignées au lieu de jeter leur toile, et c'est vraiment économe de leur part ?"
+    A: "Elles les mangent."
+  - Q: "V ou F: pour promouvoir des mouchoirs recyclés, la société Kleenex s'est associé avec le site Pornhub ?"
+    A: "Vrai. Pour promouvoir le produit, Pornhub offrait un mois premium gratuit à chaque acheteur."
+  - Q: "À Pékin, pour favoriser le recyclage, il est possible de payer son ticket de métro avec un objet recyclable, lequel d'après vous ?"
+    A: "Des bouteilles en plastique. |! faut 20 bouteilles pour avoir un ticket,"
+  - Q: "V ou F: pour avoir fait trop de chirurgie plastique, Mickey Rourke devra, à sa mort, être enterré dans une poubelle jaune ?"
+    A: "Faux. Mais c'était pour zéro Miam."
+
+- id: 24
+  menu: "Menu Addict."
+  questions:
+  - Q: "Qu'est-ce que l’oniomanie ?"
+    A: "C'est être atteint de fièvre acheteuse, acheter de façon compulsive."
+  - Q: "V ou F: la bronzomanie est l'addiction au bronzage ?"
+    A: "Vrai. Ça s'appelle aussi la tanorexie ou le tanoholisme. Ce sont les personnes qui veulent être bronzées toute l'année."
+  - Q: "Comment appelle-t-on le fait de visionner les épisodes d'une série les uns derrière les autres sans pouvoir s'arrêter ?"
+    A: "Le binge-watching. Reconnaissable à sa phrase «allez un dernier et j'arrête»."
+  - Q: "V ou F: la saison 2 de Burger Quiz est tellement intense que des fans l'ont binge-watchée en une nuit ?"
+    A: "Faux. Il y a 40 épisodes de 40 minutes en moyenne dans la saison 2 soit environ 26 heures, trop long pour une nuit. C'était pour zéro Miam."
+
+- id: 25
+  menu: "Menu Prévisible."
+  questions:
+  - Q: "Quel est le mot de passe le plus prévisible sur internet en 2017 ?"
+    A: "« 123456 » était le mot de passe le plus piraté. « Password » arrive en 2."
+  - Q: "À votre avis, que vais-je faire dans 30s environ ?"
+    A: "Je vais continuer à vous poser des questions. Bravo, 1 Miam pour vous."
+  - Q: "Comment s'appelait le poulpe qui prédisait les résultats de l'Allemagne à l'Euro 2008 et à la Coupe du Monde 2010 ?"
+    A: "Il s'appelait Paul le Poulpe, Sur 14 prédictions au total, 12 se sont révélées exactes, dont toutes celles émises au cours de la Coupe du monde 2010."
+  - Q: "V ou F: Paul le Poulpe se fait maintenant appeler Mr et travaille sur Canal+ ?"
+    A: "Faux, aucun lien. Le célèbre céphalopode nous a hélas quitté le 26 octobre 2010."
+
+- id: 26
+  menu: "Menu Russe."
+  questions:
+  - Q: "V ou F: avant 2011 en Russie toutes les boissons en dessous de 10° n'étaient pas considérées comme de l'alcool ?"
+    A: "Vrai. Les enfants pouvaient donc en acheter."
+  - Q: "V ou F: le mot Vodka se traduit par «eau mignonne » ?"
+    A: "Vrai. Voda = eau et Ka est hypocoristique comme «-ette » en français. Fillette, maisonnette… ça sert à rendre des mots plus affectueux, plus enfantins."
+  - Q: ". F, Gorbatchev a joué dans une pub pour Pizza Hut ?"
+    A: "Vrai."
+  - Q: "Le F Meme Poutine a joué dans une pub pour le magazine “Têtu” 7"
+    A: "Faux."
+
+- id: 27
+  menu: "Menu avec des amis pareils, on retrouve espoir en la vie."
+  questions:
+  - Q: "Même quand tout le monde avait lâché Georges Lucas, un seul de ses amis croyait dur comme fer au succès de la Guerre des Étoiles. Lequel ?"
+    A: "Steven Spielberg."
+  - Q: "De quelle série vient le terme «Friendzone» cet espace obscur et mal défini qui nous empêcherait de coucher avec un où une amie ?"
+    A: "«Friends»."
+  - Q: "V ou F: les acteurs principaux du Seigneur des Anneaux sont tellement amis qu'ils se sont tous fait un tatouage elfique pour sceller leur amitié à vie ?"
+    A: "Vrai."
+  - Q: "V ou F: pour sceller leur amitié, les acteurs de Aquaman se sont tous fait tatouer un filet de cabillaud ?"
+    A: "Faux. C'était une limande. Pour zéro Miam."
+
+- id: 28
+  menu: "Menu avec des amis pareils, qui a besoin d’ennemis ?"
+  questions:
+  - Q: "Quel meilleur ami de Jacques Chirac l'a trahi au dernier moment en se ralliant à Balladur, favori à l'époque pour la présidentielle ?"
+    A: "Nicolas Sarkozy."
+  - Q: "Quel meilleur ami de Valéry Giscard d'Estaing l'a trahi au dernier moment en militant en secret pour la victoire de Mitterrand en 81 ?"
+    A: "Jacques Chirac."
+  - Q: "Qui a déclaré, se sentant trahi par sa fille : «Elle ne pourra rompre ses liens avec moi qu'en se Suicidant »."
+    A: "Jean-Marie Le Pen qui pèche parfois par excès."
+  - Q: "V ou F: il n'ya pas plus de trahison en politique qu'ailleurs ?"
+    A: "Comme vous voulez mais c'est pour zéro Miam."
+
+- id: 29
+  menu: "Menu pour les Lovers."
+  questions:
+  - Q: "Citez-moi 3 films avec «Love» dans le titre."
+    A: "«Shakespeare in love», «Love Actually», «1 love you Phillip Morris », «Mektoub My Love : canto uno», «PS. : | Love You», «From Paris with Love»..."
+  - Q: "Que se passe-t-il physiologiquement, lorsque 2 amoureux se regardent dans les yeux pendant 3 minutes ?"
+    A: "Leurs rythmes cardiaques se synchronisent.…"
+  - Q: "V ou F: un câlin, au sens de «se prendre dans les bras», peut faire passer une migraine ?"
+    A: "Hé bien c’est vrai. Comme quoi l'excuse de la migraine n'est pas très bien trouvée."
+  - Q: "Et enfin, V ou F: grâce à ça les frotteurs de la ligne 13 n'ont jamais eu besoin de prendre un Doliprane ?"
+    A: "Faux. Mais c'était pour zéro Miam."
+
+- id: 30
+  menu: "Menu pour les Haters."
+  questions:
+  - Q: "Quel est le film dont le personnage principal porte le tatouage «Love» sur la main droite, et «Hate» sur la main gauche ?"
+    A: "«La nuit du chasseur», de Charles Laughton, avec Robert Mitchum, sorti en 1955..."
+  - Q: "Quel film culte s'appelait à l'origine «Droit de Cité» ?"
+    A: "C’est le titre de travail de «la Haine», plus facile pour obtenir les autorisations de tournage."
+  - Q: "Quelle est la particularité de l'application de dating «Hater » ?"
+    A: "Elle permet aux gens de se retrouver sur les choses qu'ils détestent."
+  - Q: "V ou F: Laurent Wauquiez et Marine Le Pen ont matchés dessus la semaine dernière ?"
+    A: "Faux. Mais c'était pour zéro Miam."
+
+- id: 31
+  menu: "Menu de Rêves."
+  questions:
+  - Q: "Peut-on croiser, dans ses rêves, des gens qu'on n'a jamais vus ?"
+    A: "Non. On ne rêve que de visages déjà croisés. Le cerveau n'invente pas de visages, mais il en retient beaucoup."
+  - Q: "V ou F: personne ne rêve de la même chose ?"
+    A: "Faux, on rêve tous plus ou moins des mêmes thèmes : voler, tomber, arriver à poil à l'école."
+  - Q: "Peut-on rêver en noir et blanc ?"
+    A: "Oui, il y a même 12% de la population qui ne rêve qu'en noir et blanc."
+  - Q: "V ou F: on peut rêver en 4DX Dolby Surround ?"
+    A: "Faux. Mais c'était pour zéro Miam."
+
+- id: 32
+  menu: "Menu Parlez-moi de votre mère."
+  questions:
+  - Q: "Parlez-moi de votre mère."
+    A: "Merci, vous gagnez 1 Miam pour avoir fait le premier pas vers la guérison."
+  - Q: "Qu'appelle-t-on la «psychologie de la queue» ?"
+    A: "L'étude des files d'attente. Par exemple, les parcs Disney surestiment délibérément les temps d'accès aux attractions indiqués à l'entrée pour que le client soit au final satisfait d'avoir moins attendu que ce qui était prévu."
+  - Q: "V ou F:. en psychologie il existe «l'effet Julien Lepers» ? )"
+    A: "Vrai, Il décrit le fait qu'une personne qui interroge quelqu'un au sujet de sa culture est toujours jugée le plus cultivé par les observateurs, alors qu'évidemment, le contexte lui a été favorable, puisque c'est lui qui pose les questions…"
+  - Q: "V ou F: l'effet Thierry Beccaro est le fait de vivre avec la peur de se réveiller un matin avec les boules noires ?"
+    A: "Faux. Pour zéro Miam."
+
+- id: 33
+  menu: "Menu Bio(Pic)."
+  questions:
+  - Q: "Forrest Fenn, collectionneur d'art et archéologue amateur, a caché des indices dans son autobiographie. Pourquoi ?"
+    A: "Pour que ses lecteurs puissent retrouver un trésor d'une valeur d'1 million de dollars. Le trésor a finalement été retrouvé en juin 2020, 11 ans après."
+  - Q: "Le film «Gandhi», qui étrangement parle de la vie de Gandhi, détient un record. Lequel ? (C'est plus particulièrement la scène des funérailles qui détient ce record...)"
+    A: "Le record du nombre de figurants : 300 000. Pour une scène qui ne dure que 125 secondes."
+  - Q: "Citez au moins 5 Biopics dont on n'a pas encore parlé dans ce menu."
+    A: "«Bohemian Rhapsody», «First Man», «Imitation Game», «Une merveilleuse histoire du temps», «The Social Network», «Le Discours d'un roi», «La Môme», «Yves Saint Laurent», «Ray», «Cloclo», «L'ennemi Public n°1»..."
+  - Q: "Vour si une personnalité ne veut pas que l'on fasse un film sur sa vie, elle doit se faire prescrire des Antibiopics, matin, midi et soir ?"
+    A: "Faux. (Zéro Miam)"
+
+- id: 34
+  menu: "Menu C’est de la Bombe !"
+  questions:
+  - Q: "V ou F: une bombe nucléaire est déjà tombée sur New York mais n'a pas explosé ?"
+    A: "Vrai. C'était en 1961, à cause d'un souci technique un avion a largué deux bombes nucléaires sur la ville qui n'explosèrent heureusement pas."
+  - Q: "Quel président avait oublié les codes nucléaires dans sa poche de veste qui venait de partir au pressing ?"
+    A: "François Mitterrand. Heureusement, il s’en était rendu compte et avait envoyé deux motards sur place pour récupérer les codes."
+  - Q: "V ou F: une ogive nucléaire a déjà traversé le Sahara en 2 chevaux ?"
+    A: "Vrai. C'était lors du Putsch des généraux en 1961."
+  - Q: "V ou F: chauffée par cette expérience, une autre ogive nucléaire à voulu tenter le Paris Dakar l'année suivante ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 35
+  menu: "Menu Tom Cruise."
+  questions:
+  - Q: "V ou F: pour une scène de Mission Impossible, Tom Cruise a appris à conduire un hélicoptère et a effectué un piqué dans le vide au bord d’une falaise ?"
+    A: "Vrai, Il lui a fallu trois mois, à raison de 8h par jour, pour se qualifier."
+  - Q: "V ou F: pour une scène de Mission Impossible, Tom Cruise est resté accroché à un Airbus A400M à plus de 300 km/h ?"
+    A: "Vrai, Et ils ont tourné la scène 8 fois. Avec des câbles de sécurité, mais quand même, il ne s’est pas dégonflé."
+  - Q: "V ou F: pour une scène de Mission Impossible, Tom Cruise a sauté d'un avion à 7600m d'altitude en ne dépliant son parachute que seulement 600m du sol pour ne pas se faire repérer ?"
+    A: "Vrai."
+  - Q: "V ou F: sur le tournage de Mission Impossible, Tom s'est servi lui-mêm un café court sans sucre ?"
+    A: "Faux, il avait un assistant pour ça. Zéro Miam."
+
+- id: 36
+  menu: "Menu Beaux Gosses."
+  questions:
+  - Q: "Qui a été élu l'homme le plus sexy du siècle en 1999 ?"
+    A: "Sean Connery."
+  - Q: "Quelle injustice frappe les mannequins hommes ?"
+    A: "C'est l’un des rares domaines où les hommes sont beaucoup moins bien payés que les femmes."
+  - Q: "Qui était le tenant du titre de “l'Homme le plus sexy du monde” en 2019 ?"
+    A: "John Legend."
+  - Q: "V ou F: je suis tellement beau Fr que je pourrais déverrouiller le portable de Brad Pitt grâce à la reconnaissance faciale ?"
+    A: "Faux, parce qu'il a un iPhone 2. C'était pour zéro Miam."
+
+- id: 37
+  menu: "Bat-Menu."
+  questions:
+  - Q: "V ou F: Superman bosse pour Batman ?"
+    A: "Vrai. En effet, le «Daily Planet» appartient à la Wayne Corporation, la société de Bruce Wayne alias Batman."
+  - Q: "Quelle est la particularité de Jean-Pierre Goy, le cascadeur qui a conduit la moto de Batman dans The Dark Night ?"
+    A: "Ilest le seul à savoir manier la «Batpod», un bolide de 500 kg."
+  - Q: "Quel acteur, connu mondialement pour un seul rôle, double le Joker dans la plupart des dessins animés Batman ?"
+    A: "Mark Hamill alias Luke Skywalker."
+  - Q: "V ou F: un peu tendu, Batman a déjà pété la gueule à un jus d'orange Joker ?"
+    A: "C'était pour zéro Miam."
+
+- id: 38
+  menu: "Menu Narcoleptique."
+  questions:
+  - Q: "Napflix est un site espagnol parodiant Netflix, qui vous aide à vous endormir. Quel est le genre de contenu que l'on peut y trouver ?"
+    A: "Oui, des programmes jugés soporifiques. Des concours de pétanque, un cours de physique quantique, une messe en latin, etc."
+  - Q: "Bonne où mauvaise idée de compter les moutons pour s'endormir ?"
+    A: "Mauvaise idée, Une étude de chercheurs de l'Université d'Oxford a démontré que compter les moutons excite votre pensée."
+  - Q: "Qu'est-ce que doit impérativement faire le cerveau du dauphin lorsqu'il dort ?"
+    A: "Contrairement à l'homme: Il doit rester en partie éveillé car la respiration n'est pas un réflexe chez les dauphins, Du coup, un hémisphère de son cerveau dort pendant que l'autre reste actif."
+  - Q: "V ou F: Narcos est une série sur des mecs qui arrivent à faire des siestes après avoir pris de la coke ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 39
+  menu: "Menu Animation"
+  questions:
+  - Q: "D'après vous pourquoi de nombreux personnages de dessins animés n’ont que 4 doigts ?"
+    A: "Parce que ça coûte moins cher que 5 doigts."
+  - Q: "V ou F: Buzz l'Éclair tient son nom du deuxième homme qui a marché sur la lune et que personne ne connaissait avant «Toy Story» ?"
+    A: "Vrai. Il s'appelle Buzz Aldrin."
+  - Q: "De quel groupe de musique sont inspirés les 4 vautours du «Livre de la jungle» ?"
+    A: "Les Beatles."
+  - Q: "V ou F: c'est en lisant les premiers mangas que Walt Disney a eu l'idée de mettre de gros yeux ronds à Bambi ?"
+    A: "Faux. C'est l'inverse. L'un des précurseurs des mangas s’est inspiré de Bambi, entre autres, pour dessiner ses personnages."
+
+- id: 40
+  menu: "Menu Burger Studio."
+  questions:
+  - Q: "En quoi consiste la méthode «Actors Studio» ?"
+    A: "L'objectif n’est pas de jouer mais d'être… être vrai et non plus imiter, singer ou faire semblant."
+  - Q: "V ou F: pour «Le Dernier des Mohicans», Daniel Day Lewis est parti vivre en forêt pendant des mois ?"
+    A: "Vrai. Il chassait et pêchait lui-même. ll a appris à dépecer des animaux, à construire des canoës, à se battre avec un tomahawk, et à charger un pistolet à poudre en pleine course."
+  - Q: "Qu'a fait Robert De Niro pour se préparer à son rôle dans Taxi Driver ?"
+    A: "Il est devenu chauffeur de taxi pendant 1 mois, et aura même obtenu sa licence."
+  - Q: "V ou F: pour préparer son rôle de Tarzan, l'acteur Alexander Skars- gârd est resté accroché à Liane Foly pendant 2 semaines ?"
+    A: "Faux."
+
+- id: 41
+  menu: "Menu Chat, cette petite boule de poils si attachante."
+  questions:
+  - Q: "V ou F: il existe des chats sosies d'Hitler ?"
+    A: "Vrai, il y a même un site dédié : Cats That Look Like Hitler."
+  - Q: "À votre avis, le chat qui a survécu à la plus haute chute, est tombé de combien d'étages (à 5 étages près) ?"
+    A: "32 étages, soit 137m."
+  - Q: "V ou F: les chats peuvent voir dans l'obscurité totale ?"
+    A: "Faux, les chats ne voient pas dans l'obscurité totale."
+  - Q: "Et enfin, V ou F: Hervé Mathoux chie dans une litière ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 42
+  menu: "Menu Rat, cette petite boule de poils si répugnante."
+  questions:
+  - Q: "Quelle faculté le rat partage-t-il avec l'homme ?"
+    A: "Le rat rit, ce qui est bizarre à dire, ce n’est pas une contrepèterie, mais c'est vrai. Si on le chatouille, il rigole de bon cœur."
+  - Q: "V ou F: il y a deux fois plus de rats que d'habitants à Paris intra-muros ?"
+    A: "Vrai, on estime qu'il y 4 millions de rats, soit quasiment 2 par habitant."
+  - Q: "Pourquoi utilise-t-on des rats dans les laboratoires ?"
+    A: "Parce qu'ils partagent 90% de leur génome avec celui de l’homme."
+  - Q: "Pourquoi dit-on que le Grand Miam est un gros rat ?"
+    A: "Parce qu'il ne veut jamais lâcher ses Miam, d'ailleurs cette question était pour zéro Miam."
+
+- id: 43
+  menu: "Menu Pas de nouvelle, bonne nouvelle."
+  questions:
+  - Q: "V ou F: quand on dit «Pas de nouvelle, bonne nouvelle» il y a quand même une chance que la personne qui ne donne pas de nouvelle ait été kidnappée ou même tuée ?"
+    A: "Tout à fait vrai. Vous voulez qu'on fasse une pause pour passer des coups de fils ?"
+  - Q: "V ou F: le Ara de Sp, héros du film Rio, est officiellement disparu à l'état sauvage ?"
+    A: "Vrai. Merci la déforestation, sans qui rien n'aurait été possible."
+  - Q: "V ou F: il existe une scène dans Stars Wars, aujourd’ hui disparue, ou l'Empereur Palpatine est joué par une femme ?"
+    A: "Vrai. Pour une scène de l'Empire Contre-Attaque. C'est Marjorie Eaton, âgée de 70 ans, qui a joué la seule scène où l’on voit l'Empereur Palpatine."
+  - Q: "V ou F: pour terminer ce menu on avait une putain de vanne mais elle a disparu ?"
+    A: "Vrai. C'était donc pour zéro Miam. Ha non je l'ai retrouvée ! Vous connaissez la blague du commissaire ? Non ? Ben mets-moi un doigt dans le cul, tu verras comme il serre."
+
+- id: 44
+  menu: "Menu Glandes Lacrymales."
+  questions:
+  - Q: "V ou F: les hommes pleurent plus que les femmes ?"
+    A: "Faux. Une étude suggère que les femmes pleurent 2 à 5 fois par mois, tandis ge les hommes pleurent 0,5 fois par mois (ce qui n'est pas évident à réaliser)."
+  - Q: "Qu'est-ce qui se passe chez un homme, lorsqu'il voit une femme pleurer ?"
+    A: "Ça fait baisser son taux de testostérone. En gros, cela annule le désir sexuel qu'il pourrait avoir pour elle."
+  - Q: "V ou F: les larmes de crocodile sont un mythe ?"
+    A: "Pas du tout, les crocodiles chialent un maximum. Mais pas parce qu'ils sont tristes. Quand le crocodile bâille ou ouvre grand la bouche, il appuie sur ses glandes lacrymales et donc, verse des larmes."
+  - Q: "V ou F: les crocodiles chialent surtout parce qu'ils savent qu'ils vont finir en sac porté par Nabilla ?"
+    A: "Faux. Mais c'était pour zéro Miam."
+
+- id: 45
+  menu: "Menu Zygomatiques du monde."
+  questions:
+  - Q: "Combien rit-on par jour en moyenne ?"
+    A: "5 à 6 min."
+  - Q: "V ou F: Alexa, l'assistant vocal d'Amazon, rit toute seule ?"
+    A: "Vrai. Victime d'un bug, elle se met à rire pour rien et à n'importe quel moment et c’est carrément flippant. Bien fait, fallait pas l'acheter."
+  - Q: "V ou F: alors que tous les experts le condamnaient au fauteuil roulant à vie, un malade s'est soigné en regardant en boucle des comédies ?"
+    A: "Vrai. Il s'agit de Norman Cousins qui a d’ailleurs écrit un livre pour raconter son histoire «La volonté de Guérir»,"
+  - Q: "V ou F: alors que tous les experts lui prédisaient de beaux jours devant lui, un malade s'est euthanasié en regardant en boucle Les Marseillais à Marbella ?"
+    A: "Faux. Mais c'était pour zéro Miam."
+
+- id: 46
+  menu: "Menu «Seconde Guerre mondiale »."
+  questions:
+  - Q: "V ou F: Hitler a été élu «Homme de l’année» par le magazine Time ?"
+    A: "Oui, en 1938, un an avant la déclaration de guerre."
+  - Q: "Quelle conséquence a eu la Seconde Guerre mondiale sur la cérémonie des Oscars ?"
+    A: "En raison de la raréfaction du métal, les Oscars distribués durant cette période étaient en plâtre peint."
+  - Q: "V ou F:un soldat japonais a capitulé 29 ans après la fin de la seconde Guerre mondiale ?"
+    A: "Vrai. Il s'appelait Hiro Onoda. Cet officier de renseignement (bien renseigné !) a vécu caché dans la jungle, aux Philippines, refusant de croire à la fin de la guerre."
+  - Q: "V ou F: ce soldat est actuellement en pleine guerre du Vietnam ?"
+    A: "Faux et c'était pour zéro Miam."
+
+- id: 47
+  menu: "Menu Facebook, cet ami qui ne vous veut que du bien."
+  questions:
+  - Q: "Que veulent dire les lettres GAFAM ?"
+    A: "Google- La -Facebook-Amazon-Microsoft, également appelés «les Big Five»."
+  - Q: "Facebook fait exprès de mettre des petits temps de chargements pour certaines demandes, comme la procédure de sécurisation du compte, alors qu'ils pourraient effectuer la demande en une fraction de seconde. Pourquoi ?"
+    A: "Pour donner confiance aux utilisateurs, Si ça met un peu de temps, ça sous-entend que la demande est traitée avec attention, pas à la va-vite,"
+  - Q: "Sur l'ancien Logo de Facebook, appelé jadis «TheFacebook», on pou- vait reconnaître le visage d'un acteur très célèbre. Qui d'après vous ?"
+    A: "Al Pacino."
+  - Q: "V ou F: Facebook conserve certaines de vos informations confidentielles comme des conversations et des photos mais le respect de votre vie privé est leur priorité ?"
+    A: "C'était pour zéro Miam."
+
+- id: 48
+  menu: "Menu Weed."
+  questions:
+  - Q: "Tout le monde dit «c'est le kif», «je kiffe», «t'es un kiffeur»… Mais V ou F, le kif, c'est avant tout de la weed ?"
+    A: "Vrai. En arabe, Kif veut dire haschich."
+  - Q: "V ou F: la Canebière vient du mot cannabis ?"
+    A: "Vrai. Au 17ieme siècle, Marseille et la Canebière étaient un centre de commerce du canebe (mot occitan issu du latin cannabis) : signifiant ‘chanvre’. Ce chanvre sans psychotrope était destiné à la fabrication des cordages (pas des spliffs)."
+  - Q: "Qu'est-il interdit de fumer dans les coffee shop en Hollande ?"
+    A: "Du tabac. La consommation de marijuana est autorisée mais il faut la fumer pure, le tabac est interdit."
+  - Q: "V ou F: le héros de dessin animé préféré de Snoop Dog est Wee-Weed ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 49
+  menu: "Menu Karaoké."
+  questions:
+  - Q: "Daisuke Inoue, patron de bar, aurait inventé le Karaoké en 1971. votre avis, qu'est-ce qui a pu lui donner l'idée ?"
+    A: "Il devait assurer l'animation musicale d'un congrès. Il n'a pas pu y aller et à la place, il a proposé une machine qui permet au public d'écouter des accompagnements et de chanter en direct."
+  - Q: "V ou F: il existe depuis 2003, en Finlande, des championnats du monde de karaoké ?"
+    A: "Oui parfaitement. Bientôt une discipline olympique éventuellement ?"
+  - Q: "V ou F: karaoké signifie «mal chanter bourré» en japonais ?"
+    A: "Faux. Ça veut dire «orchestre vide», mais c'était pour zéro Miam."
+  - Q: "V ou F: David Pujadas a déjà fait du Karaoké avec Michel Houellebecq et c'était super ?"
+    A: "Vrai, C'était au mariage de Houellebecq et tous deux en gardent un souvenir ému. Ils ont chanté du Johnny «que je t'aime»."
+
+- id: 50
+  menu: "Menu Pizza."
+  questions:
+  - Q: "V ou F: on utilisait déjà le mot «pizza» y'a plus de 1000 ans ?"
+    A: "Vrai, On trouve ce mot dans un texte latin datant de 997. Il voulait alors dire «galette »."
+  - Q: "V ou F: la pizza est classée au patrimoine immatériel de l'humanité de l'UNESCO ?"
+    A: "Oui depuis 2017 !"
+  - Q: "V ou F: on peut commander des pizzas partout, jusque dans l'espace ?"
+    A: "Vrai. Pizza Hut a été la première société à livrer une pizza en fusée à l’astronaute Yuri Usachov…"
+  - Q: "V ou F: ceux qui commandent de l'ananas sur la pizza sont les mêmes que les adultes qui roulent en trottinette ?"
+    A: "Sans doute, mais c'était pour zéro Miam."
+
+- id: 51
+  menu: "Menu aux Frontières de l’Infini."
+  questions:
+  - Q: "En VF quelle est la devise de Buzz l'éclair, le héros de «Toy Story» ?"
+    A: "«Vers l'infini et au-delà !»"
+  - Q: "V ou F: il existe un morceau de musique qui dure 1000 ans ?"
+    A: "Vrai, Il s'appelle «Long player» et a commencé à être diffusé le er janvier 2000, Il doit se terminer le 31 décembre 2999 avant de recommencer."
+  - Q: "V ou F: l'anglais John Wallis a imposé le 8 à l'envers comme symbole de l'infini parce qu'il est né le 8 Août 1888 ?"
+    A: "Faux. Il est né le 23 novembre 1616. Pour le 8 à l'envers, le mathématicien s’est inspiré d'un lemniscate."
+  - Q: "Etenfin, V ou F avec cette dernière question, ce menu arrive à la frontière du fini ?"
+    A: "Vrai et c'était pour zéro Miam."
+
+- id: 52
+  menu: "Menu Belle Époque que cette Belle Époque."
+  questions:
+  - Q: "V ou F: à «la Belle Époque», les prostituées étaient surnommées «les allumeuses» car elles sortaient en même temps que les allumeurs de réverbères ?"
+    A: "Vrai."
+  - Q: "Pourquoi en Grèce, à la belle époque de l'Antiquité, les petites bites étaient-elles mieux vues que les grosses ?"
+    A: "C'étaient les canons de beauté de l'époque. Petite bite c'était la classe, Pour les Grecs, un homme viril était un homme intelligent, contrôlé, capable de dépasser son animalité."
+  - Q: "V ou F: après avoir lu cette info, beaucoup d'hommes auraient aimé vivre dans la Grèce Antique ?"
+    A: "Vrai mais c'était pour zéro Miam."
+  - Q: "V ou F: à la belle époque où l'on pouvait encore fumer partout, ce sont les nazis qui ont lancé les premières campagnes antitabac ?"
+    A: "Vrai. Les nazis, toujours au taquet sur la santé publique, ont constaté que le tabac pouvait nuire à la reproduction aryenne."
+
+- id: 53
+  menu: "Menu Pas Piqué des Hannetons."
+  questions:
+  - Q: "À votre avis, dans l'expression «Pleurer comme une Madeleine», parle-t-on d'une pâtisserie ou d'une personne ?"
+    A: "D'une personne : Madeleine De Magdala (alias Marie-Madeleine) personnage biblique qui aurait pleuré aux pieds de Jésus en lui confessant ses pêchés."
+  - Q: "Quand on dit “on n'est pas sorti de l'auberge”, qu'entend-on donc par “auberge” sapristi ?"
+    A: "C'est de l’argot pour dire «Prison»,"
+  - Q: "V ou F: l'expression «Mettre la pâtée» tire son origine de la Bataille de Patay où les Français avaient mis la pâtée aux Anglais en 1429 ?"
+    A: "Vrai. Rien à voir avec le pâté,"
+  - Q: "V ou F: dans l'expression «Être le suppôt de Satan» on parle littéralement d'être dans le trou de balle du diable ?"
+    A: "Faux, Au XIII‘ siècle, suppôt qui le vassal ou le sujet de quelqu'un. C'était pour zéro Miam."
+
+- id: 54
+  menu: "Menu À bout de souffle."
+  questions:
+  - Q: "V ou F: un marathon a déjà été couru dans l'Espace ?"
+    A: "Vrai. Le marathon de Boston en 2007 a vu la « participation » de Sunita Williams depuis la Station Spatiale Internationale."
+  - Q: "Rosie Ruiz a triché durant le célèbre marathon de New York. De quelle façon, à votre avis ?"
+    A: "Elle emprunta le métro après 30 minutes de course et arriva 11ieme."
+  - Q: "Comment s'appelle le Triathlon constitué de 3,8 km à la nage suivis de 180 km à vélo et finir sur un marathon de 42 km ?"
+    A: "L'Iron Man. Les meilleurs le font en 8 heures."
+  - Q: "V ou F:. le Hulk est un Marathon qui se court énervé et en slip ?"
+    A: "Faux."
+
+- id: 55
+  menu: "Menu «Star Wars» ça marchera jamais."
+  questions:
+  - Q: "Qu'a fait Georges Lucas au moment de la sortie de Star Wars tellement il était persuadé que son film ne marcherait jamais ?"
+    A: "Il s'est barré à Hawaïl pour fuir la sortie du film."
+  - Q: "V ou F: après avoir vu le film pour la première fois, Brian De Palma a dit à Georges Lucas : «Qu'est-ce que c'est que cette merde ?» ?"
+    A: "Vrai. Personne n'était vraiment optimiste au départ."
+  - Q: "Quelle énorme erreur a commise la Century Fox tellement ils étaient fée que le film ne marcherait jamais ?"
+    A: "La Century Fox a lâché tous les droits de merchandising de la saga à George Lucas contre un renoncement de 500 000 dollars pour sa réalisation."
+  - Q: "V ou F: il existe une comptine pour enfant «Star Wars» intitulée «Savez-vous planter les Chewbacca» mais elle n'a pas marché ?"
+    A: "Faux, C'était pour zéro Miam,"
+
+- id: 56
+  menu: "Menu la vraie Guerre des Étoiles."
+  questions:
+  - Q: "Quel pays a envoyé le premier homme dans l'Espace ?"
+    A: "L'URSS, le 12 avril 1961, Premier vol humain dans l'espace par le cosmonaute Youri Gagarine, à bord de la fusée Vostok."
+  - Q: "4 ans avant, un animal avait été envoyé dans l'espace : lequel ?"
+    A: "Un chien, ou plus précisément une chienne, Laïka, envoyée par l'URSS à bord de l’engin spatial Spoutnik 2, le 3 novembre 1957."
+  - Q: "V ou F: quelques années après ils ont envoyé un crocodile dans l'espace lors de la mission Apollo Lacoste ?"
+    A: "Faux. C'était pour zéro Miam."
+  - Q: "V ou F: pour battre l'URSS dans la course spatiale, les États-Unis sont allés jusqu'à engager d'anciens nazis parce qu'ils étaient vachement balèzes en maths ?"
+    A: "Vrai, Wernher Von Braun, haut responsable de la NASA lors de la conquête de la lune, était un peu SS pendant la guerre. Ayant besoin de ses talents d'ingénieur, les américains ont été un peu indulgents avec son CV, disons…"
+
+- id: 57
+  menu: "Menu Tchernobyl, Terre sainte de la radioactivité."
+  questions:
+  - Q: "Malgré la forte radioactivité, de nombreux animaux ont réinvesti la zone autour de Tchernobyl. Pourquoi ?"
+    A: "Parce que l'homme n'y est pas,"
+  - Q: "V ou F: si vous le souhaitez, vous pouvez visiter la zone d'exclusion de Tchernobyl ?"
+    A: "Vrai, des agences de voyages vous organisent ça."
+  - Q: "D'ailleurs, ces agences de voyages ont vu leurs chiffres d'affaires bondir de 40% récemment. Pourquoi à votre avis ?"
+    A: "Grâce ou à cause de la série HBO «Chernobyl». L'agence «Tchernobyl Tour» propose même un circuit intitulé «HBO Tchernobyl series tour »."
+  - Q: "V ou F: la saison 2 de «Chernobyl» va s'appeler «Rouen» ?"
+    A: "Faux. Mais la Centrale Lubrizol à Rouen reste une visite pour les revenus plus modestes. C'était pour zéro Miam."
+
+- id: 58
+  menu: "Menu : Hommes, femmes, tout(es) pareil(les)"
+  questions:
+  - Q: "Comment s'appelle la pomme d'Adam des femmes ?"
+    A: "La pomme d'Adam. Elle est toute petite mais s'appelle pareil. C’est le cartilage thyroïde."
+  - Q: "Qui ale plus de poils ? L'homme ou la femme ?"
+    A: "Aucun des deux. Grâce à la testostérone, les poils des hommes sont plus longs et plus foncés mais les femmes en ont autant et sur les mêmes zones du corps."
+  - Q: "V ou F: on l'ignore trop souvent, mais un homme peut aussi allaiter ?"
+    A: "Vrai. C'est très très rare mais ça arrive, Théoriquement, il a ce qu'il faut mais généralement, la testostérone bloque la fabrication de lait."
+  - Q: "V ou F:un homme peut être mieux payé qu'une femme pour faire exactement le même travail ?"
+    A: "Faux. Non, quand même, non, ce serait injuste et absurde, ça se saurait."
+
+- id: 59
+  menu: "Menu Coupé au montage."
+  questions:
+  - Q: "Quel acteur, très apprécié de Steven Spielberg, a pourtant été coupé au montage dans E.T. ?"
+    A: "Harrison Ford, Il jouait le directeur de l'école d'Eliott."
+  - Q: "V ou F: Gilles Lellouche a été coupé au montage de Sherlock Holmes avec Robert Downey Jr et Jude Law ?"
+    A: "Vrai, Apparemment Guy Ritchie trouvait que les scènes tournées en France n'étaient pas nécessaires au film."
+  - Q: "V ou F: pour se venger, Gilles Lellouche a coupé Robert Downey Jr et Jude Law de son film «Le Grand bain» ?"
+    A: "Non, c'est faux. C'était pour zéro Miam,"
+  - Q: "Quel tennisman s'est fait couper au montage du film «Expendables 2» ?"
+    A: "Novak Djokovic."
+
+- id: 60
+  menu: "Menu Fruité"
+  questions:
+  - Q: "En quelle matière sont les étiquettes collées sur les fruits ?"
+    A: "En plastique. Il faut donc arrêter de les manger."
+  - Q: "Pourquoi certains végans refusent de manger des figues ?"
+    A: "Parce qu'on y trouve des restes de guêpes, qui, croyant pouvoir pondre dans le fruit, y meurent tragiquement mais contribuent à faire de la figue ce qu'elle est."
+  - Q: "Selon vous, l'avocat est un fruit qui possède un noyau où un pépin ?"
+    A: "Un pépin."
+  - Q: "Et enfin, V ou F, dans certains États des USA, les fruits de mer sont considérés comme des fruits ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 61
+  menu: "Menu Assez sympa"
+  questions:
+  - Q: "Quelle est la particularité d’une encre sympathique ?"
+    A: "Elle est invisible,"
+  - Q: "V ou F: dans un instrument, une corde sympathique entre en résonance par amitié avec les autres cordes ?"
+    A: "Vrai, Les cordes sympathiques sont appelées comme cela car elles entrent en vibrations par simple résonance, autrement dit par sympathie, avec les notes jouées."
+  - Q: "V ou F: tous les routiers sont sympas ?"
+    A: "Faux. Même si beaucoup le sont."
+  - Q: "V ou F: si je vous donne 1 Miam sur cette question à O Miam, je suis hyper sympa ?"
+    A: "Vrai mais c'était pour zéro Miam donc je ne peux pas vous donner de Miam. Désolé.e."
+
+- id: 62
+  menu: "Menu Élémentaire mon cher Watson"
+  questions:
+  - Q: "Quand l'auteur Arthur Conan Deus {ua son personnage Sherlock Holmes dans le magazine “The Strand”, il faillit tuer autre chose en même temps. Mais quoi ?"
+    A: "Le journal lui-même. En signe de protestation, 20 000 lecteurs se sont désabonnés."
+  - Q: "Il a existé un livre intitulé “Arsène Lupin contre Sherlock Holmes”. Qui a gagné ?"
+    A: "Arsène Lupin, le livre étant écrit par son créateur Maurice Leblanc. Conan Doyle, pas content et arguant de son droit d'auteur, fit changer le titre en “Arsène Lupin contre Herlock Sholmès”."
+  - Q: "V ou F: le 221B Baker Street, l'adresse de Sherlock Holmes, n'existe pas ?"
+    A: "Faux. Elle existe maintenant, Mais à l'époque de Conan Doyle, ce n'était pas le cas."
+  - Q: "Et enfin, VouE pour créer Sherlock Holmes, Conan Doyle s'est inspiré de “Basil Détective privé” ?"
+    A: "Faux. Et c'était pour zéro Miam."
+
+- id: 63
+  menu: "Menu Fin heureuse"
+  questions:
+  - Q: "Quelle expression anglaise est utilisée pour décrire la fin heureuse d'un film ou d’une histoire ?"
+    A: "Happy ending."
+  - Q: "Citez 3 films qui ne finissent pas avec une happy ending ?"
+    A: "“Million Dollar Baby” de Clint Eastwood, “Titanic” de James Came- ron, “Seven” de David Fincher, “La vie est belle” de Roberto Benigni, “into the Wild” de Sean Penn, “La passion du Christ” de Mel Gibson, “Le Grand Bleu” de Luc Besson..."
+  - Q: "V ou F: “Le Grand Bleu” de Luc Besson est sorti aux USA avec une fin heureuse ?"
+    A: "Vrai. Jacques remonte à la surface avec son copain dauphin."
+  - Q: "À votre avis, qui pratique le plus les happy ending ? Le cinéma américain ou les salons de massages spécialisés ?"
+    A: "C'était pour zéro Miam."
+
+- id: 64
+  menu: "Menu Fin tragique"
+  questions:
+  - Q: "V ou F: en Anglais, une fin malheureuse de film s'appelle une “ragic ending” ?"
+    A: "Faux."
+  - Q: "Quelle est la différence entre la fin du “Petit Chaperon Rouge” de Charles Perrault et celle des frère Grimm ?"
+    A: "Dans celle de Charles Perrault, le Petit Chaperon Rouge ne survit pas à l'attaque du grand méchant loup et sa grand-mère non plus."
+  - Q: "V ou F: Saint Valentin, le saint des amoureux est mort décapité ?"
+    A: "Vrai. Il mariait des chrétiens en cachette en plein Rome."
+  - Q: "V ou F: ce menu finit mal puisque c'est une question pour zéro Miam ?"
+    A: "Vrai. C'est pour zéro Miam."
+
+- id: 65
+  menu: "Menu Victor Hugo, #victug."
+  questions:
+  - Q: "V ou F: Victor Hugo n'était pas si populaire que ça de son vivant, et n'eut que 30 personnes à ses funérailles ?"
+    A: "Faux, archi faux. Il y avait 2 millions de personnes."
+  - Q: "Dans “Les Misérables”, Victor Hugo s'est autorisé à écrire une très longue phrase, Combien de mot contient-elle d’après vous ? À 100 mots près."
+    A: "823 mots. Bien joué Victor."
+  - Q: "Quel personnage de DC Comics Victor Hugo a-t-il inspiré avec son roman “L'homme qui rit” ?"
+    A: "Le Joker. Bob Kane, le créateur de Batman, a eu l'idée après avoir vu l'adaptation en film du roman de Victor Hugo."
+  - Q: "V ou F: selon plusieurs sources très fiables, ce serait le fantôme de Victor Hugo qui aurait mis le feu à Notre-Dame pour relancer les ventes de son bouquin ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 66
+  menu: "Menu Wesh Anderson !"
+  questions:
+  - Q: "V ou F: Wes Anderson était en colloc avec Owen Wilson quand ils étaient à l'université ?"
+    A: "Vrai."
+  - Q: "V ou F: les deux collocs ont simulé le cambriolage de leur propre appartement pour que le proprio répare leur fenêtre ?"
+    A: "Vrai. Ça n'a pas marché, mais ça leur a inspiré leur premier film “Bottle Rocket”,"
+  - Q: "V ou F: Bill Murray a payé de sa poche 25 000$ la location d'un hélicoptère pour le film “Rushmore” de Wes Anderson ?"
+    A: "Vrai. Alors que son cachet était de 9000$."
+  - Q: "V ou F: si vous ne savez pas qui est Wes Anderson, vous vous êtes bien fait chier pendant ce menu ?"
+    A: "Vrai. Mais maintenant vous n'avez plus d'excuse pour ne pas voir ses films, C'était pour zéro Miam."
+
+- id: 67
+  menu: "Menu Double Z."
+  questions:
+  - Q: "V ou F: Zinedine Zidane a déjà mis une droite à Marcel Desailly et lui a pété l’arcade ?"
+    A: "Vrai. Lors du match Marseille-Bordeaux en 1993,"
+  - Q: "V ou F: quand il jouait à la Juventus, il lui arrivait de sortir en ville pour jouer avec des gens dans la rue ?"
+    A: "Vrai, C'est son coéquipier Edgard Davis qui l'incitait à faire ça."
+  - Q: "V ou F: quand il était petit, MBappé a demandé à son coiffeur de lui faire une calvitie comme Zidane ?"
+    A: "Vrai."
+  - Q: "V ou F: aussi bizarre que ça puisse paraître, Mbappé n'a, en revanche, jamais demandé à son coiffeur de lui faire le mulet de Tony Vairelles ?"
+    A: "Vrai. C'était pour zéro Miam."
+
+- id: 68
+  menu: "Menu Assez corsé."
+  questions:
+  - Q: "Quelle est la particularité de la prison Casabianda en Haute-Corse ?"
+    A: "C'est une prison ouverte sans mur d'enceinte, où les détenus effectuent des travaux agricoles. Aucun suicide ni évasion n’a eu lieu depuis la création en 1949. C’est l'unique prison de la sorte en France."
+  - Q: "V ou F:. durant la Seconde Guerre mondiale, la première région à avoir été libérée n’est pas la Normandie mais la Corse ?"
+    A: "Vrai, Ils s'étaient libérés tout seuls 9 mois avant. Faut pas les faire chier les Corses."
+  - Q: "V ou F: la première Constitution moderne n’est pas celle des États-Unis, mais celle de la Corse ?"
+    A: "Vrai, Pascal Paoli, inspiré par des idées de Jean-Jacques Rousseau, l'a rédigée en 1755."
+  - Q: "V ou F: dans les écoles primaires corses, pour la fête des mères, les QU fabriquent des colliers de douilles ?"
+    A: "Faux."
+
+- id: 69
+  menu: "Menu Pas si vieux que ça en fait."
+  questions:
+  - Q: "À quand remonte le dernier duel officiel à l'épée en France ? À 10 ans près."
+    A: "1967, pas si vieux que fe en fait. Il opposait Gaston Deferre, Maire de Marseille, à René Ribière, parlementaire. Le duel s'arrêta au premier sang versé et Gaston l'emporta."
+  - Q: "Et qu’en est-il de la dernière charge à la baïonnette par l'Armée Française ? Toujours à 10 ans près."
+    A: "Elle eut lieu le 27 mai 1995 lors du combat du pont de Vrbanja à Sarajevo, Pas si vieux que ça en fait. Le lieutenant Heluin et ses hommes attaquèrent les Serbes et libérèrent 10 otages français."
+  - Q: "V ou F:en 1966 en France, les femmes n'avaient pas le droit d'ouvrir un compte en banque à leurs noms ?"
+    A: "Faux, elles venaient d'obtenir ce droit 1 an plus tôt. Au début de l'an née 1965, elles n’en avaient pas le droit, Pas si vieux que ça en fait."
+  - Q: "V ou F: au Pakistan, l'abolition de l'esclavage a eu lieu en 1992 ?"
+    A: "Vrai, Apparemment ce n'était pas une priorité."
+
+- id: 70
+  menu: "Menu Pixar Story."
+  questions:
+  - Q: "V ou F: à la manière du film “Là-Haut”, un homme a attaché une chaise de jardin à 45 ballons d'hélium et s'est envolé à 4600 mètres d'altitude ?"
+    A: "Vrai. Il s'appelle Larry Walters, et on l'applaudit pour cette belle performance. La magicien David Blaine a lui aussi réussi un exploit du même genre."
+  - Q: "V ou F: avant d'être racheté par Steve Jobs, Pixar était une filiale de recherche informatique chez LucasFilm ?"
+    A: "Vrai, George Lucas n'a pas pu développer la filiale par manque de moyens. Steve Jobs l'acheta 5 millions de dollars, en a investi 5 de plus et a tout revendu 7,5 milliards de dollars à Disney 20 ans plus tard."
+  - Q: "Pourquoi le logo de Pixar est-il une lampe ?"
+    A: "Car le premier court métrage d'animation réalisé par Pixar, “Luxo Jr”, mettait en scène 2 lampes de bureaux. Ce fut une immense réussite et depuis la lampe est restée."
+  - Q: "Quelle est la particularité des voix dans la version originale du film “Cars” ?"
+    A: "Beaucoup d'entre elles sont celles de véritables pilotes automobiles. Richard Petty, Darrell Waïtrip, Mario Andretti ou Dale Earnhardt Jr. ont prêté leur voix à une voiture, Michael Schumacher fait même une apparition."
+
+- id: 71
+  menu: "Menu Insomnie."
+  questions:
+  - Q: "Passer les nuits hivernales sous une grosse couette aiderait à vaincre l'insomnie. Pourquoi d'après vous ?"
+    A: "La pression de la couette sur votre corps engendre une production de sérotonine, qui vous rend moins anxieux."
+  - Q: "V ou F: si vous avez des insomnies, ce n’est pas une mauvaise idée de vous mettre quelques minutes dans une chambre à -110° ?"
+    A: "Vrai, Ça s'appelle la cryothérapie en chambre, très bon pour lutter contre l’insomnie. Alors évidemment, faut y rester quelques minutes seulement, sinon on meurt."
+  - Q: "D'après vous, de quoi meurt-on en premier ? De manque de sommeil où de manque de nourriture ? : u"
+    A: "De sommeil. Notre corps peut rester à jeun pendant 14 jours, tandis qu'on meurt de manque de sommeil au bout de 10 jours."
+  - Q: "Enfin selon vous, quel animal dort le plus ? Le Koala ou le Député ?"
+    A: "C'était pour zéro Miam."
+
+- id: 72
+  menu: "Menu Ça te fera des lunettes."
+  questions:
+  - Q: "V ou F: c'est Jeanne d'Arc qui a inventé les lunettes à double foyer ?"
+    A: "Faux, c'est Benjamin Franklin."
+  - Q: "Au Cambodge, pendant la période des Khmers rouges, on pouvait se faire exécuter juste parce qu'on portait des lunettes. Pourquoi d'après vous ?"
+    A: "Car ça donnait un air intellectuel et sous-entendait qu’on lisait des livres, raison suffisante pour se faire tuer à l'époque. Dingue non ? On ne verrait jamais ça aujourd’hui."
+  - Q: "V ou F: les premières lunettes de soleil datent de l'an 1000 ?"
+    A: "Vrai. Créées par les ancêtres des Inuits, ces lunettes de soleil n'étaient pas en verre mais en bois, avec de petites fentes au centre pour éviter d'être ébloui."
+  - Q: "V ou F: l'ours à lunettes s'appelle comme ça car il est myope et astigmate ?"
+    A: "Faux. C'est à cause des taches autour de ses yeux, qui ressemblent à des lunettes."
+
+- id: 73
+  menu: "Menu Alpha Mâle."
+  questions:
+  - Q: "V ou F: les hippopotames dominants doivent chier sur les dominés pour asseoir leur autorité ?"
+    A: "Faux. C'est tout l'inverse. Pour montrer leur soumission, tous les hippopotames dominés se succèdent devant le chef et lui chient copieusement dessus. Fascinante nature,"
+  - Q: "V ou F: chez les chimpanzés capucins, il faut être une femme forte pour ea le droit de se reproduire avec le mâle dominant ?"
+    A: "Vrai."
+  - Q: "V ou F: les femelles suricates dominantes sont dotées d'une paire de couilles ?"
+    A: "Faux. Mais souvent dotées de 2 fois plus de testostérone que les mâles, elles sont plus agressives, habiles à voler de la nourriture et bousculer les autres pour les soumettre."
+  - Q: "V ou F: l'Alpha Mâle pourrait s'appeler Fred Testostérone ?"
+    A: "Faux. Et pour info, Fred Testot est un mâle au taux de testostérone parfaitement équilibré."
+
+- id: 74
+  menu: "Menu Cinéma, nom féminin."
+  questions:
+  - Q: "V ou F: le premier film de fiction a été réalisé par une femme ?"
+    A: "Vrai. ”La fée aux choux” en 1896."
+  - Q: "V ou F: le péplum a été inventé par une femme ?"
+    A: "Vrai. “La Vie de Jésus Christ” en 1906."
+  - Q: "V ou F: le premier film joué par des acteurs afro-américains a été réalisé par une femme ?"
+    A: "Vrai. En 1907, “A fool and his money”."
+  - Q: "V ou F: tous les films cités précédemment ont été réalisés par la même femme ?"
+    A: "Vrai. Alice Guy, grande pionnière méconnue du cinéma,"
+
+- id: 75
+  menu: "Menu Invisible même à l'œil pas nu."
+  questions:
+  - Q: "Comment faisaient les espions pour écrire des messages invi- sibles quand ils n'avaient pas de citron sous la main ?"
+    A: "Ils utilisaient leur urine comme encre. Il suffisait au destinataire de chauffer le papier pour que les mots apparaissent et libèrent ainsi tout l’arôme du message."
+  - Q: "V ou F: les rayures du zèbre lui permettent d'être invisible aux yeux des mouches ?"
+    A: "Vrai. Et c’est vital, le zèbre étant victime de maladies transmises par les mouches."
+  - Q: "Qu'est-ce qu'un invisible aux pommes ?"
+    A: "Un gâteau dans lequel la pâte a été absorbée par les pommes pendant la cuisson."
+  - Q: "À votre avis, l'homme invisible peut-il prendre un coup de soleil ?"
+    A: "Comme vous voulez pour la réponse et le nombre de Miam."
+
+- id: 76
+  menu: "Menu Coquillages et crustacés mais surtout crustacés."
+  questions:
+  - Q: "Quand on cuit un crustacé, il change de couleur. On appelle ça la cardinalisation. Pourquoi ce nom ?"
+    A: "Car le crustacé devient rouge, comme la robe d’un cardinal."
+  - Q: "V ou F: le bulot est un redoutable carnivore ?"
+    A: "Vrai. Il attaque les huîtres en perçant leurs coquilles et mange des restes d'animaux morts au fond de la mer. Oui, le bulot est un REDOUTABLE carnivore assoiffé de sang."
+  - Q: "V ou F: il existe une espèce de crustacé qui endoctrine les crabes et prend possession de leur corps ?"
+    A: "Vrai. Il s'agit de la sacculine. Ce crustacé parasite contamine le crabe, le contrôle et lui fait faire exactement ce qu'elle veut. Si vous êtes un crabe et que vous lisez ceci, vous êtes prévenu : les sacculines ne vous veulent pas que du bien."
+  - Q: "V ou F: on pense souvent que les mites sont des insectes alors qu’en réalité ce sont des crustacés ?"
+    A: "Faux, ce sont bien des insectes. C'était pour 1 Miam."
+
+- id: 77
+  menu: "Menu Propriété pas vraiment intellectuelle."
+  questions:
+  - Q: "Comment s'appelle l'équivalent des droits d'auteur aux États-Unis et dans les pays anglo-saxons ?"
+    A: "Le copyright."
+  - Q: "V ou F: le copyright a son contraire le copyleft ?"
+    A: "Vrai."
+  - Q: "Quel compositeur français Dr Dre a-t-il samplé dans son tube internationalement culte “What's the difference” ?"
+    A: "Charles Aznavour."
+  - Q: "V ou F: le générique de Motus a été samplé sans autorisation par Kanye West ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 78
+  menu: "Menu Requin Requine."
+  questions:
+  - Q: "V ou F: les femelles requin-marteaux n'ont pas forcément besoin d'un mâle pour tomber enceinte ?"
+    A: "Vrai. Une femelle en captivité est tombée enceinte alors qu'elle n'avait pas vu de mâle depuis 3 ans."
+  - Q: "V ou F: la Baie des Anges à Nice devrait en réalité son nom à un requin et non à des créatures ailées qui vivent sur des nuages ?"
+    A: "Vrai. Car fut un temps, on pêchait dans ce coin là des requins appelés “anges de mer”."
+  - Q: "En 2001, un requin attaque un enfant et lui arrache le bras. Son oncle, témoin du drame, ne fait ni une ni deux et intervient. Qu'a-t-il fait ?"
+    A: "Il s’est battu avec le requin, l'a traîné jusqu’au bord de la plage et a récupéré le bras que les médecins ont pu regreffer à l’enfant. Le tonton héros s'appelle Vance Flosenzier."
+  - Q: "V ou F: certains requins (souvent en moule-aileron) se baladent avec une dent d'homme autour du cou en guise de porte-bonheur ?"
+    A: "Faux, c'était pour zéro Miam."
+
+- id: 79
+  menu: "Menu Braquage en règle."
+  questions:
+  - Q: "Smith Patrick Lyon est le premier braqueur de banques des États-Unis. En 1798, il vole plus de 160 800 $ mais se fait prendre bêtement quelques jours après. Comment d'après vous ?"
+    A: "Il a été déposer l'argent volé dans la même banque."
+  - Q: "Juste avant d'être bombardé par la coalition en 2003, Saddam Hussein envoie son fils récupérer le plus d'argent possible à la banque. Combien at-il retiré, à 250 millions $ près ?"
+    A: "1 milliard $. On n'en retrouvera que 650 millions dans les murs de son palais. 3 semi-remorques ont été utilisées pour la transaction."
+  - Q: "V ou F: le 2ème plus gros braquage de l'histoire a été fait dans la rue, avec un couteau ?"
+    A: "Vrai, En 1990, un coursier londonien se balade avec 301 bons du trésor de Londres d'une valeur de 292 millions de livres (348 millions d'euros environ). Un homme seul le menace avec un couteau, récupère les docu- ments et disparaît dans la nature. Acte isolé ou organisation criminelle ? Les théories vont bon train."
+  - Q: "V ou F: le peintre préféré de Jacques Mesrine était George Braque ?"
+    A: "Faux, Enfin, en fait on ne sait pas, Mais c'était pour zéro Miam."
+
+- id: 80
+  menu: "Menu Petite sieste."
+  questions:
+  - Q: "Selon les spécialistes et à 3 mn près, combien de temps dure la sieste parfaite ?"
+    A: "26 min. Pas 27, ni 25, 26 on vous dit."
+  - Q: "V ou F: les hippopotames peuvent faire la sieste sous l'eau ?"
+    A: "Vrai, Ils remontent automatiquement toutes les 5 min à la surface pour prendre leur respiration, le tout sans se réveiller."
+  - Q: "Bonne ou mauvaise idée un petit café juste avant de faire une sieste de 20 min ?"
+    A: "Bonne idée ! Le café met 20 min à faire effet, donc vous vous réveillez au taquet. Des études Japonaises montrent que le café-sieste améliore la mémoire."
+  - Q: "Bonne ou mauvaise idée un rail de coke avant d'aller dormir ?"
+    A: "Mauvaise idée, il y a des études, on est assez sûr de ce qu'on avance pour le coup."
+
+- id: 81
+  menu: "Menu et si on parlait un peu des girafes ?"
+  questions:
+  - Q: "Les Grecs anciens appelaient les girafes les “camélopard”, car ils pensaient qu'elles étaient le mélange de deux animaux. Lesquels d’après vous ?"
+    A: "Les chameaux et les léopards."
+  - Q: "V ou F: tous les vertébrés baillent de temps en temps, sauf la girafe ?"
+    A: "Vrai. La girafe ne bâille jamais. Même le petit coup de barre en fin de journee, Jamais."
+  - Q: "V ou F: pour savoir si une femelle girafe est prête à s'accoupler, le mâle va goûter son pipi ?"
+    A: "Vrai. Il va détecter au goût, d'éventuelles traces de phéromones sexuelles."
+  - Q: "V ou F: dans une région du Tchad en 2001, des reporters animaliers on filmé une girafe qui avait littéralement la tête dans le cul ?"
+    A: "Faux, c'est une connerie. Mais on ne dit pas que ce n’est jamais arrivé non plus."
+
+- id: 82
+  menu: "Menu Nos amis les tigres."
+  questions:
+  - Q: "De manière générale, qui gagnent à la bagarre entre un tigre et un lion ?"
+    A: "Le tigre, haut la patte. Il a une masse musculaire bien supérieure et il est surtout beaucoup plus agressif."
+  - Q: "V ou F: plutôt que de se battre, tigres et lions peuvent aussi se reproduire entre eux ?"
+    A: "Vrai. C'est très rare mais ça arrive. Cela donne naissance à des colosses de 400 kilos appelés “ligre” ou “tigron”."
+  - Q: "Pourquoi certaines personnes en Inde portent-elles un masque de visage derrière la tête ?"
+    A: "Pour se protéger des tigres, qui sont de grosses fourbasses puisqu'ils ont l'habitude d’attaquer par derrière."
+  - Q: "V ou F: il existe un film sur la vie des félins qui font du ski et il s'appelle “Tigre et dragonne” ?"
+    A: "Faux, C'était pour zéro Miam."
+
+- id: 83
+  menu: "Menu Post-mortem."
+  questions:
+  - Q: "V ou F: après la mort les spermatozoïdes restent vivants ?"
+    A: "Vrai. Ils peuvent survivre entre 12 et 36 heures après la mort. Il y a même déjà eu des fécondations posthumes, aux États-Unis notamment."
+  - Q: "V ou F: après la mort, cheveux et ongles continuent de pousser ?"
+    A: "Faux. Mais la peau en se rétractant donne cette impression, ce qui a nourri cette croyance."
+  - Q: "V ou F: après la mort le corps humain s'auto-digère ?"
+    A: "Vrai, les enzymes libérés habituellement pour digérer les aliments ne trouvant aucune nourriture s'attaquent alors au corps lui-même."
+  - Q: "V ou F: après la mort le corps s'auto-chie ?"
+    A: "Non c’est faux et c'était pour zéro Miam."
+
+- id: 84
+  menu: "Menu qui sue (laissez le charme agir)."
+  questions:
+  - Q: "V ou F: la transpiration n’a pas d'odeur ?"
+    A: "Vrai. C'est en entrant en contact avec les bactéries présentes sur votre corps que l'odeur se créée. La sueur en soit est inodore."
+  - Q: "À combien estimez-vous la production de sueur par jour pour un humain adulte ?"
+    A: "Entre 0,5 et 1 litre de sueur par jour. En cas de forte chaleur ou lors de pratique sportive intensive, ça peut monter jusqu'à 3 litres. Vous comprenez pourquoi on vous dit de boire maintenant ?"
+  - Q: "V ou F: on peut suer des couleurs ?"
+    A: "Vrai. C’est dû à la chromidrose, anomalie rare qui rend la sueur colorée. En ce cas, on sue du bleu (c'est beau), du jaune (quelle poésie) ou du rouge (possiblement flippant)."
+  - Q: "V ou F: on peut suer de la musique ?"
+    A: "Bah non pas du tout. On peut suer EN musique mais on ne peut pas suer DE la musique."
+
+- id: 85
+  menu: "Menu Agriculture de l'extrême."
+  questions:
+  - Q: "V ou F: c'est extrême mais on a réussi à faire pousser du raisin goût “barbe à papa“ ?"
+    A: "Vrai. 12 ans de recherche pour obtenir le goût parfait, selon l'entreprise américaine qui la fabrique et que l'on croit évidemment sur parole."
+  - Q: "V ou F: dans certaines rizières, les producteurs mettent des poissons vivants pour utiliser leurs excréments comme engrais ?"
+    A: "Vrai. Ça s'appelle la rizipiscicutture et ça fait élevage de poissons en même temps. Extrêmement malin aussi."
+  - Q: "V ou F: en mode extrême, il existe des bombes à graines qu'on jette d'un avion dans les champs pour planter plus vite ?"
+    A: "Vrai. On les appelle les “Seed Bomb”. Remplies de millions de graines, ces bombes permettent de planter dans des endroits difficiles d'accès."
+  - Q: "Et enfin, V ou F: “l'agriculturisme” est une méthode d'agriculture extrême qui consiste à injecter un maximum de protéines aux arbres pour qu'ils Soient hyper massifs avec des tout petits troncs et de très grosses branches (un peu comme Booba mais en arbre)."
+    A: "Faux."
+
+- id: 86
+  menu: "Menu Phoenix, pour ne pas dire crémation."
+  questions:
+  - Q: "Dans quel pays l'enterrement est-il interdit ?"
+    A: "Au Japon. Tous les japonais sont incinérés, notamment pour des raisons de place."
+  - Q: "V ou F: il est possible de finir sa vie en feux d'artifice, littéralement ?"
+    A: "Vrai. Des entreprises américaines proposent de mettre vos cendres dans une fusée de feu d'artifice pour vous disperser en beauté. Une cérémonie plus ludique que les enterrements habituels, toujours un peu plombés faut bien l'admettre,"
+  - Q: "V ou F: après la mort, vos cendres peuvent être transformées en diamant ?"
+    A: "Vrai. En récupérant le carbone et en l'exposant à de fortes chaleurs et une énorme pression, il est possible de se réincarner en diamant. Qui n'a jamais rêvé de porter sa mère en collier ? Ah, pardon, non je croyais plein de gens."
+  - Q: "V ou F: après votre mort, vos cendres peuvent être réorganisées en corps humain si vous changez d'avis et que vous préférez être finalement enterré ?"
+    A: "Non faux, faut pas déconner non plus."
+
+- id: 87
+  menu: "Menu sont cons les chiens."
+  questions:
+  - Q: "V ou F: il existe en Écosse un pont duquel une cinquantaine de chiens ont sauté depuis 1950 ?"
+    A: "Vrai, c'est le pont d'Overtoun. Il ne s'agit pas de suicides, l'odeur des visons vivants sous le pont les attire. Sont cons les chiens quand même."
+  - Q: "V ou F: les chiens peuvent bouffer du chocolat jusqu'à en mourir ?"
+    A: "Vrai. Le chocolat contient de la théobromine, composé qu'ils métabolisent très mal et qui peut leur être fatal. Bon, là c'est pas de leur faute j'avoue."
+  - Q: "VouF. on peut dresser un chien à devenir raciste ?"
+    A: "Vrai, Durant la guerre d'indépendance haïtienne, pour chasser les indépendantistes et antiesclavagistes, les chiens de l'armée de Napoléon furent dressés à uniquement attaquer les personnes de couleur. Sont cons et racistes les chiens quand même."
+  - Q: "V ou F: on peut dresser un chien à devenir antisémite ?"
+    A: "Non ça c’est faux et c'était pour zéro Miam."
+
+- id: 88
+  menu: "Menu sont forts les chiens."
+  questions:
+  - Q: "V ou F: durant un procès criminel, l’odorat d’un chien peut servir de preuve ?"
+    A: "Vrai, ça s'appelle l'odorologie et c'est reconnu comme une preuve judiciaire en France. Sont forts les chiens quand même."
+  - Q: "V ou F: grâce à leur odorat, certains chiens sont capables de dépister le Covid-19 ?"
+    A: "Vrai. Près de 15 000 personnes ont pu être testées avec cette méthode en France et à l'étranger, avec un résultat exact dans plus de 95% des cas. Sont forts ces chiens."
+  - Q: "V ou F: à Moscou, les chiens savent se diriger dans le métro ?"
+    A: "Vrai. On les surnomme même les “Metro-chiens”, Sont forts les chiens quand même."
+  - Q: "V ou F: à Paris, certains chiens sont capables de faire un changement à Châtelet sans se tromper de couloir ?"
+    A: "Faux, comme les humains, ils n'en sont pas capables,"
+
+- id: 89
+  menu: "Menu Passage à l'heure d'été américaine ou Summertime en angjlais."
+  questions:
+  - Q: "Quel père fondateur américain a inventé le passage à l'heure d'été ?"
+    A: "Benjamin Franklin. Il l'a suggéré en 1784 dans un article du journal de Paris. L'Allemagne et le Royaume-Uni furent les premiers pays à l'adopter en 1916."
+  - Q: "V ou F: bien que l'idée soit américaine, un des états américains n'a toujours pas adopté cette pratique ?"
+    A: "Vrai, L'Arizona qui depuis 1968 garde l'heure d'hiver toute l'année,"
+  - Q: "V ou F: les États-Unis ont avancé de 3 semaines le passage à l'heure d'été à cause du lobbying des entreprises de Barbecue ?"
+    A: "Vrai, En 1986, ils ont finalement obtenu cette réforme. Les journées plus longues favorisant le barbecue, le gouvernement a décidé de se rallier au lobby de la chipo."
+  - Q: "V ou F: la réforme a été annulée suite à la révolte de l'industrie du service à raclette ?"
+    A: "Non, c'est faux. Le barbecue gagne toujours."
+
+- id: 90
+  menu: "Menu Maudit théâtre !"
+  questions:
+  - Q: "De quelle pièce de Shakespeare est-il interdit de prononcer le nom dans les théâtres britanniques ?"
+    A: "Macbeth, On l'appellera plutôt “La pièce écossaise”, La légende dit que la pièce est maudite, suite aux nombreux accidents arrivés aux comédiens au fil des ans."
+  - Q: "Pourquoi ne porte-t-on jamais de vert pendant une représentation au théâtre ?"
+    A: "Parce que cela porte malheur. À l'époque, les teintures vertes utilisées pour les costumes étaient à base d'arsenic, ce qui, mixé à la chaleur des éclairages et de la transpiration des comédiens, a causé de nombreux décès. Molière lui-même portait du vert lorsqu'il mourut sur scène."
+  - Q: "V ou F: une fois le théâtre vide, une veilleuse est laissée au milieu de la scène pour lutter contre les fantômes ?"
+    A: "Vrai."
+  - Q: "Et enfin, V ou F, on laisse également un aspirateur allumé pour essayer de choper des fantômes maladroits ?"
+    A: "Faux et c'était pour zéro Miam virgule cinq. Ça peut faire la dif’ à la fin."
+
+- id: 91
+  menu: "Menu Noms de capitales (None je ne vais pas vous citer des pays en vous demandant leur capitale, détendez-vous.)"
+  questions:
+  - Q: "Quel est l’ancien nom de la ville de Paris ?"
+    A: "Lutèce. La ville a pris le nom de “Paris” en 310."
+  - Q: "Citez deux capitales qui ont le même nom que leur pays."
+    A: "Luxembourg, Mexico, Guatemala, Koweït, Panama, Singapour, Djibouti, Monaco, Le Vatican."
+  - Q: "Citez une capitale qui n'a pas le même nom que son pays."
+    A: "J'avoue que c'est plus simple dans ce sens-là. C'était pour zéro Miam."
+  - Q: "V ou F: “Bangkok” se traduit littéralement par “Ville des anges, grande ville, résidence du Bouddha d'émeraude, ville imprenable du dieu Indra, grande capitale du monde ciselée de neuf pierres précieuses, ville heureuse, généreuse dans l'énorme Palais Royal pareil à la demeure céleste, règne du dieu réincarné, ville dédiée à Indra et construite par Vishnukam” ?"
+    A: "Vrai. Et ça a quand même une autre gueule. Alors oui c'est plus long à dire."
+
+- id: 92
+  menu: "Menu qui aurait bien besoin de lunettes."
+  questions:
+  - Q: "De combien d’yeux la coquille Saint-Jacques est-elle dotée, à 50 près ?"
+    A: "200."
+  - Q: "De combien d'yeux les cyclopes sont-il dotés, à un près ?"
+    A: "C'est pour zéro Miam."
+  - Q: "V ou F:un daltonien peut distinguer une tenue de camouflage même en pleine forêt ?"
+    A: "Vrai."
+  - Q: "Et enfin, V ou F les femmes voient mieux que les hommes ?"
+    A: "Faux. C’est kif-kif. Après philosophiquement, on peut discuter mille ans."
+
+- id: 93
+  menu: "Menu mon nom est devenu un mot."
+  questions:
+  - Q: "V ou F: John McAdam a déjà fabriqué du macadam ?"
+    A: "Vrai. C'est le créateur du dit macadam."
+  - Q: "V ou F: Charles Cunningham Boycott a déjà organisé un boycott?"
+    A: "Faux, En revanche il a été boycotté par des paysans qu'il a beaucoup agacé en refusant de baisser leurs loyers."
+  - Q: "V ou F: c'est à Jean Nicot qu'on doit la nicotine?"
+    A: "Vrai. Il a introduit le tabac en France."
+  - Q: "Et enfin, V ou F, c'est Carole Bouquet qui gère les abonnements Canal+ ?"
+    A: "Faux."
+
+- id: 94
+  menu: "Menu Faux-amis pour la vie."
+  questions:
+  - Q: "Comment se traduit le mot italien “cantina” en français ?"
+    A: "Cave. C’est un faux-ami mais ça reste dans la famille de la restauration quand même."
+  - Q: "V ou F:. en Hollande, “openbaar ministerie” est le ministère des “open bar” ?"
+    A: "Faux. Ça veut dire “ministère public“."
+  - Q: "Comment dit-on “bus” en anglais ?"
+    A: "Bus. Au temps pour moi, j'étais sûr que c'était un faux-ami. C'était pour zéro Miam."
+  - Q: "V ou F: en espagnol “constipado” signifie constipé du nez ?"
+    A: "Vrai. Ça veut dire enrhumé."
+
+- id: 95
+  menu: "Menu Îles ou Ailes ?"
+  questions:
+  - Q: "V ou F: il existe un vol régulier entre deux îles qui dure moins de 2 mn ?"
+    A: "Vrai. Il dessert les îles écossaises Papa Westray et Westray."
+  - Q: "V ou F: au “Texas Bar”, au pôle nord, il y a le même barman depuis 34 ans ?"
+    A: "Faux. Le “Texas bar” est un bar ouvert 24/24, près du pôle nord, sur une île appelée Svalbard, Mais il ny a personne, tu te sers, tu bois, tu laisses une bouteille, éventuellement tu manges un bout de phoque séché et tu l'en vas."
+  - Q: "Combien d'ailes possède le cormoran dit “aptère“ qui vit dans les îles Galapagos?"
+    A: "Deux. Mais elles ne fonctionnent plus, cet oiseau n'ayant pas de prédateurs, ses ailes se sont atrophiées. C'est devenu une poule, quoi. Mais qui sait nager et plonger."
+  - Q: "V ou F: “îles et ailes” est une agence de voyages et ça a l'air super ?"
+    A: "Vrai. À Istres, au centre commercial Leclerc."
+
+- id: 96
+  menu: "Menu qui a une idée derrière..."
+  questions:
+  - Q: "Donnez au moins 3 synonymes de “derrière” ? (cul et fion pas acceptés)"
+    A: "Miches, boule, derche, popotin, fesses, pétard, uk."
+  - Q: "Que veut dire l’expression “avoir les fesses qui disent bravo” ?"
+    A: "Cela signifie “avoir peur”."
+  - Q: "V ou F: l'expression qui veut que les carottes donnent les fesses roses n'est pas qu'une expression ?"
+    A: "Vrai, les carottes contiennent de le bêta-carotène qui, à forte dose, peut donner une maladie de peau, la caroténodermie, qui va donner une couleur rose/orangée à la peau."
+  - Q: "Et enfin, V ou F les chimpanzés sont adeptes de la reconnaissance fessiale ?"
+    A: "Vrai. Ils se reconnaissent grâce aux derrières de leurs congénères."
+
+- id: 97
+  menu: "Menu à dents."
+  questions:
+  - Q: "VouE l'homme préhistorique avait de nombreuses caries ?"
+    A: "Faux, Les caries n'existaient pas. C'est une bactérie qui est apparue il y a 150 ans."
+  - Q: "V ou F: avoir les dents bien alignées est un critère de beauté au Japon ?"
+    A: "Faux. Depuis quelques années, de nombreuses japonaises se font désaligner les dents chez le dentiste. Un faux défaut trop mignon pour faire craquer tout le monde."
+  - Q: "V ou F: c’est un arracheur de dents qui a inventé la marionnette “Guignol” ?"
+    A: "Vrai. Laurent Mourguet, arracheur de dents sur la voie publique, attirait sa clientèle avec Guignol."
+  - Q: "Et enfin, V ou F on peut savoir si on est enceinte avec du dentifrice ?"
+    A: "Vrai, En mélangeant urine et dentifrice. Si c'est mousseux, vous êtes enceinte."
+
+- id: 98
+  menu: "Menu un tout petit peu vulgaire."
+  questions:
+  - Q: "Si je vous traite de “microcéphale”, est-ce que je vous insulte ?"
+    A: "Oui. Cela veut dire petite tête. Petit cerveau ou gros con."
+  - Q: "V ou F: “Pute” vient de “Putus” qui veut dire “sympathique” en latin ?"
+    A: "Faux. Ça vient de “Putus” qui veut dire puer."
+  - Q: "V ou F: le mot “con” a un rapport avec le lapin ?"
+    A: "Vrai. Il vient de “Cunniculus” qui veut dire lapin."
+  - Q: "Qu'est-ce qu'un orchidoclaste ?"
+    A: "Un casse-couille. Mais en vieux français."
+
+- id: 99
+  menu: "Menu Mozart"
+  questions:
+  - Q: "V ou F: Mozart a écrit l'Ouverture de Don Giovanni le matin même de la répétition générale, et le tout en lendemain de cuite ?"
+    A: "Vrai. La veille de la répétition générale, Mozart boit du punch avec sa femme et s'endort, À 5h du matin, elle le réveille pour qu'il compose l'Ouverture. 2 heures plus tard, il envoie sa composition au copiste chargé de préparer les partitions. Les musiciens découvriront les partitions le jour même. Efficace."
+  - Q: "V ou F: Mozart a composé un opéra pour se foutre de la gueule d'une chanteuse qu'il ne pouvait pas saquer ?"
+    A: "Vrai, L'Opéra “Cosi fan tutte“. La chanteuse, très célèbre à l'époque, était connue pour baisser la tête lors des notes graves, et inversement pour les notes aigües. Mozart a donc écrit une partition avec plein de passages de notes graves à aigües, juste pour se foutre de sa gueule. Taquin."
+  - Q: "Pourquoi n'a-t-on jamais retrouvé la dépouille de Mozart ?"
+    A: "Car il fut enterré dans une fosse commune avec des anonymes, Mozart ne voulait pas de funérailles en grande pompe, il voulait être comme tout le monde, Classe,"
+  - Q: "V ou F: peut-être que Mozart composait des menuets à 4 ans, mais jamais il aurait pu faire un Top 1 sur Fortnite ?"
+    A: "Faux. Je suis sûr qu'il aurait fait des merveilles, Génie."
+
+- id: 100
+  menu: "Menu “Oui, bien sûr”."
+  questions:
+  - Q: "V ou F: “Oui-Oui” dit oui à tout ?"
+    A: "Faux. Comme tout le monde, Oui-Oui dit parfois non."
+  - Q: "D'après vous, d'où vient le mot “oui” ?"
+    A: "Du verbe ouïr, (entendre), sous-entendu “je vous ai entendu/ compris”."
+  - Q: "V ou F: le “oui” n'existe pas en Mandarin ?"
+    A: "Vrai. Le “non” non plus. Par exemple, à la question “Chassez-vous le pangolin ?” on vous répondra “je sais” ou “je ne sais pas”."
+  - Q: "Est-ce que cette question est pour zéro Miam ?"
+    A: "Oui, bien sûr."
+
+- id: 101
+  menu: "Menu Qui sont nos amis pour la vie ?"
+  questions:
+  - Q: "D'où vient le nom “Milka“ ? Indice : il faut savoir dire “lait” en Allemand ou en Anglais."
+    A: "C'est la contraction de “Milch” (lait en Allemand, je vous l'avais dit) et “Kakao” (qui veut dire cacao, je sais c'est dingue)."
+  - Q: "V ou F: les biscuits Oreo contiennent du lait ?"
+    A: "Faux. Fascinante industrie alimentaire,"
+  - Q: "V ou F: le nom “La vache qui rit” vient de “Wachkyrie”, une moquerie française envers les walkyries allemandes ?"
+    A: "Vrai. Le créateur Léon Bel conduisait des camions de ravitaillement estampillés de vaches hilares affublés du nom de Wachkyrie, Fascinant humour “à la française”."
+  - Q: "V ou F: les produits laitiers seront nos amis pour la vie quand ils nous aideront à déménager ?"
+    A: "Faux et c'était pour 1 Miam."
+
+- id: 102
+  menu: "Menu Vos papiers s’il vous plaît."
+  questions:
+  - Q: "V ou F: en Corée du Sud, ils sont si forts en chirurgie plastique que c’est difficile de reconnaître les gens sur leur passeport ?"
+    A: "Vrai. Du coup, les hôpitaux donnent des certificats de chirurgie plastique pour que les clients puissent prouver que ce sont bien eux sur la photo."
+  - Q: "Qu'a fait la ville de Mexico pour contrer les fraudes à l'examen du permis de conduire ?"
+    A: "Ils ont supprimé l'examen. Il faut juste payer 40 dollars pour l'avoir. Brillant, mais qui sommes-nous pour juger ?"
+  - Q: "V ou F: en Angleterre, aucun membre de la famille royale n’a besoin de papier d'identité ?"
+    A: "Faux, ce privilège est uniquement réservé à la Reine car les passeports et autres papiers sont délivrés en son nom."
+  - Q: "Pensez-vous qu'un sans-papier puisse être dur de la feuille ?"
+    A: "C'était pour zéro Miam et on salue les auteurs Carambar qui nous ont filé un coup de main sur ce Menu."
+
+- id: 103
+  menu: "Menu Résistant"
+  questions:
+  - Q: "Quelle est la particularité du mouvement de résistance “La rose blanche”, actif pendant la Seconde Guerre mondiale ?"
+    A: "C'était un mouvement de résistance allemand, opposé au régime nazi. Oui, tous les Allemands n'ont pas été nazis. Mais la plupart des membres de “la rose Blanche“ ont été arrêtés par la Gestapo et guillotinés."
+  - Q: "Lidice fut une petite ville tchèque soupçonnée par les nazis d'avoir hébergé des résistants. Qu'ont fait les nazis pour les punir ?"
+    A: "Ils ont déporté ou fusillé les habitants, rasé la ville, nivelé le terrain à la dynamite, vidé le cimetière et détourné la rivière pour ne laisser aucune trace du village,"
+  - Q: "D'après vous, pourquoi, sur de nombreuses photos, Jean Moulin portait une écharpe autour du coup ?"
+    A: "Car il avait essayé de se suicider en 1940 en se tranchant la gorge pour ne pas donner des informations aux Allemands,"
+  - Q: "D'après vous, pourquoi, sur de nombreuses photos, le Maréchal Pétain ne portait pas d'écharpe autour du coup ?"
+    A: "Car il n'avait jamais essayé de se suicider en se tranchant la gorge. Il préférait ne pas mourir et donner des informations. C'était pour zéro Miam."
+
+- id: 104
+  menu: "Menu Danse classique."
+  questions:
+  - Q: "Quelle est la langue officielle de la danse classique dans le monde ?"
+    A: "Le français."
+  - Q: "V ou F: avant de poser des énigmes dans une tour, le Père Fouras était danseur étoile ?"
+    A: "Vrai. Yann Le Gac, le Père Fouras, était danseur étoile dans la compagnie de Maurice Béjart."
+  - Q: "En quelle année a-t-on pu voir la première danseuse étoile noire ? A 15 ans près."
+    A: "En 2015, il s’agit de Misty Copeland. Oui, on espérait une date plus lointaine mais non."
+  - Q: "V ou F: on dit des danseuses ou danseurs à la vie sexuelle mouvementée qu'ils ont un ballet dans le cul ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 105
+  menu: "Menu Violon, l'instrument, pas le lieu où on purge une peine."
+  questions:
+  - Q: "La profession de chef d'orchestre n'existe que depuis la fin du XIXieme siècle. Qui avait le rôle de chef d'orchestre avant ?"
+    A: "Le 1er violon. Vous aviez un gros indice compte tenu du titre du menu."
+  - Q: "V ou F: il existe un instrument de la famille du violon encore plus gros que la contrebasse ?"
+    A: "Vrai, C'est l'octobasse. Allez voir des photos sur internet c'est assez marrant."
+  - Q: "Le violon le plus cher du monde s'est vendu à 11 millions d'euros. Quel est son nom ? (Ça a l'air dur mais en vrai ça va)."
+    A: "C'est un Stradivarius. Si vous vouliez être encore plus précis, vous pouviez répondre le “Lady Blunt Stradivarius, conçu en 1721 par le luthier Antonio Stradivari”,"
+  - Q: "V ou F: l'expression “pisser dans un violon” tient son origine des contrôles antidopage effectués lors des concours internationaux de musique classique ?"
+    A: "Faux. C'était pour zéro Miam."
+
+- id: 106
+  menu: "Menu Gratte."
+  questions:
+  - Q: "À quelle famille appartient cet instrument de musique connu de tous : la guitare ?"
+    A: "Instrument à cordes pincées."
+  - Q: "L'une des guitares du guitariste et chanteur des Pink Floyd, a été vendue aux enchères à un prix record. Combien d'après vous ? (À 1 million près)."
+    A: "3,9 millions $. Reversés à une association qui lutte contre le réchauffement climatique."
+  - Q: "Dans le film “Les 8 salopards” de Tarantino, Kurt Russel fracasse une guitare contre une poutre et cela a posé problème. Pourquoi ?"
+    A: "La guitare avait été prêtée par un musée. Une pièce de collection datant des années 1870 que la production a été obligée de rembourser."
+  - Q: "V ou F: on n’a rien contre les gens qui reprennent “Wonderwall” à la gratte en soirée mais ils méritent quand même une mort lente et douloureuse ?"
+    A: "Vrai. Si vous faites partie de ces gens-là : ARRÊTEZ BORDEL. Zéro Miam !"
+
+- id: 107
+  menu: "Menu Esprit de déduction. Si vous ne connaissez pas les réponses, vous pourrez quand même les trouver grâce à votre perspicacité et votre brillant esprit de déduction."
+  questions:
+  - Q: "Pourquoi à votre avis dans les films américains les numéros de téléphone commencent le plus souvent par 555 ?"
+    A: "Ce sont des numéros qui n'ont pas été attribués par les services de télécommunication pour être utilisés dans des films sans déranger des particuliers."
+  - Q: "Pourquoi les lettres I et O ne peuvent pas être utilisées sur les plaques d'immatriculation ?"
+    A: "Car elles peuvent être confondues avec un chiffre. Une seule association de deux lettres est interdite : SS,"
+  - Q: "Que se passe-t-il si on compose le 911 en France ?"
+    A: "Appeler le 911 d'un portable renvoie au 112, qui est le numéro d'urgence européen. Système mis en place pour éviter que les touristes américains perdent du temps à trouver le bon numéro."
+  - Q: "Que signifie le numéro sur les boules de bowling ?"
+    A: "C'est leur poids en livres. Le jeu venant des USA, ils ont gardé la conversion,"
+
+- id: 108
+  menu: "Menu GOAT. C’est un Menu of all time. Que sur les GOAT (Greatest Of AII Time)."
+  questions:
+  - Q: "Quelle est la BOAT (Boisson la plus bue of all time) ? (après l'eau bien sûr)"
+    A: "Le Thé est la boisson la plus bue dans le monde après l'eau. 500 millions de tasses de thé sont bues chaque jour."
+  - Q: "Quel est le LOAT ? Le livre le plus vendu of all time ?"
+    A: "Patrick Sébastien, le vrai goût des tomates mûres. Juste devant la Bible, Non je déconne, c’est la Bible."
+  - Q: "Quelle est la COAT, la chanson la plus streamée of all time, entre 2010 et 2019 ?"
+    A: "Ed Sheeran “Shape of you“, + de 2 milliards d'écoutes rien que sur Spotify. Et plus de 4,6 milliards sur YouTube."
+  - Q: "Et enfin (..) Ah non merde. Un auteur a cru que c'était un menu sur les chèvres, du coup il y a une question qui a rien à voir. je vous la pose quand même :Quel est le temps de gestation d'une chèvre ?"
+    A: "5 mois."
+
+- id: 109
+  menu: "Menu Sniper, mais pas le groupe de rap, le tireur d'élite."
+  questions:
+  - Q: "En 2009, pendant la guerre d'Afghanistan, le soldat britannique Craig Harrison a tué 2 talibans à une distance record. À 500m près, quelle distance sa balle a-t-elle parcouru ?"
+    A: "2475 m, soit 2,475 km (de rien pour la conversion). La balle a mis 6 secondes à atteindre sa cible et a perdu 120 mètres d'altitude."
+  - Q: "V ou F: le mot sniper tient son origine des chasseurs de bécassine ?"
+    A: "Vrai. Bécassine se dit “Snipe“ en anglais. La bécassine étant un animal difficile à toucher, le terme s’est appliqué ensuite pour les tireurs d'élite."
+  - Q: "V ou F: le film de Clint Eastwood “American Sniper”, avec Bradley Cooper, a été traduit au Québec par “Américaine Bécassine” ?"
+    A: "Faux. Et c'était pour 1 Miam."
+  - Q: "V ou F: Yann Arthus-Bertrand a longtemps observé Wesley Snipes à la jumelle avant de se rendre compte que ce n’était pas un volatile ?"
+    A: "Faux. Et c'était pour zéro Miam, faut pas déconner non plus."
+
+- id: 110
+  menu: "Menu Mortel ! Un Menu sur les morts drôles, parce que oui parfois c'est marrant."
+  questions:
+  - Q: "V ou F: un avocat s'est tué pendant qu'il reconstituait la scène du crime pour innocenter son client ?"
+    A: "Vrai. Il s'agit de Clément Vallandigham. Il est mort pendant la fusillade qu'il reconstituait mais son client fut acquitté. Marrant non ? Bof."
+  - Q: "En 2011, en Californie, un homme est mort, tué par un poulet armé. Un poulet, le volatile, pas un flic. Que s'est-il passé à votre avis ?"
+    A: "José Luis Ochoa assistait à un combat de cogs en 2011 en Californie. Pour le combat, comme parfois, des lames de rasoir sont fixées aux pattes des cogs. Le volatile a foncé sur José Luis et l’a lacéré, causant sa mort. Cocasse."
+  - Q: "V ou F: en Indonésie, dans certains villages, on déterre les cadavres pour faire la fête avec eux ?"
+    A: "Vrai. C'est la fête de Ma'nene."
+  - Q: "V ou F: ces soirées se terminent toujours en boîte ?"
+    A: "Faux, c'était pour zéro Miam."
+
+- id: 111
+  menu: "Menu Tiré d’une histoire vraie."
+  questions:
+  - Q: "Citez-moi 2 films de Spielberg tiré d’une histoire vraie. il Faut Sauver le Soldat Ryan. Lincoln. Attrape-moi si tu peux."
+    A: "Pentagone Papers. Le pont des espions. Cheval de guerre. Le Terminal, La liste de Schindier. Et E.T. bien sûr."
+  - Q: "V ou F: il est déjà arrivé qu'un film commence par “Tiré d’une histoire vraie” juste pour déconner ?"
+    A: "Vrai. Dans “Fargo“ des frères Coen, cette phrase apparaît au début du film alors que personnages et situations sont inventés."
+  - Q: "D'ailleurs, quelle histoire pas du tout vraie a inspiré “O'Brother“ ?"
+    A: "“L'Odyssée” d'Homère. Le film y fait référence à de nombreuses reprises."
+  - Q: "V ou F: “le Roi Lion” est une vraie histoire ?"
+    A: "C'est vrai. Ce n'est pas une histoire vraie, mais c'est une vraie histoire. C'était pour zéro Miam."
+
+- id: 112
+  menu: "Menu F*ck."
+  questions:
+  - Q: "Comment “Fuck“ peut-il se dire ou s'écrire sans être considéré comme vulgaire?"
+    A: "“F.….” ou “the F-word” ou “the four letter word” ou encore “the F bomb”."
+  - Q: "Quel film de Scorsese contient le plus de fois le mot Fuck ?"
+    A: "“The Wolf of Wall Street”, avec 506 “Fuck”. Il est le 3ème film dans lequel on entend le plus de fois le mot Fuck après “Swearnet: The Movie”, un film canadien et un documentaire sur le mot fuck qui s'appelle “Fuck”."
+  - Q: "V ou F: en langue des signes japonaise, “frère” se dit en faisant un doigt d'honneur ?"
+    A: "Vrai, Au Japon, chaque doigt de la main correspond à un membre de sa famille."
+  - Q: "Maintenant que vous savez ça, faites-moi l'affiche du film “Deux Frères” de Jean Jacques Annaud en langue des signes japonaise."
+    A: "L'équipe doit faire un double doigt d'honneur."
+
+- id: 113
+  menu: "Menu Mémorable."
+  questions:
+  - Q: "V ou F: comme le personnage dans le film Memento, il existe des gens qui perdent la mémoire plusieurs fois par jour ?"
+    A: "Vrai. Riley Horner, une jeune américaine, a sa mémoire qui se réinitialise toutes les 2 heures suite à un coup sur la tête."
+  - Q: "A l'inverse, Dominic O'Brien (62 ans) est champion du Monde de mémoire. Il a remporté le “World Memory Championship“ 8 fois en 10 ans. Bravo à lui. Mais cela l'empêche de se rendre dans un endroit en particulier, lequel ?"
+    A: "Le casino, Il est interdit de casino partout dans le Monde."
+  - Q: "V ou F: la mémoire est malléable à tel point qu'on peut convaincre les gens de crimes qu'ils n'ont pas commis ?"
+    A: "Vrai. Des psychologues ont tenté l'expérience, Sur 30 adolescents, ils ont réussi à en convaincre la moitié en mélangeant des faits réels de leurs vies et des mensonges."
+  - Q: "Et enfin, on va faire fonctionner votre mémoire : Comment s'appelait la femme de la 1ère question, qui perdait la mémoire toutes les 2h ?"
+    A: "Riley Horner. Je suis limite vexé, vous ne m’écoutez pas du tout en fait ?"
+
+- id: 114
+  menu: "Menu FDP Fils de Pub."
+  questions:
+  - Q: "À combien de pubs sommes-nous confrontés en moyenne chaque jour ? (À 200 près)."
+    A: "Entre les affiches, la télé, internet, le téléphone, etc...On estime à 1200 le nombre de pubs visibles en moyenne chaque jour."
+  - Q: "Si demain, sur un coup de tête, vous décidez de lancer une entreprise de shampoing au beurre de karité, et que vous voulez vous offrir une pub sur la page d'accueil de Google pour lancer votre business. Combien devrez-vous débourser ? À 1 million de $ près."
+    A: "10 millions de dollars."
+  - Q: "Nombre de publicitaires s'accordent à dire que la meilleure pub de tous les temps est “1984” pour Apple, diffusée une seule fois en 1984, pendant le Superbowl. À quel grand réalisateur doit-on cette pub ?"
+    A: "Ridley Scott."
+  - Q: "V ou F: bizarrement, une étude montre que 65% des internautes français se disent “pas spécialement dérangé” par les pubs sur le net ?"
+    A: "Faux. En réalité 8 Français sur 10 avouent en avoir ras le cul. Du coup, 1 français sur 5 utilise des bloqueurs de pub."
+
+- id: 115
+  menu: "Menu le Juste Prix du Dark Net. C'est un juste prix illégal et dangereux."
+  questions:
+  - Q: "Combien coûte une Kalachnikov ?"
+    A: "Entre 250 et 2500€ au marché noir."
+  - Q: "Combien coûte un gramme d'héroine ?"
+    A: "Entre 24 et 74€ le gramme d'héroïne brune,"
+  - Q: "Alors on dit toujours “ça m'a coûté un rein”, mais du coup, ça coûte combien un rein ?"
+    A: "De 8 000 à 160 000$ selon le pays."
+  - Q: "Et enfin combien coûte le sourire d'un enfant ?"
+    A: "Ça ne coûte rien, c'est gratuit comme ce Miam et c'est ça qui est beau, Dans un autre contexte, cette question serait mignonne mais dans ce Menu ça fout un petit malaise."
+
+- id: 116
+  menu: "Menu Et si on se faisait une petite pause-café ?"
+  questions:
+  - Q: "Quelle est la couleur naturelle d'un grain de café quand il est fraîchement cueilli ?"
+    A: "Vert, pas noir. Le piège classique. Tout le monde croit que... et en fait non."
+  - Q: "V ou F: le café s'est d'abord appelé “whisky d'Algérie” en France ?"
+    A: "Faux. Il était surnommé le “vin d'Arabie” en raison de son amertume comparable à celle du vin."
+  - Q: "V ou F: l’un des cafés les plus chers du monde a un petit goût caramel car il est récolté dans de la merde ? ! nn"
+    A: "Vrai. Le kopi luwak est récolté dans les excréments d’un petit animal trop mignon, le Luwak, que l'on trouve dans quelques forêts en Asie."
+  - Q: "V ou F: l'espresso s'appelle ainsi car il est fait rapidement ?"
+    A: "Faux. Il s'agit de l’abréviation de l'expression “espressamente preparato per chi lo richiede” qui veut dire “expressément fabriqué pour qui le commande”."
+
+- id: 117
+  menu: "Menu Assez Rare."
+  questions:
+  - Q: "L'hématidrose est une maladie très rare, où les personnes qui en souffrent transpirent autre chose que de l'eau, quoi d’après vous ?"
+    A: "Du sang. C'est une maladie très rare mais qui ne présente pas de danger particulier."
+  - Q: "V ou F: c'est assez rare mais les cochons d'Inde chantent."
+    A: "Vrai. Le chant du cochon d'Inde est un phénomène rare où l’animal entre dans une sorte de transe et se met à chanter comme un oiseau durant quelques minutes."
+  - Q: "Les sténotypistes sont des personnes très prisées dans les grandes entreprises parce qu ‘ils savent écrire très vite, combien de mots par minute d'après vous, à 20 près ?"
+    A: "200 à 220 mots/minute. Ils écrivent sous forme phonétique simpli- fiée à la vitesse de la parole, ils sont très recherchés notamment car capables de faire du sous-titrage en direct."
+  - Q: "BRAVO ! Vous êtes tombés sur un menu qui ne comporte que 3 questions"
+    A: "et c'est extrêmement rare."
+
+- id: 118
+  menu: "Menu Popopopopopopopolololooooo … OLÉ. Un Menu qui comme son nom ne l'indique pas forcément, parle de tennis."
+  questions:
+  - Q: "V ou F: comme dans beaucoup d'autres sports, il y a une grosse différence de salaire entre homme et femme au tennis ?"
+    A: "Faux. C'est l'un des rares sports avec une parité salariale. Joueuses et joueurs gagnent la même somme s'ils remportent le tournoi du Grand Chelem,"
+  - Q: "V ou F: les balles de tennis pour femmes sont faites pour aller moins vite sur le cours ?"
+    A: "Faux. C'est l'inverse. Le feutre des balles pour hommes est plus fourni, pour les ralentir un peu,"
+  - Q: "En 1969, lors de la finale de l'US Open, le gazon était trop humide. Quel moyen éco-irresponsable les organisateurs ont-ils utilisé pour sécher le terrain ?"
+    A: "Ils ont ramené un hélicoptère juste au-dessus du court, pour sécher la pelouse."
+  - Q: "Marat Safin, ancien numéro 1 mondial, était connu pour fracasser ses raquettes. En 689 matchs, il en a cassé combien d'après vous ? À 200 près."
+    A: "Il a détruit 1055 raquettes. Soit 1,53 raquettes) par match."
+
+- id: 119
+  menu: "Menu Ah c’est marrant je pensais plus."
+  questions:
+  - Q: "Dans combien de films a joué James Dean durant toute sa carrière ? À 1 près."
+    A: "3. Ah c'est marrant, je pensais plus.… “À l'Est d'Eden” d'Elia Kazan, “La Fureur de Vivre” de Nicholas Ray et “Géant” de George Stevens."
+  - Q: "Combien d'épisodes compte la série “Mr. Bean“ ? À 2 près."
+    A: "14 épisodes seulement. Ah c'est marrant, je pensais plus… Il y a eu 2 films au cinéma par la suite."
+  - Q: "Rimbaud commença son œuvre à 15 ans. À quel âge at-il abandonné la poésie ? À 3 ans près."
+    A: "20 ans. L'entièreté de son œuvre fut écrite en 5 ans. Ah c'est marrant, Je pensais plus."
+  - Q: "V ou F: Patrick Timsit a eu une carrière de chanteur qui s'élève à une chanson ?"
+    A: "C'est vrai, Ah c'est marrant, je pensais moins. Titre de la chanson : « Manie Ma Nana »."
+
+- id: 120
+  menu: "Menu a prendre absolument en 2ieme, Un menu qui concerne les questions du Menu précédent. Si vous avez voulu faire les intéressant en choisissant ce menu en 1er, vous êtes dans la merde. Mais en même temps on vous avait prévenu."
+  questions:
+  - Q: "Combien y a-t-il eu de films “Mr. Bean“ au cinéma ?"
+    A: "2."
+  - Q: "Qui a réalisé le film “Géant“ avec James Dean ?"
+    A: "George Stevens."
+  - Q: "Quelle était la réponse à la 2ème question du menu précédent ?"
+    A: "14 épisodes."
+  - Q: "Et enfin, quel est le titre de la chanson de Patrick Timsit ?"
+    A: "“Manie ma nana”."

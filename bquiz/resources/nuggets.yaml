@@ -1,0 +1,1953 @@
+- id: 1
+  questions:
+  - question: "Quel était le nom, d'un des gardes du corps de Napoléon ?"
+    answer: B
+    choices:
+      A: "Louis de Funès."
+      B: "Colluche."
+      C: "Pierre Richard."
+      D: "Alexandre Benalla."
+  - question: "Une seule de ces boutiques au nom «jeu de mots » n'existe pas. Laquelle ?"
+    answer: D
+    choices:
+      A: "Le salon de coiffure «La Raie Création»."
+      B: "Le restaurant «La Bouche des Goûts »."
+      C: "Le salon de coiffure «Faudra Tif Hair»."
+      D: "La charcuterie «Tripes Advisor»."
+  - question: "Quelle est la particularité de l'île de Bali en Indonésie ?"
+    answer: B
+    choices:
+      A: "85% de la population possède la même marque de voiture."
+      B: "90% de la population se partage 4 prénoms."
+      C: "95% de la population gagne exactement le même salaire."
+      D: "100% de la population chausse du 41 et demi."
+  - question: "Quelle musique de film est cachée dans le générique du journal de 20h de TF1 ?"
+    answer: B
+    choices:
+      A: "Psychose."
+      B: "Les Dents de la Mer."
+      C: "L'Exorciste."
+      D: "La Soupe aux Choux."
+
+- id: 2
+  questions:
+  - question: "Quel est l'hymne de la Légion Étrangère Française ?"
+    answer: A
+    choices:
+      A: "«Tiens, tiens, voilà du boudin»."
+      B: "«Il est des no06ûûtres, il a bu son verre comme les auuuuuutres »."
+      C: "«1 km à pied, ça use, ça use»."
+      D: "«Moi, si j'étais un homme, je serais capitaine »."
+  - question: "Qu'y-a-t-il d'écrit sur le string du Commissaire Bialès A.K.A Gérard Darmon dans le film «La Cité de la peur» ?"
+    answer: B
+    choices:
+      A: "Lapeyre, y'en a pas deux."
+      B: "Y'a du tonus dans mes pruneaux."
+      C: "Fumer tue."
+      D: "C'est cool, il y a tellement de place qu'on peut écrire une phrase hyper longue."
+  - question: "Parmi ces expressions, laquelle ne veut pas dire avoir mauvaise haleine ?"
+    answer: C
+    choices:
+      A: "Plomber de la gargouenne."
+      B: "Taper du saladier."
+      C: "Avoir une trichine dans le jambonneau."
+      D: "Avoir le cul derrière les dents."
+  - question: "Quelle particularité, qu’on croyait exclusivement humaine, ont les manchots ?"
+    answer: B
+    choices:
+      A: "Ils se droguent."
+      B: "Ils se prostituent."
+      C: "Ils pratiquent l'exhibitionnisme."
+      D: "Ils sont accros aux jeux à gratter."
+
+- id: 3
+  questions:
+  - question: "Quelle mésaventure a connu Allen Funt, le roi de la caméra cachée dans les années 60 ?"
+    answer: C
+    choices:
+      A: "ll a lancé une alerte au requin sur une plage de Floride, mais personne ne l'a cru."
+      B: "Il a dû faire 4 demandes en mariage à sa femme parce qu’elle ne le croyait pas."
+      C: "ILs'est retrouvé dans une prise d'otage aérienne, mais tous les passagers ont cru à une blague."
+      D: "Ilest décédé en 1999 et sa famille attend toujours qu'il désamorce la blague."
+  - question: "Que fait le Manakin, ce petit oiseau fan de Michael Jackson, pour draguer ?"
+    answer: B
+    choices:
+      A: "IIchante du Michael Jackson."
+      B: "Il fait le moonwalk."
+      C: "Il devient tout blanc."
+      D: "Il met un chapeau et se touche les couilles."
+  - question: "Quel était le rituel matinal de la marquise de Montespan, favorite du roi Louis XIV ?"
+    answer: B
+    choices:
+      A: "Elle mangeait des crottes de lapin, pour se tonifier."
+      B: "Elle buvait de l'urine de mule, pour avoir le teint frais."
+      C: "Elle se badigeonnait de sang de pigeon, pour éloigner les rides."
+      D: "Elle allait au Starbucks se pécho un venti americano et un egg muffin."
+  - question: "Quelle option a été envisagée par les services secrets britanniques pour tenter de diminuer Hitler ?"
+    answer: A
+    choices:
+      A: "Glisser des hormones féminines dans ses repas pour le féminiser."
+      B: "Glisser de la beuh dans ses clopes pour le faire planer."
+      C: "Glisser des anxiolytiques dans ses boissons pour le détendre."
+      D: "Glisser un billet de 10 livres sterling dans sa poche pour le faire twerker."
+
+- id: 4
+  questions:
+  - question: "Comment a failli s'appeler Bison Futé, ce génie animal de la circulation humaine ?"
+    answer: D
+    choices:
+      A: "Bison Débile, mais c'était pas très vendeur."
+      B: "Fangio, mais ça incitait trop les automobilistes à la vitesse."
+      C: "Philippe, ça aurait fait un peu bizarre mais pourquoi pas."
+      D: "Ginette. Ah oui, donc on peut proposer tout et n'importe quoi."
+  - question: "Dans certaines régions du Bhoutan, que font certains peintres pour protéger les habitants du mauvais œil ?"
+    answer: D
+    choices:
+      A: "Ils peignent les maisons avec du sang de corbeaux."
+      B: "Ils peignent des fresques avec le pied d'un nouveau-né en guise de pinceau."
+      C: "Ils peignent les maisons couleur arc-en-ciel."
+      D: "Ils dessinent des bites sur les murs."
+  - question: "Les coussinets que les chiens ont sous leurs pattes ont une odeur particulière, laquelle ?"
+    answer: A
+    choices:
+      A: "Ils sentent le pop-corn."
+      B: "Ils sentent l'aloe vera."
+      C: "Ils sentent la tapenade,"
+      D: "Ils sentent le Allure Homme Sport."
+  - question: "A quel âge Spielberg a-t-il fini ses études de cinéma ?"
+    answer: C
+    choices:
+      A: "À 12 ans, pour se consacrer au tournage de E.T. avec sa Super 8."
+      B: "À 16 ans, en pitchant le scénario des Dents de la mer en examen final."
+      C: "À 55 ans, en rendant la Liste de Schindier comme film de fin d'étude."
+      D: "À 75 ans, quand il rencontra le troisième type."
+
+- id: 5
+  questions:
+  - question: "Qu'a fait Mercedes McCambridge pour doubler la voix  de la petite fille possédée dans l'Exorciste ?"
+    answer: B
+    choices:
+      A: "Elle a arrêté de voir son psy pour totalement lâcher prise."
+      B: "Elle s'est remise à boire et à fumer pour salir un peu sa voix."
+      C: "Elle a passé 4 mois avec un chanteur de black métal pour travailler sa voix."
+      D: "Elle mangeait du gravier matin, midi et soir."
+  - question: "A D'où vient le nom de cette petite onde radio appelée «Bluetooth» ?"
+    answer: A
+    choices:
+      A: "D'un roi danois nommé «Harald à la dent bleue »,"
+      B: "D'un ancien dentiste devenu ingénieur en onde électromagnétique."
+      C: "Du nom de Jordan Bluetooth, son inventeur."
+      D: "C'était le surnom donné à la Schtroumpfette."
+  - question: "De 1962 à 1977, quel était le code de lancement des missiles nucléaires américains ?"
+    answer: D
+    choices:
+      A: "14183945, comme les dates des guerres mondiales."
+      B: "04071776, comme la date d'indépendance des États-Unis."
+      C: "22111963, comme la date de l'assassinat de Kennedy."
+      D: "00000000, comme 2 fois le code de l'iPhone de Kanye West,"
+  - question: "Quelle chose un peu génante a fait Georges Bush le 8 janvier 1992 lors d’un diner officiel au Japon ?"
+    answer: D
+    choices:
+      A: "Il a fait la bise à la femme du président japonais."
+      B: "Au lieu de dire «Merci pour ce repas» en japonais, il a dit «Je suis agriculteur»."
+      C: "Ila recraché son champagne sur le président en rigolant à une blague."
+      D: "Il a vomi sur le Premier ministre."
+
+- id: 6
+  questions:
+  - question: " Laquelle de ces anecdotes musicales est vraie ?"
+    answer: C
+    choices:
+      A: "«New York, New York» de Sinatra est l'hymne officiel de la ville."
+      B: "«Route 66» de Chuck Berry est diffusée par une radio tout au long de la fameuse route."
+      C: "«Across the Universe» des Beatles, a été diffusée à travers l'univers,"
+      D: "«Chandelier» de Sia est la chanson préférée du colonel Moutarde."
+  - question: "Quelle chanson française, Hans Zimmer a-t-il utilisé pour composer le thème principal du film «Inception » ?"
+    answer: A
+    choices:
+      A: "«Non je ne regrette rien» d'Édith Piaf."
+      B: "«Mistral gagnant» de Renaud."
+      C: "«Ne me quitte pas» de Jacques Brel."
+      D: "«Sur un air latino» de Lorie."
+  - question: " F Pourquoi la Joconde n’a-t-elle pas de sourcils ?"
+    answer: B
+    choices:
+      A: "Car c'était un signe de pouvoir pour une femme à l'époque."
+      B: "Car elle les a perdus, avec le temps."
+      C: "Car Léonard de Vinci ne savait pas dessiner les sourcils."
+      D: "Parce qu'elle a perdu un pari."
+  - question: "El Aux Pays-Bas, de quelle façon légale un élève peut-il payer son moniteur d’auto-école ?"
+    answer: A
+    choices:
+      A: "En nature, ce serait glauque."
+      B: "En bouteille d'alcool, ce serait ironique."
+      C: "En marijuana, ce serait une belle enfume."
+      D: "En gouda, ce serait pas notre meilleure vanne."
+
+- id: 7
+  questions:
+  - question: " Qui était Dietrich Eckart ?"
+    answer: D
+    choices:
+      A: "Le prof de math d'Albert Einstein."
+      B: "Le prof de musique de Jean-Sébastien Bach."
+      C: "Le prof de littérature de Karl Marx."
+      D: "Le prof de nazisme d'Hitler,"
+  - question: "Par quel endroit, plus insolite que les narines, peut respirer la tortue Mary River ?"
+    answer: B
+    choices:
+      A: "Par les écailles de sa carapace, pas anormal."
+      B: "Par son anus, pas désagréable."
+      C: "Par les pores de sa peau, pas bête."
+      D: "Ni A, ni B, ni C et donc ni D."
+  - question: " Qu'est-il arrivé au croate Frane Selak ?"
+    answer: D
+    choices:
+      A: "Ia été happé hors d’un avion mais a atterri sur une meule de foin et s'en est sorti vivant."
+      B: "Sa voiture a fini dans un ravin profond de 90m, mais il s'est accroché à un arbre et s'en est sorti vivant."
+      C: "L'autobus qu'il conduisait est tombé dans une rivière, mais il est parvenu à rejoindre le rivage et s’en est sorti vivant."
+      D: "AB, C et donc D puis il gagne au loto."
+  - question: "Laquelle de ces affirmations sur l’autrichien Adam Rainer est vraie ?"
+    answer: B
+    choices:
+      A: "ILest le seul champion du monde masculin et féminin d'escrime."
+      B: "Ilest le seul à avoir été nain et géant."
+      C: "Iles le seul à avoir été enterré mort puis déterré vivant."
+      D: "Ilest le seul à avoir compris si le prélèvement à la source était une bonne ou une mauvaise chose."
+
+- id: 8
+  questions:
+  - question: " Laquelle de ces phrases apparaît réellement dans une édition de la Bible parue en 1631 ?"
+    answer: B
+    choices:
+      A: "La verge Marie se fripait avec le temps."
+      B: "Tu commettras l'adultère."
+      C: "Et Dieu créa la flemme."
+      D: "Non j'déconne, Dieu n'existe pas, mon père s'appelle Patrick, lol."
+  - question: " Pourquoi ne pourrez-vous pas acheter de Blédina en Russie ?"
+    answer: C
+    choices:
+      A: "Car concernant l'alimentation pour bébé, la Russie a interdit toutes marques étrangères."
+      B: "Car la marque Blédina est dirigée par l'ennemi juré de Vladimir Poutine."
+      C: "Car Blédina veut dire «pute» en Russe."
+      D: "Car, même bébé, les Russes se nourrissent exclusivement de Caviar et de Vodka, c'est bien connu."
+  - question: "Quand l’un des leurs meurt, les corbeaux se rassemblent autour du défunt, pourquoi d’après vous ?"
+    answer: B
+    choices:
+      A: "Pour ses funérailles."
+      B: "Pour enquêter sur sa mort."
+      C: "Pour le déplumer afin de renforcer leur nid."
+      D: "Pour chanter «Ce n’est qu'un au revoir», en se donnant les ailes."
+  - question: "A Quel point commun, normal pour l'époque, avaient toutes les femmes de l’Empire romain ?"
+    answer: C
+    choices:
+      A: "Elles n'avaient pas le droit de parler sauf sur ordre d'un homme, normal."
+      B: "Elles dormaient dans la cuisine, normal."
+      C: "Elles n'avaient pas de prénom, normal."
+      D: "Leurs voix comptaient double au Sénat, bizarre."
+
+- id: 9
+  questions:
+  - question: "Que peuvent faire les dauphins, à part violer leurs congénères mais ça on le savait déjà ?"
+    answer: B
+    choices:
+      A: "Chanter en canon."
+      B: "S'appeler par leur prénom."
+      C: "Dessiner."
+      D: "S'affaler sur un rocher et s'enquiller les 7 saisons de «Flipper le dauphin»."
+  - question: "Quel génie a inventé la chatière ?"
+    answer: B
+    choices:
+      A: "Archimède."
+      B: "Newton."
+      C: "Einstein."
+      D: "Hervé Mathoux."
+  - question: "Une seule de ces premières phrases de chefs d'œuvres de la littérature mondiale n'existe pas. Laquelle ?"
+    answer: D
+    choices:
+      A: "“Longtemps je me suis couché de bonne heure”."
+      B: "“Je m'appelle Ishmaël”."
+      C: "“On avait sûrement calomnié Joseph K., car sans avoir rien fait de mal, il fut arrêté un matin”."
+      D: "“Il faisait une chaleur d'anus“"
+  - question: "A l'instar du point d'exclamation ou du point d'interrogation, quel signe de ponctuation a bien failli exister ?"
+    answer: A
+    choices:
+      A: "Le point d'ironie, paur accentuer le sarcasme."
+      B: "Le point d'hésitation, pour souligner l'incertitude."
+      C: "Le point de contradiction, pour marquer la désapprobation."
+      D: "Le poin poin poin poiinnnn.…. pour la vanne foireuse."
+
+- id: 10
+  questions:
+  - question: "On dit souvent «ça fait des lustres», mais ça fait combien «des lustres » ?"
+    answer: C
+    choices:
+      A: "Un peu moins de 2 semaines."
+      B: "3,223 siècles soit 3 siècles, 22 ans, 3 mois et 18 jours."
+      C: "Ça dépend combien il y a de lustres car un lustre égale 5 ans."
+      D: "Rien de précis, c'est juste une expression pour dire «pfoulala, pchijou, ça date »."
+  - question: "Selon l'expression «se la péter» on se pète quoi ?"
+    answer: B
+    choices:
+      A: "La cheville."
+      B: "La bretelle."
+      C: "La forme."
+      D: "Un 6 feuilles au calme dans un hall d'immeuble."
+  - question: "Quand on tape «chat concombre» dans sa barre de recherche, on tombe."
+    answer: B
+    choices:
+      A: "Sur des vidéos de chats qui mangent des concombres."
+      B: "Sur des vidéos de chats qui ont peur des concombres."
+      C: "Sur des vidéos de chats qui griffent des concombres."
+      D: "Sur un tchat réservé aux concombres."
+  - question: "f Laquelle de ces boîtes de jeu thématisées «caca-prout » n'existe pas ?"
+    answer: B
+    choices:
+      A: "Prout' Cochons."
+      B: "Hippopot’anus."
+      C: "1,2, 3, Prout."
+      D: "Médor Pète-Fort."
+
+- id: 11
+  questions:
+  - question: "Quels candidats se sont réellement affrontés dans une élection municipale au Pérou en 2018 ?"
+    answer: C
+    choices:
+      A: "Stalin et Pétain."
+      B: "Castro et Franco."
+      C: "Hitler et Lenin."
+      D: "David et Jonathan."
+  - question: "Que trouve-t-on dans le plus grand baobab du monde situé en Afrique du Sud ?"
+    answer: D
+    choices:
+      A: "Une famille de girafes qui y a fait son chez-soi."
+      B: "La plus grande fourmilière du monde."
+      C: "Des sculptures vieilles de plus de 2500 ans."
+      D: "Un petit bar hyper sympa, noté 3,5 sur Tripadvisor."
+  - question: "Pourquoi, sur les Porsche, insère-t-on sa clé de contact à gauche et pas à droite ?"
+    answer: B
+    choices:
+      A: "Parce qu'il y a davantage de gauchers chez les riches."
+      B: "Lors des premières courses automobiles, le pilote devait courir à sa voiture et allumer le contact rapidement."
+      C: "C'est une erreur de construction devenue une marque de fabrique."
+      D: "Ferdinand Porsche, créateur de la marque, avait perdu son bras droit, du coup bah voilà quoi."
+  - question: "A Quel métier est tellement prisé à New York qu'il existe une liste d'attente de 8 ans pour y postuler ?"
+    answer: D
+    choices:
+      A: "Chauffeur de taxi."
+      B: "Vendeur de hot dog."
+      C: "Dog sitter."
+      D: "Éboueur."
+
+- id: 12
+  questions:
+  - question: " Quel a été le second job du poète Arthur Rimbaud ?"
+    answer: B
+    choices:
+      A: "Proxénète."
+      B: "Trafiquant d'armes."
+      C: "Dealer."
+      D: "Community manager."
+  - question: "Sur quelle musique la Reine Elizabeth Il a-t-elle été couronnée en 1953 ?"
+    answer: A
+    choices:
+      A: "La musique de la Ligue des champions."
+      B: "La musique des Knacki Herta."
+      C: "La musique de l'Eurovision."
+      D: "«Femme libérée» de Cookie Dingler."
+  - question: " F Qu'a-t-on déjà vu dans un Disney ?"
+    answer: C
+    choices:
+      A: "Dingo en braconnier dans «Jungle Rhythm »."
+      B: "Minnie en prostituée dans «Walk on the street»."
+      C: "Donald en nazi dans «Der Fuehrer's Face»."
+      D: "Mickey dans une comédie sociale et PERTE «Mickey ce qu'on a fait au bon Dieu"
+  - question: "Pendant la 2ieme Guerre mondiale, un officier allemand, en voyant Guernica, demanda à Pablo Picasso si c'était lui qui avait fait ce tableau. Que lui répondit Pablo ?"
+    answer: A
+    choices:
+      A: "«Non, c'est vous »,"
+      B: "«Non, c'est un ami juif»."
+      C: "«Qu'est-ce que ça change, vous le brûlerez lui aussi»."
+      D: "«Qui, avec mes couilles, à l'encre de Chine»."
+
+- id: 13
+  questions:
+  - question: "Avant que ne sorte le film de Peter Jackson, quel célèbre groupe a envoyé à Tolkien, une demande d'adaptation du roman «Le Seigneur des anneaux» ?"
+    answer: B
+    choices:
+      A: "Les Rolling Stones avec Mick Jagger en Frodon Sacquet."
+      B: "Les Beatles avec John Lennon en Gollum."
+      C: "Nirvana avec Kurt Cobain en Legolas."
+      D: "Kassav avec Jacob Desvarieux en Gandalf."
+  - question: "Pourquoi Moby s'appelle «Moby» ?"
+    answer: B
+    choices:
+      A: "Parce que c'est comme ça, faut arrêter de chercher des explications partout."
+      B: "Parce que son arrière-arrière-arrière-grand-oncle a écrit « Moby Dick»."
+      C: "Parce que c'était le nom du club le plus hype de New York dans les années 70."
+      D: "Parce que «Dick Rivers» était déjà pris."
+  - question: "Quelle info, qui risque de vous gâcher une chanson pour enfant, est vraie ?"
+    answer: B
+    choices:
+      A: "«Une souris verte» parle de zoophilie."
+      B: "«Il était un petit navire» parle de cannibalisme."
+      C: "«Un kilomètre à pied» parle d'esclavage."
+      D: "«Au clair de la lune» parle de sodomie."
+  - question: "A Laquelle de ces informations sur la ponctuation est vraie ?"
+    answer: A
+    choices:
+      A: "La virgule vient d'un mot latin signifiant «petite verge »."
+      B: "Les guillemets ont été inventés par un certain Honoré de Guillemet."
+      C: "La cédille n’est utilisée dans aucune autre langue."
+      D: "Le point-virgule était un théâtre à la base."
+
+- id: 14
+  questions:
+  - question: "Quelle est la particularité de Violet Jessop, à part d’avoir un joli petit nom ?"
+    answer: C
+    choices:
+      A: "Elle a survécu à un crash aérien."
+      B: "Elle a survécu à deux tremblements de terre, dont celui suivi du tsunami en 2004..."
+      C: "Elle a survécu à trois naufrages maritimes, dont celui du Titanic."
+      D: "Elle a survécu à un Paris-Nice en BlaBlaCar avec Jean-Michel Maire,"
+  - question: "Laquelle de ces infos mode sur la reine d'Angleterre est fausse ?"
+    answer: D
+    choices:
+      A: "Elle fait assouplir ses chaussures neuves par des assistants avant de les mettre."
+      B: "Il y a du plomb dans ses robes pour éviter qu'elles ne se soulèvent avec le vent."
+      C: "Elle dessine elle-même tous ses chapeaux."
+      D: "Une de ses culottes a été mise en vente sur eBay,"
+  - question: "Quelle est la spécialité de Jackie Stallone, astrologue, et mère de Sylvester Stallone ?"
+    answer: C
+    choices:
+      A: "Elle prédit l'avenir en observant la langue des gens."
+      B: "Elle prédit l'avenir en observant les narines des gens."
+      C: "Elle prédit l'avenir en observant le sillon interfessier des gens."
+      D: "Elle prédit le passé."
+  - question: " A S’il n'avait pas été acteur, qu’aurait pu devenir Sean Connery ?"
+    answer: B
+    choices:
+      A: "Basketteur aux Lakers."
+      B: "Footballeur à Manchester United."
+      C: "Baseballeur aux Yankees de New York."
+      D: "Candidat de Secret Story, avec comme secret «J'aurais pu être James Bond»."
+
+- id: 15
+  questions:
+  - question: " Quel challenge internet n'existe pas (encore) ?"
+    answer: D
+    choices:
+      A: "Manger des capsules de lessive."
+      B: "Aspirer un préservatif par le nez et le ressortir par la bouche."
+      C: "S'immoler."
+      D: "Lire un livre."
+  - question: " D'où vient le terme «mouchard», pour désigner un espion ?"
+    answer: A
+    choices:
+      A: "D'Antoine de Mouchy, théologien antiprotestant qui envoyait des espions chez ses ennemis."
+      B: "De Philipe de Mouchette, responsable du renseignement dans la France de Félix Faure."
+      C: "De Bertrand Mouchard, considéré comme le plus grand espion français du XVII siècle."
+      D: "De George W. Mouche considéré comme le plus mauvais jeu de mot de l'histoire de Burger Quiz."
+  - question: " Quelle capacité humaine a le requin marteau ?"
+    answer: D
+    choices:
+      A: "Il fait chier ses voisins en plantant des clous le dimanche matin."
+      B: "Il se lave les dents après chaque repas."
+      C: "Il pleure quand il est triste."
+      D: "Il bronze au soleil."
+  - question: " Comment appelle-t-on vulgairement la fourmi Paraponera ?"
+    answer: C
+    choices:
+      A: "La fourmi enclume."
+      B: "La fourmi nœud coulant."
+      C: "La fourmi balle de fusil."
+      D: "La fourmi, fourmi, fourmidable."
+
+- id: 16
+  questions:
+  - question: " Parmi ces 4 affirmations, laquelle est fausse ?"
+    answer: C
+    choices:
+      A: "Les Chinois ont inventé le foot."
+      B: "Les Chinois ont inventé l'imprimerie."
+      C: "Les Chinois ont inventé le nem."
+      D: "Les Chinois ont inventé la Muraille de Chine."
+  - question: "Lequel de ces produits a réellement été commercialisé ?"
+    answer: C
+    choices:
+      A: "Une éponge grattante Chanel."
+      B: "Un balai Givenchy."
+      C: "Une eau de Javel Dior."
+      D: "Une brosse de toilette Gucciot."
+  - question: "Laquelle de ces affirmations est vraie ?"
+    answer: B
+    choices:
+      A: "Kool Shen s'appelle Martin Luther."
+      B: "Maître Gims s'appelle Gandhi."
+      C: "Stomy Bugsy s'appelle Mandela."
+      D: "50 Cent s'appelle l'Abbé Pierre."
+  - question: "Laquelle de ces affirmations est exacte ?"
+    answer: A
+    choices:
+      A: "Al Capone a mis en place la date de péremption sur les bouteilles de lait."
+      B: "El Chapo est à l'origine des premiers labels d'Appellation d'Origine Contrôlée sur les aliments."
+      C: "Pablo Escobar a eu l'idée d'apposer la composition précise des aliments sur les étiquettes."
+      D: "Jack L'éventreur a inventé l'ouverture facile."
+
+- id: 17
+  questions:
+  - question: "Qui s’est réellement présenté aux élections municipales de Säo Paulo en 1958 ?"
+    answer: C
+    choices:
+      A: "Une femme, oui vous avez bien entendu, UNE FEMME !"
+      B: "Un enfant de 7 ans."
+      C: "Un rhinocéros."
+      D: "Manuel Valls."
+  - question: "Lequel de ces clins d'œil entre Steven Spielberg et George Lucas est exact ?"
+    answer: B
+    choices:
+      A: "Il y a Dark Vador dans «Minority Report»."
+      B: "On aperçoit E.T dans «Star Wars, Épisode 1»."
+      C: "Il est inscrit R2D2 sur une plaque d’immatriculation dans «Munich»."
+      D: "Il y a C3PO dans «La liste de Schindler»."
+  - question: "Dans le ventre de la mère:"
+    answer: C
+    choices:
+      A: "Les doigts commencent à se former avant le nez."
+      B: "Les pieds commencent à se former avant les yeux."
+      C: "L'anus commence à se former avant la bouche."
+      D: "Les parties génitales commencent à se former avant le cerveau."
+  - question: "Dans la Rome Antique, quand un homme témoignait en cour de justice, il jurait…"
+    answer: D
+    choices:
+      A: "Sur la tête de sa mère."
+      B: "Sur son glaive."
+      C: "Sur Jules César."
+      D: "Sur ses couilles."
+
+- id: 18
+  questions:
+  - question: "Laquelle de ces informations sur les séries est exacte ?"
+    answer: B
+    choices:
+      A: "Hugh Laurie, alias Dr House a foiré ses études de médecine."
+      B: "Peter Falk, alias Columbo s'est fait refouler du concours d'entrée de la CIA."
+      C: "Michael C. Hall, alias Dexter a loupé son CAP boucherie."
+      D: "Alexandre Astier, alias le Roi Arthur, n'a jamais eu la fève."
+  - question: "Laquelle de ces affirmations est exacte ?"
+    answer: D
+    choices:
+      A: "Snoop Dogg est un grand fan de Boule et Bill."
+      B: "John Wayne était fan de Lucky Luke."
+      C: "Donald Trump est fan de Gaston Lagaffe."
+      D: "Michael Jackson était fan de Martine."
+  - question: "Quelle utilisation de légume était considérée comme aphrodisiaque à l’époque de la Grèce antique ?"
+    answer: C
+    choices:
+      A: "Se passer de la rhubarbe sur le postérieur."
+      B: "Se caresser les tétons avec du fenouil."
+      C: "Se frotter le sexe avec de la roquette."
+      D: "Se flageller les couilles avec des branches de céleri."
+  - question: "Si vous invitez un insecte à dîner, que devrez-vous absolument prendre en compte ?"
+    answer: C
+    choices:
+      A: "Que les moustiques préfèrent boire du sang A+."
+      B: "Que les cigales sont allergiques au céleri."
+      C: "Que les mouches ont besoin d'aller chier toutes les 5 minutes."
+      D: "Que les mille-pattes puent un peu des ieps."
+
+- id: 19
+  questions:
+  - question: "Lequel de ces fromages a réellement été commercialisé ?"
+    answer: B
+    choices:
+      A: "Le «Caprice des Humains», concurrent du «Caprice des dieux»."
+      B: "La «Vache Sérieuse», concurrente de la «Vache qui Rit»."
+      C: "Le «Adobel», concurrent du «Babybel»."
+      D: "Le camembert «Gilet Jaune», concurrent du camembert «Président»."
+  - question: "Que font les Japonais le premier dimanche du mois d'avril ?"
+    answer: D
+    choices:
+      A: "Ils célèbrent le saké pendant le Festival du Saké."
+      B: "Ils célèbrent l'abricotier pendant le Festival de l'Abricot."
+      C: "Ils célèbrent l’algue, pendant le Festival de l’Algue."
+      D: "Ils célèbrent la bite pendant le Festival de la Bite."
+  - question: "Trouvez l'intrus."
+    answer: D
+    choices:
+      A: "La mariée ira mal."
+      B: "Elu par cette crapule."
+      C: "Léon a sucé ses écus à Noël."
+      D: "Les fouilles du curé sont bouchées."
+    info: "En effet, les 3 premiers sont des palindromes, des phrases qui gardent le même sens, qu'on les lise de gauche à droite ou de droite à gauche."
+  - question: "Lequel de ces rhinocéros est gris ?"
+    answer: D
+    choices:
+      A: "Le rhinocéros blanc."
+      B: "Le rhinocéros noir."
+      C: "Le rhinocéros indien."
+      D: "Ils sont tous gris. Un rhinocéros c'est gris, arrêtez de m'emmerder."
+
+- id: 20
+  questions:
+  - question: "Quelle information sur le film «Cannibal Holocaust » est vraie ?"
+    answer: C
+    choices:
+      A: "C'est une comédie romantique."
+      B: "De vrais cannibales ont joué dedans, pour plus d'authenticité."
+      C: "Les effets spéciaux étaient tellement réalistes que le réalisateur a dû prouver devant un tribunal que personne n'était mort sur le tournage."
+      D: "Le tournage a coûté un bras au réalisateur, mais littéralement."
+  - question: "A quoi servait le bouton rouge sur le bureau du président Donald Trump ?"
+    answer: D
+    choices:
+      A: "À déclencher l'arme nucléaire."
+      B: "À appeler le chef du FBI."
+      C: "À appeler sa femme."
+      D: "À commander du Coca."
+  - question: "Quelle est la réponse B ?"
+    answer: [ A, B, C ]
+    choices:
+      A: "La réponse C."
+      B: "La réponse A."
+      C: "La réponse B."
+      D: "La réponse D."
+  - question: "A la base, dans «Retour vers le futur», les voyages dans le temps ne devaient pas s'effectuer dans une DeLorean, mais dans:"
+    answer: C
+    choices:
+      A: "Ton cul."
+      B: "Une baignoire."
+      C: "Un Frigo."
+      D: "Un Photomaton."
+
+- id: 21
+  questions:
+  - question: "Si vous êtes un cheval et que vous picolez trop en soirée, quel avantage aurez-vous sur vos amis humains ?"
+    answer: B
+    choices:
+      A: "Vous ne serez jamais ivre, car l'alcool n'a aucun effet sur les chevaux."
+      B: "Vous ne vomirez pas, car les chevaux ne peuvent pas vomir."
+      C: "Vous vous souviendrez de tout car les chevaux ont la meilleure mémoire du monde animal."
+      D: "Vous n'enverrez pas de sms à votre ex car c'est relou d'écrire avec des sabots."
+  - question: "Quelle solution les vétérinaires utilisent-ils pour encourager les pandas à se reproduire ?"
+    answer: D
+    choices:
+      A: "Ils leur passent du Barry White."
+      B: "Ils mettent du gingembre dans les bambous, ce qui a un effet aphrodisiaque."
+      C: "Ils parfument les femelles."
+      D: "Ils leur montrent des vidéos pornos pour pandas."
+  - question: "Quelle chanson peut réellement sauver une vie si on la chante en pratiquant un massage cardiaque ?"
+    answer: D
+    choices:
+      A: "«Ready to die» de Notorious B.I.G."
+      B: "«Live is life» de Opus."
+      C: "«Dead inside» de Muse."
+      D: "«Stayin’ alive» des Bee Gees."
+  - question: "Pourquoi, dans «Hey Jude» des Beatles, la batterie ne rentre-t-elle qu’au bout de 50 secondes ?"
+    answer: D
+    choices:
+      A: "Parce que le morceau est comme ça, merde à la fin."
+      B: "Parce qu'il y a eu un problème de micro dans le studio."
+      C: "Parce que les producteurs détestaient la batterie, du coup c'était un compromis."
+      D: "Parce que Ringo Starr, le batteur, était parti pisser."
+
+- id: 22
+  questions:
+  - question: "Claude François est mort, électrocuté, la veille des élections législatives. Comment le journal Libération a-t-il titré sur sa mort le lendemain ?"
+    answer: B
+    choices:
+      A: "Claude François court-circuite les élections."
+      B: "Claude François : a volté."
+      C: "Claude François dans l'urne funéraire."
+      D: "Claude François électeur électrisé."
+  - question: "Qu'est-ce que George Washington et Thomas Jefferson, les pères-fondateurs des États-Unis, avaient en commun avec Snoop Dogg ?"
+    answer: B
+    choices:
+      A: "Ils ont tourné un film porno."
+      B: "Ils ont fait pousser de la beuh."
+      C: "Ils ont appartenu à un gang de la West Coast."
+      D: "Ils ont eu leur période tresses afro."
+  - question: "Parmi ces 4 produits, lequel peut-on réellement trouver dans le commerce ?"
+    answer: C
+    choices:
+      A: "PIXELS, des céréales luxembourgeoises."
+      B: "BUG, un cake marbré allemand,"
+      C: "SPAM, de la viande américaine précuite en boîte."
+      D: "PIÈCE JOINTE, du papier-toilette français."
+  - question: "Uwe Boll est un réalisateur qui a souvent été critiqué pour la nullité absolue de ces films. Qu'a-t-il fait à ses détracteurs les plus virulents ?"
+    answer: D
+    choices:
+      A: "Il a fait un film sur eux et les a tous fait mourir au scénario."
+      B: "Il s’est efforcé de faire un film encore plus mauvais et il leur a dédié."
+      C: "Il leur a montré “Turf” pour prouver qu'il y a toujours pire."
+      D: "Il les a défiés à la boxe et les a défoncés un par un."
+
+- id: 23
+  questions:
+  - question: "Qui produit le plus de films par an après Bollywood en Inde ?"
+    answer: B
+    choices:
+      A: "Hollywood, aux États-Unis."
+      B: "Nollywood, au Nigéria."
+      C: "Lollywood, au Pakistan."
+      D: "Cergy-Pontwood, à Cergy-Pontoise."
+  - question: "A Quelle info sur le médecin d'Hitler est vraie ?"
+    answer: D
+    choices:
+      A: "Il lui a suggéré l'idée des camps de concentration."
+      B: "Il lui a suggéré l’idée de la moustache."
+      C: "Il lui a suggéré l'idée du salut nazi."
+      D: "Il était juif."
+  - question: "Laquelle de ces informations est vraie ?"
+    answer: A
+    choices:
+      A: "Il existe la réplique d'un village français au cœur de la jungle malaisienne."
+      B: "Il existe la réplique d'une favéla brésilienne dans un quartier de Londres."
+      C: "Il existe la réplique d'un ranch américain au milieu de la Sibérie,"
+      D: "Il existe la réplique de la grotte de Lascaux dans mon cul."
+  - question: "Laquelle de ces inspirations est authentique ?"
+    answer: B
+    choices:
+      A: "C'est après avoir visité le zoo de Vincennes que Survivor a écrit «Eye of the Tiger»."
+      B: "C'est en voyant le Tour de France que Queen a eu l'idée d'écrire «Bicycle Race»."
+      C: "C'est en quittant un camp de nudistes que Maître Gims a écrit «Sapés comme jamais »."
+      D: "C'est après avoir patienté des heures au téléphone avec le SAV de SFR que NTM a écrit «on est encore là»."
+
+- id: 24
+  questions:
+  - question: "Laquelle de ces propositions, dont on est persuadé qu'elles n'existent pas, existe ?"
+    answer: A
+    choices:
+      A: "La planète Pandora du film «Avatar»,"
+      B: "Le Mordor du «Seigneur des anneaux»."
+      C: "La planète Tatooine de «Star Wars»."
+      D: "«L'ami noir» de Nadine Morano."
+  - question: "Quelle est la composition des billets de banque en euros ?"
+    answer: D
+    choices:
+      A: "C'est du papier, tout simplement."
+      B: "C'est un mélange d'élasthanne et de fibres de bambou."
+      C: "C'est de la laine mérinos vierge."
+      D: "C'est du 100% coton."
+  - question: "Lors d’un incendie dans le métro parisien en 1903, 84 personnes sont mortes. Elles ont préféré rester à l'intérieur plutôt que s'enfuir. Pourquoi ?"
+    answer: D
+    choices:
+      A: "Ils étaient pompiers et ont voulu éteindre l'incendie, hélas sans succès."
+      B: "Ils n'ont pas cru le conducteur qui était un adepte des petites farces."
+      C: "Ils pensaient que c'était la locomotive qui faisait cette fumée."
+      D: "Ils ont attendu pour se faire rembourser leurs tickets de métro, des Parisiens quoi."
+  - question: "En 1945, un groupe clandestin de combattants juifs fut fondé pour punir les criminels de guerre nazis. Quel était leur nom ?"
+    answer: A
+    choices:
+      A: "Les Avengers."
+      B: "La Justice League."
+      C: "Les Inglorious Basterds."
+      D: "Les Rabbins des Bois."
+
+- id: 25
+  questions:
+  - question: "Quand un adulte dit d’un enfant «0o00oh, il est à croquer», qu'est-ce que ça veut réellement dire ?"
+    answer: C
+    choices:
+      A: "Qu'il le compare à un gâteau qu'on a envie de croquer."
+      B: "Qu'il a envie de le troquer, le mot s'étant déformé au fil des siècles."
+      C: "Qu'il est tellement beau qu'il a envie de le dessiner."
+      D: "Qu'il souhaîte lui enfiler une paire de Crocs."
+  - question: "Si on est emprisonné en Belgique, que peut-on faire sans crainte d’être sanctionné ?"
+    answer: A
+    choices:
+      A: "S'évader."
+      B: "Frapper les gardiens."
+      C: "Incendier la prison."
+      D: "Tuer son codétenu à la hache."
+  - question: " Quelle vidéo existe vraiment sur Pornhub ?"
+    answer: D
+    choices:
+      A: "«Sauterelle nympho saute sur tout ce qui bouge»."
+      B: "«Hanneton exhib nous montre son ver luisant»."
+      C: "«Mouche perverse se touche la trompe en public »."
+      D: "«Fleur mâle se fait pomper le pistil par un voyeur»."
+  - question: "Que sent la bouse de vache quand on la soumet à une haute température ?"
+    answer: B
+    choices:
+      A: "La merde."
+      B: "La vanille."
+      C: "La menthe."
+      D: "Bleu de Chanel."
+
+- id: 26
+  questions:
+  - question: "Pourquoi la toque d’un grand chef a-t-elle traditionnellement 100 plis ?"
+    answer: B
+    choices:
+      A: "C'est pour qu'elle se plie plus facilement."
+      B: "C'est pour dire que le chef peut cuisiner un œuf de 100 façons différentes."
+      C: "C'est pour symboliser les 100 ustensiles de cuisine du monde."
+      D: "C'est pour que Jean Imbert puisse dire qu'il connaît au moins 100 célébrités."
+  - question: " Que veut dire les M des bonbons M&M's en fait ?"
+    answer: B
+    choices:
+      A: "Miam & Miam, pour dire que c'est très bon."
+      B: "Mars & Murrie, pour les noms des créateurs,"
+      C: "Milk & Mahogany, pour traduire lait et acajou."
+      D: "Mimie & Mathy, pour dire n'importe quoi."
+  - question: "La déforestation a un impact désastreux pour la planète et les humains. Mais concrètement, à cause de la déforestation, on constate que:"
+    answer: D
+    choices:
+      A: "L'oiseau-lyre peut imiter le bruit de la tronçonneuse, c'est rigolo."
+      B: "Les maladies infectieuses se propagent plus rapidement, c'est moins marrant."
+      C: "Si on continue à ce rythme on va tous crever, c'est ballot."
+      D: "A,B,C et donc D."
+  - question: "À la louche, combien faut-il de grains de raisin pour une bouteille de vin ?"
+    answer: B
+    choices:
+      A: "25,"
+      B: "300."
+      C: "700."
+      D: "On s’en fout, ressers-moi bordel !!"
+
+- id: 27
+  questions:
+  - question: "Ça coûte combien, en centime américain, de fabriquer un billet de 1 $ ?"
+    answer: B
+    choices:
+      A: "1 cent, c'est les États-Unis, ils savent faire du blé."
+      B: "5 cents, soit une économie de 95 cents/dollar"
+      C: "50 cents, un bénef de la moitié."
+      D: "1,20 $, du coup ils vont les fabriquer en Chine."
+  - question: "En 2020, quel fut le nombre d'utilisateurs de Facebook dans le monde ?"
+    answer: A
+    choices:
+      A: "2,7 milliards,"
+      B: "3,2 milliards."
+      C: "4,5 milliards."
+      D: "9,6 milliards mais à mon avis y'a des faux comptes."
+  - question: "Quel est le symbole du potassium ?"
+    answer: D
+    choices:
+      A: "P"
+      B: "U"
+      C: "N"
+      D: "K"
+  - question: "Quel est le seul membre des Avengers qui peut calmer Hulk ?"
+    answer: B
+    choices:
+      A: "lron Man."
+      B: "Black Widow,."
+      C: "Thor."
+      D: "Prozac."
+
+- id: 28
+  questions:
+  - question: "Quel est le nom de naissance de Superman ?"
+    answer: A
+    choices:
+      A: "Kal-El,"
+      B: "Jor-El."
+      C: "Lor-Van."
+      D: "Sylvain Costa."
+  - question: "Qui est le personnage principal du film “Rubber” de Quentin Dupieux ?"
+    answer: B
+    choices:
+      A: "Une gomme."
+      B: "Un pneu."
+      C: "Un gant de vaisselle."
+      D: "Un préservatif."
+  - question: "Quel mammifère n’a pas de cordes vocales ?"
+    answer: C
+    choices:
+      A: "La loutre."
+      B: "Le paresseux."
+      C: "La girafe,"
+      D: "Le mime Marceau."
+  - question: "Combien d'yeux a une abeille ?"
+    answer: D
+    choices:
+      A: "2, c'est quoi cette question ?"
+      B: "3, c'est cheulou si j'ose dire."
+      C: "4, genre 2 de chaque côté ?"
+      D: "Ben alors 5 pendant qu'on y est !"
+
+- id: 29
+  questions:
+  - question: "Sur quelle face du 45 Tours des Jackson Five se trouvait  la chanson “ABC” ? (Prononcer les réponses à l'anglaise A, Bi, Ci et Di)"
+    answer: C
+    choices:
+      A: "B."
+      B: "C."
+      C: "A."
+      D: "A, B, C et donc D."
+  - question: " Quelle est la durée de vie moyenne d’une mite ?"
+    answer: B
+    choices:
+      A: "Environ 20 minutes."
+      B: "Environ 15 jours."
+      C: "Environ 6 mois."
+      D: "Environ 1 pull."
+  - question: "Si vous croisez l’un de ses animaux dans la nature, vous pourrez entendre que:"
+    answer: C
+    choices:
+      A: "La grive cucule."
+      B: "L'épervier susuce."
+      C: "La huppe pupute."
+      D: "Le martinet fouefouette."
+  - question: "Quelle info est vraie ?"
+    answer: A
+    choices:
+      A: "Roald Dahl a écrit un “James Bond“."
+      B: "Agatha Christie a écrit un “Mission Impossible“."
+      C: "Stephen King a écrit un “Jason Bourne“."
+      D: "Michel Houellebecq a écrit “Fast and Furious 12 : Ma Jaguar me fout le cafard”."
+
+- id: 30
+  questions:
+  - question: "Laquelle de ces affirmations littéraires est exacte ?"
+    answer: C
+    choices:
+      A: "César a écrit “Savoir tousser en lieu public“."
+      B: "Confucius a écrit “Dissimule tes rots“."
+      C: "Benjamin Franklin a écrit “Pétez fièrement“."
+      D: "Albert Einstein a écrit “Vomir sans s’en foutre plein la moustache“."
+  - question: "A De quoi l'arbre litchi a-t-il besoin pour donner beaucoup de fruits ?"
+    answer: D
+    choices:
+      A: "De l'amour, beaucoup d'amour. Des bisous, des massages, de l'amour quoi."
+      B: "Qu'on lui parle, Beaucoup même, il a besoin d'être rassuré."
+      C: "D'énormément d'eau, minimum 50 litres/jour, sinon pas un fruit."
+      D: "De la violence. Beaucoup de violence, genre lui casser les branches, le frapper. Si en plus, vous pouvez monter la clim au max c'est top."
+  - question: "Si vous êtes une fourmi et que vous avez trop picolé avec vos potes fourmis, que pourra-t-il réellement se passer en fin de soirée ?"
+    answer: B
+    choices:
+      A: "Un pote fourmi, qui a moins bu, prendra le temps de vous ramener à la fourmilière."
+      B: "Vous boirez jusqu'à ce que mort s'en suive car les fourmis sont sans limites."
+      C: "Votre corps de fourmi créera un 2ieme foie sain pour vous éviter la cirrhose."
+      D: "Vous vous ferez recaler du “Ver Luisant“, le célèbre club pour insecte."
+  - question: "A Quelle est l'orthographe correcte de cette actrice britannique ?"
+    answer: C
+    choices:
+      A: "Clara Delevigne."
+      B: "Cara Delevigne,"
+      C: "Cara Delevingne."
+      D: "Renée Zwzwellegger."
+
+- id: 31
+  questions:
+  - question: "A quelle vitesse se propage l'odeur d'un pet ? En voilà une question intéressante qui saura, une nouvelle fois, vous faire briller en société."
+    answer: B
+    choices:
+      A: "50 cm par seconde."
+      B: "3 m par seconde."
+      C: "10 m par seconde."
+      D: "130 km/h ou 110 par temps de pluie."
+  - question: "Les nazis n’aimaient pes trop les juifs, on le sait, mais ils avaient aussi d’autres petites fixettes puisqu’à leur grande époque, ils ont interdit:"
+    answer: B
+    choices:
+      A: "Les trombones couleur bronze."
+      B: "La police d'écriture “Futura“."
+      C: "Les stylos à bille Bic."
+      D: "La touche étoile sur les claviers."
+  - question: "Quelle affirmation est fausse ?"
+    answer: C
+    choices:
+      A: "Jean Dujardin a un jardin."
+      B: "Hervé Mathoux a un chat."
+      C: "Daniel Auteuil a un hippodrome."
+      D: "François Fillon a un anus."
+  - question: "Que faisait Staline, véritable précurseur d'Instagram, sur certaines de ces photos ?"
+    answer: B
+    choices:
+      A: "Il se mincissait."
+      B: "Il effaçait les gens qu'il n'aimait pas."
+      C: "Il faisait des placements de produits."
+      D: "Il mettait des filtres “Faucille et marteau“."
+
+- id: 32
+  questions:
+  - question: "Quelle photo est à l'origine de la création de “Google Image“ au début des années 2000 ?"
+    answer: D
+    choices:
+      A: "L'impact du 2ieme avion lors des attentats du 11 Septembre."
+      B: "Le dernier dunk de Michael Jordan juste avant sa retraite."
+      C: "Michael Jackson qui suspend son bébé dans le vide à la fenêtre de son hôtel."
+      D: "Un décolleté de Jennifer Lopez."
+  - question: "A avec quoi n'est-il pas possible de déverrouiller un iPhone 5 en Touch ID ?"
+    answer: A
+    choices:
+      A: "La langue."
+      B: "Le nez."
+      C: "Le téton."
+      D: "La patte de son chat."
+  - question: "Quel site est le plus traduit au monde ?"
+    answer: D
+    choices:
+      A: "Wikipédia, pour que tout le monde puisse se cultiver."
+      B: "Le site d'Apple, parce qu'on a tous le droit d'acheter des trucs hors de prix."
+      C: "Google, pour que la recherche soit accessible à tous."
+      D: "Le site des témoins de Jéhovah, pour que le porte à porte soit universel."
+  - question: "Comment dit-on “Remonte-moi le moral“ en italien ?"
+    answer: C
+    choices:
+      A: "Panacotta,"
+      B: "Bruschetta."
+      C: "Tiramisu."
+      D: "Risotto."
+
+- id: 33
+  questions:
+  - question: "Comment dit-on “Noix de Coco“ en swahili ?"
+    answer: B
+    choices:
+      A: "Panzer."
+      B: "Nazi."
+      C: "Hitler."
+      D: "SS."
+  - question: "Un seul de ces plans, destinés à nuire à Fidel Castro, n’a pas été mis en place par la CIA. Lequel ?"
+    answer: B
+    choices:
+      A: "Disperser un produit similaire au LSD dans sa boite à cigares avant l'un de ces discours pour le déstabiliser."
+      B: "Mettre en scène une relation sexuelle entre sa femme et un espion américain pour le faire craquer."
+      C: "Mettre un produit chimique épilatoire dans ses chaussures pour qu’il perde sa barbe et soit discrédité."
+      D: "Placer un coquillage explosif là où il pratiquait la plongée sous-marine pour l'assassiner."
+  - question: "Si vous habitez dans une forêt et que vous n'avez pas de test de grossesse sous la main, comment savoir si vous êtes enceinte ?"
+    answer: D
+    choices:
+      A: "Frottez-vous le ventre contre un Abies grandis, un sapin de Vancouver. S'il change de couleur, vous êtes enceinte !"
+      B: "Écrasez sur votre bras un lombric Lumbricina. Si le ver devient luisant, félicitations, c'est positif !"
+      C: "Crachez sur un champignon Asparagus. S'il fait de la mousse, youpi, vous pouvez commencer à chercher un prénom."
+      D: "Faites pipi sur une grenouille Xenopus laevis. Si elle pond des œufs, bravo ! Vous pouvez appeler pour les dispos des crèches dans votre quartier."
+  - question: "A l'origine, la chauve-souris ne s'appelait pas “chauve-souris”. Mais alors, comment s'appelait-elle avant de s'appeler la “chauve-souris” ?"
+    answer: B
+    choices:
+      A: "La cigogne-souris."
+      B: "La chouette-souris,"
+      C: "La chèvre-souris."
+      D: "Bruce Wayne."
+
+- id: 34
+  questions:
+  - question: "Quelle affirmation à consommer avec modération est correcte ?"
+    answer: B
+    choices:
+      A: "Monica Caïpirinha a donné son nom à la caïpirinha."
+      B: "Félix Kir a donné son nom au kir."
+      C: "Günter Spritz a donné son nom au spritz."
+      D: "Karim Bloulagoune a donné son nom au blue lagoon."
+  - question: "Quelle info est fausse ?"
+    answer: D
+    choices:
+      A: "Tom Cruise a inspiré les traits d'Aladin."
+      B: "Albert Einstein a inspiré les traits de Yoda."
+      C: "Audrey Hepburn a inspiré les traits de la Belle au bois dormant."
+      D: "Steve Buscemi a inspiré les traits de Gollum."
+  - question: "Une grenouille et une plante carnivore ont trouvé un accord pour se nourrir mutuellement. Lequel ?"
+    answer: D
+    choices:
+      A: "La grenouille attend que la plante carnivore dévore une proie, puis récupère ses restes."
+      B: "La plante attend que la grenouille dévore une proie, puis récupère ses restes."
+      C: "La plante se cache sous la grenouille et tue les prédateurs qui attaquent la grenouille."
+      D: "La grenouille se cache dans la plante, tue ses proies et, en échange, chie dans la plante qui mange sa merde."
+  - question: "Quelle est la devise - en français dans le texte - des Pays-Bas ?"
+    answer: B
+    choices:
+      A: "“Je reviendrai”."
+      B: "“Je maintiendrai”."
+      C: "“Je changerai”."
+      D: "“J'en ai de la bonne”."
+
+- id: 35
+  questions:
+  - question: "Laquelle de ces communes françaises existe vraiment ?"
+    answer: C
+    choices:
+      A: "M."
+      B: "A."
+      C: "Y."
+      D: "O."
+  - question: "Comment s’appellent les habitants de la commune de Y en France ?"
+    answer: B
+    choices:
+      A: "Les Ypohydiens."
+      B: "Les Ypsiloniens."
+      C: "Les Ypasiens."
+      D: "Les Ygrecois."
+  - question: "Pourquoi au Zanskar, au Tibet, les portes d'entrée des maisons sont très basses ?"
+    answer: C
+    choices:
+      A: "Parce que les tibétains sont petits, c'est bien connu."
+      B: "Parce qu'une petite porte ça coûte moins cher."
+      C: "Pour éviter que des morts-vivants ne rentrent chez eux."
+      D: "Parce qu'ils adorent l'expression “sortir par la petite porte”."
+  - question: "Qui détient le record du nombre de chromosomes ?"
+    answer: D
+    choices:
+      A: "L'homme évidemment, c'est nous les meilleurs."
+      B: "Non, c’est la femme, créature parfaite entre toutes."
+      C: "Raté, c'est la fourmi, cet insecte nous surpasse de loin."
+      D: "Pas du tout, c'est une fougère, une plante bat tout le monde."
+
+- id: 36
+  questions:
+  - question: "Pourquoi Morgan Freeman porte-t-il toujours des boucles d'oreilles en or ?"
+    answer: D
+    choices:
+      A: "Parce que ça fait joli."
+      B: "Parce que son père les lui a offertes."
+      C: "Par superstition, pour se détacher des rôles qu'il incarne."
+      D: "Pour qu’on puisse, en les revendant, lui acheter un cercueil s’il venait à mourir reclus."
+  - question: "Laquelle de ces infos est vraie ?"
+    answer: A
+    choices:
+      A: "Magnum devait jouer Indiana Jones."
+      B: "Starsky devait jouer Luke Skywalker."
+      C: "Texas Ranger devait jouer Superman."
+      D: "John Snow devait jouer Blanche Neige."
+  - question: "Quel est le prénom de l'enfant d'Elon Musk ?"
+    answer: C
+    choices:
+      A: "Elon 2."
+      B: "Milkyway."
+      C: "XÆA-12."
+      D: "Serge."
+  - question: "Que peut faire un chien contrairement au loup ?"
+    answer: C
+    choices:
+      A: "Se lécher les couilles."
+      B: "Aboyer pendant 10 min sans interruption."
+      C: "Faire un petit regard mignon."
+      D: "Dormir sur le dos."
+
+- id: 37
+  questions:
+  - question: "Quelle information sur le premier préservatif en caoutchouc est fausse ?"
+    answer: C
+    choices:
+      A: "Il a été créé par Goodyear."
+      B: "Il date du 19e siècle."
+      C: "Il était vendu uniquement si vous aviez une attestation de mariage."
+      D: "Il était lavable et réutilisable."
+  - question: "Au football, si vous tirez dans le ballon, qu'il éclate dans les airs et finit sa course dans le but, que se passe-t-il ?"
+    answer: B
+    choices:
+      A: "Y'a but !"
+      B: "Y'a pas but !"
+      C: "Y'a penalty !"
+      D: "Y'a but j'te dis !"
+  - question: "Si vous n’avez pas de frigidaire sous la main, que devez-vous faire pour éviter que votre lait ne tourne ?"
+    answer: B
+    choices:
+      A: "Faites-lui des chatouilles."
+      B: "Jetez-y une grenouille."
+      C: "Versez-le dans une citrouille."
+      D: "Trempez-y vos couilles."
+  - question: "En Grèce antique, de quelle manière les prostituées faisaient-elles leur publicité ?"
+    answer: C
+    choices:
+      A: "Elles faisaient le tour des banquets en distribuant leurs sous-vêtements."
+      B: "Elles diffusaient des parfums d'odeurs charnelles dans les rues"
+      C: "ES valet avec des semelles tampons qui laissaient des “Suis-moi“ sur le sol."
+      D: "Elles se payaient des spots de pubs très chers à la mi-temps du (Superbowlos)."
+
+- id: 38
+  questions:
+  - question: "Lorsque Bill Withers, auteur interprète de “Ain't no sunshine” est devenu N°1 des ventes, son label lui a offert des toilettes en or. Pourquoi ?"
+    answer: C
+    choices:
+      A: "En dédicace à sa constipation légendaire."
+      B: "En clin d'œil à sa phobie maladive des toilettes."
+      C: "En rapport avec son métier de base : fabriquant de toilettes pour avion."
+      D: "En lien avec son caractère de chiotte, de merde, bref son mauvais caractère."
+  - question: "Quelle était la particularité de la secte chrétienne russe “Les Scoptes” ?"
+    answer: D
+    choices:
+      A: "Ils se rasaient les sourcils, Flippant."
+      B: "ls se coupaient le nez. Pas pratique quand on porte des lunettes."
+      C: "Ils se coupaient les oreilles. Même chose."
+      D: "Ils se coupaient les couilles. Couillu,"
+  - question: "Laquelle de ces informations concernant Buzz Aldrin lors de la mission Apollo 11 est vraie ?"
+    answer: D
+    choices:
+      A: "Il recevait une prime de 2000 $ par jour passé dans l'espace."
+      B: "On lui a offert 2 combinaisons spatiales d'une valeur de 15 000 $ chacune à son retour sur Terre."
+      C: "Il a reçu jusqu'à la fin de sa vie une prime de 5000 $ par mois pour service rendu à la nation."
+      D: "Il a été remboursé de ses “frais de déplacement“ à hauteur de 33 dollars."
+  - question: "Quel surnom était donné à Charlemagne ?"
+    answer: C
+    choices:
+      A: "Charlot."
+      B: "L'empereur aux cheveux d'or."
+      C: "L'empereur à la barbe fleurie."
+      D: "L'empereur aux sourcils de feu."
+
+- id: 39
+  questions:
+  - question: "Qu’a acheté l'ambassadeur suisse en Chine pour 34 000 € ?"
+    answer: D
+    choices:
+      A: "Une visite privée de la grande muraille."
+      B: "Le meilleur canard laqué de Chine."
+      C: "Un jeu d'échec fabriqué à partir d'os d'anciens empereurs."
+      D: "Une Venus de Milo en crotte de panda."
+  - question: "C’est idiot et potentiellement dangereux mais que peut-on faire pour empêcher un Kangourou de sauter ?"
+    answer: A
+    choices:
+      A: "On lui lève la queue."
+      B: "On lui tire les moustaches."
+      C: "On lui bouche les oreilles."
+      D: "On lui remplit la poche de ciment."
+  - question: "En médecine, comment appelle-t-on un clignement d'œil ?"
+    answer: C
+    choices:
+      A: "Une noctation."
+      B: "Une nocturtion."
+      C: "Une nictation."
+      D: "Une nictamère."
+  - question: "Comment le métro New-Yorkais lutte-t-il contre le vol d’ampoule ?"
+    answer: B
+    choices:
+      A: "Ils n'en mettent pas."
+      B: "Elles se vissent à l'envers."
+      C: "Ils ne les isolent pas des décharges électriques."
+      D: "Ils engagent un sniper qui surveille chaque ampoule."
+
+- id: 40
+  questions:
+  - question: "En 2009, où s’est tenu le conseil des ministres aux Maldives pour sensibiliser le public au réchauffement climatique ?"
+    answer: C
+    choices:
+      A: "À poil dans un sauna."
+      B: "En claquettes dans la neige."
+      C: "En tenue de plongée sous l'eau."
+      D: "En costume dans un bureau climatisé."
+  - question: "Lequel de ces articles de détente existe réellement ?"
+    answer: D
+    choices:
+      A: "Un éventail pour pieds."
+      B: "Un hammam pour oreilles."
+      C: "Une table de massage pour doigts."
+      D: "Un jacuzzi pour testicules."
+  - question: "Quelle information concernant Saturne, un alligator né aux USA, est fausse ?"
+    answer: D
+    choices:
+      A: "Il a survécu aux bombardements du z00 de Berlin pendant la guerre."
+      B: "Il a été libéré par les britanniques en 1945."
+      C: "Ilest mort au zoo de Moscou, 75 ans après, sans qu'on sache comment il est arrivé là."
+      D: "Il adore le pâté en croûte."
+  - question: "Laquelle de ces informations, concernant des brevets, est vraie ?"
+    answer: B
+    choices:
+      A: "Le brevet de la bouée de sauvetage a été perdu dans l'océan."
+      B: "Le brevet de la bouche d'incendie a été brulé dans un incendie,"
+      C: "Le brevet de l'air bag a été broyé lors d’un accident de voiture."
+      D: "Le brevet du papier-toilette a disparu et vous ne voulez pas les détails."
+
+- id: 41
+  questions:
+  - question: "Que ne pouvez-vous pas faire en Éthiopie sous peine de prendre 15 ans de prison ?"
+    answer: A
+    choices:
+      A: "Utiliser Skype."
+      B: "Jouer à Call of Duty."
+      C: "Poster des vidéos sur Youtube."
+      D: "Faire des Live Instagram en période de confinement. Si c’est la bonne réponse, quelque part on les envie."
+  - question: "Laquelle de ces phrases existe réellement en nuxalk, cette langue indigène canadienne trop peu connue ?"
+    answer: B
+    choices:
+      A: "“Eeeeee ee eeeee eeeee”."
+      B: "“clhp’xwihtihplhhskwts:”,"
+      C: "“Aeoiu yuioe yueao oaeeui”."
+      D: "“Bitebitebitebite bite bite bitebite”."
+  - question: "Laquelle de ces informations concernant Hafpôr Jülius Bjôrnsson, alias “la Montagne” dans la série Game of Thrones, est vraie ?"
+    answer: B
+    choices:
+      A: "Il fait 18h de muscu par jour."
+      B: "Il mange 8 repas par jour."
+      C: "Il pèse 290 kilos."
+      D: "Il chausse du 34."
+  - question: "Pourquoi Charles J. Guiteau, l'assassin du 20ieme président des USA James Garfield en 1881, a choisi comme arme du crime un pistolet avec un manche en ivoire ?"
+    answer: B
+    choices:
+      A: "Car l'ivoire ne conserve aucune empreinte digitale."
+      B: "Parce qu'il anticipait déjà que l'arme serait plus jolie lorsqu'elle serait placée dans un musée."
+      C: "Parce qu'il voulait contester la politique du gouvernement concernant le braconnage des éléphants en Afrique."
+      D: "Parce que déjà, en 1881, tout était une question de style. Et l'ivoire, ça claque."
+
+- id: 42
+  questions:
+  - question: "Dans les années 1850, un certain Arnold Potter prétendait incarner la seconde venue du Christ, Comment sa carrière s’est-elle brutalement arrêtée ?"
+    answer: B
+    choices:
+      A: "l’est lancé dans un marathon sur l'eau mais il s'est noyé."
+      B: "Il a tenté de monter au ciel mais il s’est tué en sautant d'une falaise."
+      C: "Il a demandé à ses fidèles de le crucifier. Il en est mort."
+      D: "Un mec qui prétendait être le deuxième Judas l'a balancé au fisc."
+  - question: "Laquelle de ces infos pas banales, concernant les dictateurs, est vraie ?"
+    answer: C
+    choices:
+      A: "Nicolae Ceausescu a fait rédiger, à la feuille d'or, une biographie de Staline inspirée de l'ancien Testament."
+      B: "Pol Pot démarrait tous ses feux de cheminée en brûlant une page de la Bible."
+      C: "Saddam Hussein a fait faire un exemplaire du Coran, écrit avec son propre sang."
+      D: "Hitler avait toujours une Torah dans ses toilettes."
+  - question: "Laquelle de ces informations est vraie ?"
+    answer: A
+    choices:
+      A: "Les parents de Matt Groening, créateur des Simpson, s'appellent Homer et Marge."
+      B: "La fille du réalisateur du film “Esther” s'appelle Esther."
+      C: "L'oncle du réalisateur du Seigneur des anneaux s'appelle Gandalf."
+      D: "Tous les enfants d'Alain Chabat s'appellent Pierre."
+  - question: "Quelle est la particularité de Robert Coates, ce comédien britannique ayant vécu au 18ieme siècle ?"
+    answer: A
+    choices:
+      A: "Il jouait hyper mal."
+      B: "Ilest le premier comédien noir populaire en Angleterre."
+      C: "Ils'est suicidé pendant un tournage pour rendre la scène plus authentique,"
+      D: "Il a eu 3 fois son Vivement dimanche."
+
+- id: 43
+  questions:
+  - question: "Pourquoi peut-on dire que le polonais Witold Pilecki avait une énorme paire de couilles ?"
+    answer: C
+    choices:
+      A: "Parce qu'il avait vraiment de grosses couilles : 1,5kg chacune."
+      B: "Parce qu'il a refusé de serrer la main d'Hitler en public."
+      C: "Parce qu'il s'est fait déporter volontairement par les nazis pour donner des infos aux alliés."
+      D: "Parce qu'il a attaqué un camp de concentration seul, pour libérer sa famille."
+  - question: "Quelle est la particularité du dernier épisode de la saison 6 de Dr House ?"
+    answer: A
+    choices:
+      A: "Il a été filmé entièrement à l'appareil photo."
+      B: "Il a été tourné sans aucune lumière artificielle."
+      C: "C'est le fils de Hugh Laurie, âgé de 17 ans, qui l’a réalisé."
+      D: "Il a été écrit par Michel Cymes."
+  - question: "En 78 av. J.-C. ayant réussi à kidnapper Jules César, des pirates demandèrent une rançon. Que s'est-il passé ensuite ?"
+    answer: B
+    choices:
+      A: "Personne ne voulut payer la rançon."
+      B: "César fut vexé par le faible prix de la rançon."
+      C: "César se lia d'amitié avec ses ravisseurs."
+      D: "Les pirates ont croisé la route de deux gaulois gavés de potion magique."
+  - question: "Pourquoi n'irez-vous jamais chercher votre balle dans le lac du très select golf de Carbrook en Australie ?"
+    answer: B
+    choices:
+      A: "Parce qu'il est radioactif."
+      B: "Parce qu'il y a des requins dedans."
+      C: "Parce que l'eau est à une température de 150 degrés."
+      D: "Parce qu'on vous a dit que le golf était très select, donc il y aura sûrement un mec qui ira à votre place."
+
+- id: 44
+  questions:
+  - question: "Quelle récompense un peu étrange fut proposée au philosophe français juif Vladimir Jankélévitch ?"
+    answer: D
+    choices:
+      A: "“Meilleur juif 1946”."
+      B: "“Mister résistance”."
+      C: "“Cerveau d'or 1951”."
+      D: "“Aryen d'honneur”."
+  - question: "Quel genre d'école, assez originale, peut-on trouver en Corée du Sud ?"
+    answer: B
+    choices:
+      A: "Des écoles de corruption."
+      B: "Des écoles de délation."
+      C: "Des écoles de falsification."
+      D: "L'ENA."
+  - question: "En Suisse, qu’est-il illégal de posséder ?"
+    answer: A
+    choices:
+      A: "Un seul cochon d'Inde."
+      B: "Un seul poisson rouge."
+      C: "Une seule montre."
+      D: "Un seul compte en banque."
+  - question: "Si vous étiez policier thaïlandais en 2007, de quelle sanction écopiez-vous si vous commettiez une faute en uniforme ?"
+    answer: D
+    choices:
+      A: "La mort."
+      B: "La perte de votre salaire pendant 2 mois."
+      C: "Une gifle en public par votre supérieur."
+      D: "L'obligation de porter un brassard Hello Kitty."
+
+- id: 45
+  questions:
+  - question: "Quel célèbre cocktail a été inventé pendant une pandémie pour soigner la maladie ?"
+    answer: A
+    choices:
+      A: "La caïpirinha."
+      B: "Le bloody mary."
+      C: "Le white russian."
+      D: "Le demi-pêche."
+  - question: "Comment se prononce phonétiquement l’acronyme GIF ?"
+    answer: B
+    choices:
+      A: "“Jif”."
+      B: "“Djif”."
+      C: "“Guif”."
+      D: "“Juif”."
+  - question: "Qu'a fait l'anglais Lee Beaumont, lassé d’être sollicité par des démarcheurs téléphoniques ?"
+    answer: B
+    choices:
+      A: "Ila créé une intelligence artificielle pour répondre à sa place."
+      B: "Il a transformé son numéro en ligne surtaxée pour que ça lui rapporte de l'argent."
+      C: "Ila monté un centre d'appels respectueux des consommateurs."
+      D: "l'est devenu serial killer de démarcheurs."
+  - question: "D'où vient le salut vulcain démocratisé par Mr Spock dans Star Trek ?"
+    answer: C
+    choices:
+      A: "De nulle part, c'est une impro de l'acteur Leonard Nimoy sur le tournage."
+      B: "C'est une insulte communiste."
+      C: "C'est une bénédiction juive."
+      D: "C'est un hommage aux Tortues Ninja."
+
+- id: 46
+  questions:
+  - question: "Laquelle de ces planètes existe réellement ?"
+    answer: B
+    choices:
+      A: "Krypton, planète où Superman est né."
+      B: "Vulcain, la planète où Mr Spock est né."
+      C: "Mustafar, une planète de l'univers Star Wars."
+      D: "Oxo, la planète d'où vient l'extraterrestre dans “La soupe aux choux”."
+  - question: "Pour quelle raison le médecin René Laennec a-t-il inventé le stéthoscope ?"
+    answer: D
+    choices:
+      A: "Pour mieux entendre les battements du cœur."
+      B: "Pour des raisons évidentes d'hygiène."
+      C: "Pour être en immersion sensitive."
+      D: "Pour éviter d’avoir tout le temps les seins des meufs dans les oreilles."
+  - question: "Que veut dire le “G” du “point G” ?"
+    answer: C
+    choices:
+      A: "“Google”."
+      B: "“Goofy”."
+      C: "“Gräfenberg”."
+      D: "“Guiliguili.”"
+  - question: "Laquelle de ces informations est vraie ?"
+    answer: C
+    choices:
+      A: "Le grand père de François Hollande était chauffeur à l'Elysée pour René Coty."
+      B: "L'arrière-grand-père de Barack Obama était serveur à la Maison Blanche pour Theodore Roosevelt."
+      C: "Le grand père de Vladimir Poutine était cuisinier au Kremlin pour Lénine."
+      D: "Le père de Valéry Giscard d'Estaing était l'écuyer de Charlemagne."
+
+- id: 47
+  questions:
+  - question: "Laquelle de ces informations, concernant une naissance de jumeaux, est vraie ?"
+    answer: C
+    choices:
+      A: "Les deux enfants étaient de couleur différente."
+      B: "Les deux enfants sont nés avec 6 mois d'écart."
+      C: "Les deux enfants étaient de deux pères différents."
+      D: "Les deux enfants étaient de deux mères différentes."
+  - question: "Quel est l’équivalent italien de l'expression “on ne peut pas avoir le beurre et l'argent du beurre” ?"
+    answer: B
+    choices:
+      A: "On ne peut pas avoir de gros mollets et des chaussettes propres."
+      B: "On ne peut pas avoir le tonneau plein et sa femme ivre."
+      C: "On ne peut pas avoir la maison et la forêt qui l'a construite."
+      D: "On ne peut pas avoir le parmesan et l'argent du parmesan."
+  - question: "Quelle est la principale arme de la mouffette rayée pour se défendre contre d'éventuels prédateurs ?"
+    answer: D
+    choices:
+      A: "Son petit beuglement, très strident."
+      B: "Ses petites griffes, très pointues."
+      C: "Ses petites pattes arrière, très musclées."
+      D: "Ses petits pets foireux, très acides."
+  - question: "Quelle est la particularité de la mouche Drosophila bifurca ?"
+    answer: A
+    choices:
+      A: "Elle produit des spermatozoïdes de 6cm alors qu'elle ne fait que 3mm."
+      B: "Elle donne naissance à des millions de larves seulement 2 sec après la fécondation."
+      C: "Elle se reproduit avec des espèces très différentes d'elle."
+      D: "Elle joue la mouche dans le film “La Mouche“ de David Cronenberg."
+
+- id: 48
+  questions:
+  - question: "Quelle information sur les super-héros et leurs ennemis jurés est vraie ?"
+    answer: B
+    choices:
+      A: "Un Clark Kent et un Lex Luthor ont travaillé ensemble dans un journal américain."
+      B: "La famille Parker et la famille Osborne ont habité à la même adresse que celle du film."
+      C: "Un Bruce Wayne et un Harvey Dent ont été amants dans les années 30."
+      D: "Les 4 Fantastiques et Magneto ont créé les Beatles."
+  - question: "Qu'a fait Thomas Fitzpatrick en 1956, alors qu'il était complétement bourré ?"
+    answer: B
+    choices:
+      A: "Il a pris l'autoroute à vélo, et en plus sur la voie de gauche."
+      B: "Il a atterri en avion dans les rues de New York."
+      C: "Il a descendu une piste de ski en bateau."
+      D: "Il a vomi par la fenêtre du taxi en pensant qu'elle était ouverte."
+  - question: "La prison d’Alcatraz n'était pas le Club Med. Et pourtant:"
+    answer: A
+    choices:
+      A: "La bouffe était super bonne."
+      B: "Les matons donnaient des cours d'aquagym."
+      C: "Il y avait des lits king size."
+      D: "Le Kids Club était ouvert 24h/24h."
+  - question: "Dans la Grèce antique, laquelle de ces punitions n'était pas prévue si vous commettiez l’adultère ?"
+    answer: D
+    choices:
+      A: "On vous tuait, classique."
+      B: "On vous brülait les poils du cul avec de la cendre chaude, original."
+      C: "On vous sodomisait avec un radis, pas banal."
+      D: "On vous urinait dessus pendant des heures."
+
+- id: 49
+  questions:
+  - question: "Le tueur en série Alejandro Mâynez décida un beau jour \ d’assassiner une serveuse. Que s'est-il passé ?"
+    answer: D
+    choices:
+      A: "Bah il l'a tuée, Alejandro était du genre à faire ce qu'il disait."
+      B: "Ilest tombé amoureux d'elle, mais il l'a quand même tuée parce que le boulot c'est le boulot."
+      C: "Il l'a tuée, mais s'est rendu compte après que c'était sa sœur cachée."
+      D: "Il s'est rendu compte qu'elle était aussi tueuse en série, et du coup ils ont bossé ensemble,"
+  - question: "Qu’a fait l’empereur romain Néron pour remplacer sa femme lorsque celle-ci fut morte ?"
+    answer: D
+    choices:
+      A: "Ils'est marié avec sa sœur jumelle,"
+      B: "Il a organisé un concours de sosie pour la remplacer."
+      C: "Il s'est marié avec sa propre fille, qui avait les yeux de sa mère."
+      D: "Il a castré un gars, l’a travesti et s'est marié avec,"
+  - question: "Pour le tournage du film “The Blues Brothers”, il y avait un budget prévu spécialement pour:"
+    answer: D
+    choices:
+      A: "Les cravates de John Belushi."
+      B: "Les thermos à café de John Landis."
+      C: "Les cigarettes de Dan Aykroyd."
+      D: "La cocaïne pour à peu près tout le monde."
+  - question: "Laquelle de ces rumeurs est probablement vraie ?"
+    answer: A
+    choices:
+      A: "César avait un piercing au téton."
+      B: "Ramsès Il portait des perfectos en cuir."
+      C: "Gengis Khan avait toujours la coupe iroquoise."
+      D: "Napoléon avait un tatouage tribal en bas du dos."
+
+- id: 50
+  questions:
+  - question: "Comment le mime Marceau a-t-il aidé la résistance durant la 2ieme guerre mondiale ?"
+    answer: C
+    choices:
+      A: "Il faisait des spectacles gratuits pour divertir les résistants."
+      B: "Il se déguisait en statue pour récupérer de précieuses informations aux Allemands."
+      C: "Il se déguisait en chef de patrouille scout pour passer la frontière avec des orphelins."
+      D: "Il enfermait les SS dans des cages en verre imaginaires."
+  - question: "Quel cliché sur les souris est vrai ?"
+    answer: C
+    choices:
+      A: "Les souris font peur aux éléphants."
+      B: "Les souris aiment le fromage."
+      C: "Les souris sont porteuses de maladie."
+      D: "Les souris construisent des parcs d'attractions."
+  - question: "Quelle était la 3ieme cause de mortalité en France en 2018, en voilà une question qu'elle est gaie ?"
+    answer: D
+    choices:
+      A: "Tabagisme et donc A."
+      B: "Cancer et donc B."
+      C: "Alcool et donc C."
+      D: "AVC et donc D."
+  - question: "Le mot “Schadenfreude” en allemand n’a pas d'équivalent français. Que signifie-t-il ?"
+    answer: C
+    choices:
+      A: "Le mouvement des fesses du chat avant de sauter quelque part."
+      B: "L'odeur qui précède un orage."
+      C: "Le plaisir qu'on ressent à voir le malheur des autres."
+      D: "Le fait d'inventer un mot pour écrire une question con dans un jeu de société."
+
+- id: 51
+  questions:
+  - question: "Quelle anecdote sur la cornemuse est vraie ?"
+    answer: B
+    choices:
+      A: "C'était un objet de torture à la base."
+      B: "Elle a été classée “arme de guerre”."
+      C: "Elle servait à imiter un animal pendant la chasse."
+      D: "La toute première a été fabriquée avec la peau des couilles de Christophe Lambert."
+  - question: "Qu'est-il arrivé au plongeur sud-africain Rainer Schimpf ?"
+    answer: B
+    choices:
+      A: "Il s’est fait pincer par un crabe géant et a mis 1 mois à s'en défaire."
+      B: "Il s'est fait avaler par une baleine puis recraché."
+      C: "Il s'est battu à mains nues contre un requin et a gagné."
+      D: "Il a monté un spectacle vivant avec un poisson clown."
+  - question: "Qu'a fait Nikola Tesla, inventeur du 19ieme siècle, pour se focaliser sur son travail pendant toute sa carrière ?"
+    answer: B
+    choices:
+      A: "Il a coupé tout lien avec famille et amis."
+      B: "Il s'interdisait de côtoyer des femmes."
+      C: "Il a acheté une maison isolée dans la montagne."
+      D: "Il a désinstallé Twitter de son téléphone."
+  - question: "Quelle est la particularité de la Mnemiopsid, cette méduse pas banale de l'Atlantique Nord ?"
+    answer: A
+    choices:
+      A: "Son anus apparaît seulement en cas de besoin."
+      B: "Son pénis se clipse et se déclipse à volonté."
+      C: "Ses déjections sont aussi sa principale alimentation."
+      D: "Seules ses couilles ne sont pas transparentes. Et très poilues en plus."
+
+- id: 52
+  questions:
+  - question: "Que font les mouettes pour attirer les vers de terre à la surface ?"
+    answer: C
+    choices:
+      A: "Elles font tomber de leurs plumes un billet de 5 euros, l'air de rien."
+      B: "Elles font un petit tas de mauvaises herbes, mets convoité par les vers."
+      C: "Fe font des petits pas de danse pour imiter les vibrations de la pluie,"
+      D: "Elles plantent leur bec dans le sol et font des sortes d'ultra-sons."
+  - question: "Quelle est la particularité de Momëilo Garvié, ce soldat serbe ayant combattu lors de la Première Guerre mondiale ?"
+    answer: B
+    choices:
+      A: "Personne n'arrivait à prononcer son nom correctement."
+      B: "Il avait 8 ans."
+      C: "Il a changé de camps 4 fois en tout."
+      D: "C'était une femme qui se faisait passer pour un homme, genre Mulan un peu,"
+  - question: "Quelle info concernant les perroquets est vraie ?"
+    answer: B
+    choices:
+      A: "Ils savent faire des calculs mentaux."
+      B: "Ils donnent des prénoms à leurs enfants."
+      C: "Ils se brossent le bec tous les matins."
+      D: "Ils sont fans de Canteloup."
+  - question: "Quelle info concernant l’éjaculation d’une abeille mâle lors d’un accouplement avec une reine est vraie ?"
+    answer: D
+    choices:
+      A: "Elle est si puissante qu'un humain peut l'entendre."
+      B: "Le pénis explose tellement le flux est violent."
+      C: "L'abeille mâle décède sur le coup."
+      D: "À, B, C et donc D."
+
+- id: 53
+  questions:
+  - question: "Si vous décidez d'acheter un microscope, que pourrez-vous apercevoir dans l'œil droit de la Joconde ?"
+    answer: B
+    choices:
+      A: "“1504“ la date probable de la création de l'œuvre."
+      B: "“L.V.“, les initiales de Léonard de Vinci."
+      C: "Une croix de Jésus, qui représente une croix de Jésus."
+      D: "“11/09/2001”, ce qui alimenterait vivement les théories complotistes."
+  - question: "John Fairfax est la première personne à avoir traversé seul l’océan Atlantique à la rame. Pourquoi n’a-t-on presque pas entendu parler de lui à l'époque ?"
+    answer: D
+    choices:
+      A: "Parce qu'il ne l'a dit à personne."
+      B: "Parce que personne ne le croyait, faute de preuves."
+      C: "Parce qu'après 7 ans de traversée, tout le monde l'avait oublié."
+      D: "Parce que le lendemain, des gars marchaïent sur la Lune."
+  - question: "Pourquoi les mamans épaulards, (ou orques, c'est presque pareil), sont carrément reloues avec leurs fils ?"
+    answer: B
+    choices:
+      A: "Parce qu'elles les mangent, parfois."
+      B: "Parce qu'elles les collent toute leurs vies, et s'impliquent même dans leurs relations sexuelles."
+      C: "Parce qu'elles les punissent lorsqu'ils n'obéissent pas."
+      D: "Parce qu'elles mettent Nostalgie dans la bagnole."
+  - question: "Le gilet pare-balle a été inventé part Richard Davis. Quelle était sa profession à la base ?"
+    answer: C
+    choices:
+      A: "Militaire."
+      B: "Comptable."
+      C: "Pizzaïolo."
+      D: "Tennisman."
+
+- id: 54
+  questions:
+  - question: "Jean-Claude Van Damme devait interpréter Predator, dans le film du même nom. Pourquoi ça ne l’a pas fait finalement ?"
+    answer: C
+    choices:
+      A: "Parce qu'il refusait de se maquiller."
+      B: "Parce qu'il n'avait rien compris au scénario."
+      C: "Parce qu'il voulait absolument que le Predator ait des répliques."
+      D: "Parce qu'il voulait absolument que le Predator fasse du Kick-boxing."
+  - question: "Quelle info sur l'accouplement de la lionne est vraie ?"
+    answer: D
+    choices:
+      A: "Elle s'accouple toutes les 15 min pendant 3 jours sans manger ni dormir."
+      B: "Elle peut côtoyer jusqu'à 5 mâles différents pendant le processus."
+      C: "Pour la conception d’un seul lionceau, elle peut s'accoupler jusqu'à 3000 fois."
+      D: "A,B,C et donc D."
+  - question: "Quelle info, concernant  l'accouplement de la truite Salmo trutta, est vraie ?"
+    answer: B
+    choices:
+      A: "Elle adore se faire fumer."
+      B: "Elle simule."
+      C: "Elle peut le faire pendant 3 jours non-stop."
+      D: "A la fin, elle remonte à la surface pour s’allumer une clope."
+  - question: "D'après certains scientifiques, que ressentent les autruches quand elles rencontrent des humains ?"
+    answer: B
+    choices:
+      A: "Elles ont envie de se battre."
+      B: "Elles sont excitées et donc elles draguent à fond."
+      C: "Elles flippent tellement, qu'elles sont à deux doigts de faire un AVC"
+      D: "Elles font l'autruche."
+
+- id: 55
+  questions:
+  - question: "Pourquoi l'américain Kevin Briggs est surnommé le “Gardien du pont du Golden State” ?"
+    answer: D
+    choices:
+      A: "Parce que c'est lui qui a les clés."
+      B: "Car il l'a rénové deux fois bénévolement avec des amis."
+      C: "Parce qu'il a sauvé 200 personnes qui voulaient se suicider là-bas."
+      D: "Car il y fait la circulation tous les jours depuis 60 ans."
+  - question: "Pourquoi l'écureuil est-il un gars cool ?"
+    answer: C
+    choices:
+      A: "Car il dit toujours “bonjour” et “au revoir”, la base."
+      B: "Parce qu'il partage toujours ses noisettes avec tout le monde."
+      C: "Car il n'hésite pas à adopter les bébés écureuils abandonnés."
+      D: "Parce qu'il est resté lui-même, même après son contrat flamboyant à La Caisse d'Épargne."
+  - question: "Laquelle de ces informations concernant les arbres est vraie ? ‘"
+    answer: A
+    choices:
+      A: "lis dorment la nuit."
+      B: "Ils parlent (en latin)."
+      C: "Ils se mettent en couple."
+      D: "Ils préfèrent envoyer un mail plutôt qu'une lettre “papier”."
+  - question: "Parmi ces propositions flippantes, laquelle est vraie dans certaines écoles chinoises ?"
+    answer: B
+    choices:
+      A: "Le maniement des armes est enseigné dès leurs 6 ans."
+      B: "On équipe les enfants de balises GPS pour contrôler leurs déplacements."
+      C: "Des cours de “délation” y sont prévus 3 fois par semaine."
+      D: "Ils sont 123 par classe."
+
+- id: 56
+  questions:
+  - question: "El Liu Chuyu, princesse de la dynastie Song, trouvait injuste que son frère ait le droit d’avoir de nombreuses femmes, alors qu’elle, devait se limiter à un seul mari. Comment a réagi son frère ?"
+    answer: C
+    choices:
+      A: "Il l’a tué. Ouais, ça rigole pas."
+      B: "Il s'est limité à une seule femme, fair-play."
+      C: "Il lui a ramené 30 mecs rien que pour elle."
+      D: "Il a dit “Ouais mais non, c'est pas pareil”."
+  - question: "Où a été composée La Marseillaise ?"
+    answer: C
+    choices:
+      A: "À Marseille, ça parait logique."
+      B: "À Paris, ça parait logique aussi."
+      C: "À Strasbourg, pourquoi pas après tout."
+      D: "À Cancun, je sais c'est fou."
+  - question: "Certains guerriers de la Chine ancestrale portaient des armures en:"
+    answer: B
+    choices:
+      A: "Pierre."
+      B: "Papier."
+      C: "Ciseaux."
+      D: "Puits. On a dit qu'on ne jouait pas avec le puit putain, c'est de la triche."
+  - question: "Un rocher à Meaux crée l'attraction depuis que Saint Fiacre s’est assis dessus. Pourquoi ?"
+    answer: D
+    choices:
+      A: "Car c'est après s'être assis là que Saint Fiacre s’est marié, créant la légende."
+      B: "Parce que ce caillou donnerait la vie éternelle."
+      C: "Car c'est sur cette roche que Saint Fiacre aurait conversé avec Dieu."
+      D: "Parce que Saint Fiacre souffrait d'hémorroïdes et poser son cul sur ce rocher l'a soigné, créant la légende."
+
+- id: 57
+  questions:
+  - question: "L'agriculteur Angus Wielkopolski a découvert que ses chèvres produisaient plus de lait quand:"
+    answer: D
+    choices:
+      A: "Il leur faisait un massage 1 fois par jour."
+      B: "Elles mangeaient des pâtes carbonara."
+      C: "Elles vivaient seules à l'écart du troupeau."
+      D: "Elles écoutaient “All I Want for Christmas” de Mariah Carrey."
+  - question: "De quoi sont capables les coléoptères Melanophila, ces petits insectes surprenants ?"
+    answer: A
+    choices:
+      A: "Repérer un feu à plus de 130 kilomètres."
+      B: "Prévoir un tremblement de terre 48h avant."
+      C: "Évaluer la distance d’un orage très précisément."
+      D: "Présenter la météo sur fond vert, sans prompteur."
+  - question: "Le ministère des armées françaises va créer une cellule de travail appelée “Red Team”. Qui la composera ?"
+    answer: C
+    choices:
+      A: "Des pilotes de courses."
+      B: "Des acrobates venus du monde du cirque."
+      C: "Des auteurs de science-fiction."
+      D: "Des candidats de Koh-Lanta."
+  - question: "Pourquoi, en 2016 à Bombay, la police at-elle fait manger 48 bananes à un homme ?"
+    answer: D
+    choices:
+      A: "Pour voir s’il chiait un smoothie."
+      B: "C'était un pari, en cas de réussite il pouvait sortir de garde à vue."
+      C: "Pour la reconstitution d’une scène de crime."
+      D: "Pour pousser la chaine en or qu’il avait volée vers la sortie."
+
+- id: 58
+  questions:
+  - question: "Quel genre de chaussures portaient les contrebandiers à l'époque de la prohibition aux États-Unis pour ne pas se faire repérer par la police ?"
+    answer: D
+    choices:
+      A: "Des pompes à scratch, car aucun gangster ne met des pompes à scratch."
+      B: "Les mêmes chaussures que la police, pour laisser les mêmes empreintes."
+      C: "Des chaussures de bowling."
+      D: "Des chaussures-sabots, qui laissaient des empreintes de vaches."
+  - question: "Avant d’être acteur, Liam Neeson, que vous avez notamment vu dans Taken, était professeur. Mais il fut licencié. Pourquoi ?"
+    answer: C
+    choices:
+      A: "Parce qu'il faisait regarder des films aux élèves pendant les cours."
+      B: "Parce qu'il ne respectait pas le programme de l'éducation nationale."
+      C: "Parce qu'un jour il a frappé un élève qui l'attaquait au couteau."
+      D: "A,B, Cet donc D."
+  - question: "Que veut dire “canicule” ?"
+    answer: D
+    choices:
+      A: "Petit con."
+      B: "Petit cul."
+      C: "Petite chiasse."
+      D: "Petite chienne."
+  - question: "De quoi “Wall Street” tient-il son nom ?"
+    answer: C
+    choices:
+      A: "D'un mur de briques rouges tout ce qu'il y a de plus banal."
+      B: "De Walmart célèbre chaine de magasins aux USA."
+      C: "De Waal qui en fait veut dire “wallon” en hollandais."
+      D: "De Benedict Wallstreet, son fondateur."
+
+- id: 59
+  questions:
+  - question: "Quel calvaire quotidien subit Jean Van Landeghem, habitant paisible de la ville de Turnhout en Belgique ?"
+    answer: C
+    choices:
+      A: "Une inconnue lui offre des fleurs depuis 4 ans."
+      B: "Une inconnue lui envoie les pièces d'un puzzle depuis 7 ans."
+      C: "Un inconnu lui fait livrer des pizzas depuis 9 ans."
+      D: "Un inconnu couche avec sa femme depuis 17 ans."
+  - question: "D'où tient son nom le “RAID”, cette unité d'élite de la police française ?"
+    answer: C
+    choices:
+      A: "De “Raid is Dead”, film de guerre parodiant le film parodique “Red is Dead”."
+      B: "Du Raid “Paris-Dakar”, célèbre rallye français."
+      C: "De “Raid”, produit anti-insecte très efficace."
+      D: "De “Raide”, qui fait écho à cette caisse mémorable que les policiers ont prise après une intervention."
+  - question: "D'où provient l’expression “avoir un cœur d’artichaut” ?"
+    answer: D
+    choices:
+      A: "D'Artie Shaw, pianiste de jazz connu pour avoir été un grand amoureux."
+      B: "De l'artichaut, qui se fait butiner puis délaisser par de nombreux insectes."
+      C: "De “Ar ti shô” qui veut dire “je tombe facilement amoureux” en mandarin."
+      D: "De l'art du chaud, pratiqué par les forgerons irlandais, qui avaient le cœur éprouvé."
+  - question: "Comment déclarait-on sa flamme à une femme en Grèce antique ?"
+    answer: C
+    choices:
+      A: "On lui chantait un poème, la classe hellénique."
+      B: "On lui écrivait un livre de philosophie, l'intelligence troyenne."
+      C: "On lui jetait une pomme à la gueule, la goujaterie crétoise."
+      D: "On lui laissait 100 mètres d'avance au 400 mètres haies, la galanterie."
+
+- id: 60
+  questions:
+  - question: "Si vous étiez une larve de fourmillion parisien, comment pourriez-vous échapper à vos prédateurs ?"
+    answer: B
+    choices:
+      A: "En insultant la terre entière, comme un vrai parisien."
+      B: "En mimant votre mort, comme un vrai comédien."
+      C: "En twerkant méchamment, comme un vrai danseur."
+      D: "En livrant sa propre famille, comme un vrai collabo."
+  - question: "Comment est mort Eschyle, père de la tragédie grecque ?"
+    answer: D
+    choices:
+      A: "Accident de bagnole, le truc con."
+      B: "En essayant de tuer son amant qui s'est avéré être aussi son père."
+      C: "En lançant un javelot qui lui revint en plein cœur."
+      D: "En se faisant assommer par une tortue tombée du ciel."
+  - question: "11 mois sur 12, Patrick Dancoisne est un croque-mort comme les autres. Que fait-il le 12ieme mois ?"
+    answer: D
+    choices:
+      A: "Il tue des gens."
+      B: "Il fabrique des cercueils."
+      C: "Il campe au cimetière."
+      D: "Il transforme les bites peintes sur les routes du Tour de France en hiboux."
+  - question: "Que doit-on à Nostradamus ?"
+    answer: D
+    choices:
+      A: "La prophétie du 11 septembre."
+      B: "La date de la fin du monde."
+      C: "La prédiction du réchauffement climatique."
+      D: "Le premier livre de recettes sur les confitures."
+
+- id: 61
+  questions:
+  - question: "Comment est mort Jack Daniel, créateur du whisky du même nom ?"
+    answer: C
+    choices:
+      A: "En faisant un concours d'apnée dans l’un des fûts."
+      B: "En oubliant de manger pendant un repas arrosé."
+      C: "En donnant un coup de pied à la con dans son coffre-fort."
+      D: "En chantant la chanson de Ray Charles “Hit The Road Jack”."
+  - question: "Laquelle de ces propositions est vraie ?"
+    answer: C
+    choices:
+      A: "L'eau tiède n’est jamais vraiment froide."
+      B: "L'eau chaude gèle plus vite que l’eau froide."
+      C: "L'eau froide bout plus vite que l’eau chaude."
+      D: "L'eau froide craint chat échaudé."
+  - question: "Si vous avez une voiture avec un verrouillage des portes à distance, vous devez savoir que ce système s'appelle “PLIP”. “PLIP”, ok, mais d’où ça vient ?"
+    answer: B
+    choices:
+      A: "De “plipper”, verbe en anglais qui veut dire “sonner”."
+      B: "De “plip“, le son que fait la télécommande."
+      C: "De “plip”, l'abréviation de Philippe Lipschutz, son créateur."
+      D: "De “plippeur le dauphin”, dont le sifflement légendaire a inspiré l'ingénieur."
+  - question: "Ützi a 5300 ans. ll a été découvert, momifié, à 3000 mètres d'altitude en Autriche. Mais qui est-il ?"
+    answer: C
+    choices:
+      A: "Le premier homme à avoir un nom à la con."
+      B: "Le premier homme qui a escaladé le mont Blanc."
+      C: "Le premier homme assassiné connu à ce jour."
+      D: "Le premier homme qui s'est fait chopé à essayer de planquer son argent en Suisse."
+
+- id: 62
+  questions:
+  - question: "Parmi ces 4 affirmations, laquelle est vraie ?"
+    answer: A
+    choices:
+      A: "Volkswagen fabrique aussi des saucisses."
+      B: "Fiat fabrique aussi des pizzas."
+      C: "Renault fabrique aussi des crêpes."
+      D: "Picard fabrique aussi des voitures."
+  - question: "Que fabrique naturellement notre corps ?"
+    answer: C
+    choices:
+      A: "Du cannabis."
+      B: "De la vodka."
+      C: "De l'EPO."
+      D: "Du fromage râpé."
+  - question: "Que fait-on tous les deux ans en Russie ?"
+    answer: B
+    choices:
+      A: "On ajoute une gravure en or sur la tombe de Staline."
+      B: "On ré-embaume le corps de Lénine."
+      C: "On repeint en rouge une statue de Nikita Khrouchtchev."
+      D: "On réélit Vladimir Poutine à 98% des voix."
+  - question: "Quel est le pouvoir de «Snowflame», ce super vilain méconnu de l'univers DC Comics ?"
+    answer: D
+    choices:
+      A: "Il fait apparaitre des snowboards à volonté."
+      B: "Il est capable de faire des boules de feu avec des boules de neige."
+      C: "Il a une armée de moniteur de ski à sa solde."
+      D: "Il se prend des mégas rails de cocaïne avant les bastons."
+
+- id: 63
+  questions:
+  - question: "Quelle est la particularité de la famille Fugate ?"
+    answer: B
+    choices:
+      A: "Ils ont les cheveux vert naturel, comme le Joker."
+      B: "Ils ont la peau bleue, comme les Schtroumpfs."
+      C: "Ils ont les yeux violets, comme Élisabeth Taylor."
+      D: "Ils ont le rire jaune, comme vous en lisant cette vanne moyenne."
+  - question: "Quelle était la particularité des Adamites, cette secte chrétienne pas comme les autres ?"
+    answer: B
+    choices:
+      A: "Ils vouaient un culte à Bob Dylan."
+      B: "Ils pratiquaient le nudisme sacré."
+      C: "Ils faisaient l'amour à plusieurs dans les champs."
+      D: "Ils portaient tous des lunettes rondes."
+  - question: "Comment, à Hawaï, les autorités gèrent-elles la question des SDF sur le territoire ?"
+    answer: C
+    choices:
+      A: "Ils leur donnent à tous du travail."
+      B: "Ils les entassent dans des sortes de ghettos."
+      C: "Ils leur filent un billet d'avion sans retour pour les États-Unis."
+      D: "Ils leur donnent des colliers de fleurs, ça nourrit pas mais c’est joli."
+  - question: "Selon la tradition juive, qui est Lilith ?"
+    answer: A
+    choices:
+      A: "La première meuf d'Adam."
+      B: "La sœur de Jésus."
+      C: "Le plan cul de Moïse."
+      D: "L'ex de Balthazar qui a aussi eu une aventure avec Melchior."

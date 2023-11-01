@@ -44,10 +44,7 @@ class AdditionRenderer:
         self.subtitle = item.get("subtitle", None)
         self.questions = item.get("questions", [])
         self.size = item.get("size", "normal")
-        self.maxHeight = 373
-        if self.size == "small":
-            self.maxHeight = 335
-
+        self.maxHeight = 400
     @staticmethod
     def formatTitle(title, subtitle):
         if subtitle:
@@ -95,7 +92,6 @@ class AdditionRenderer:
         font = QtGui.QFont("Ubuntu")
         font.setStretch(QtGui.QFont.ExtraCondensed)
         label = QLabel(None)
-        label.setSizePolicy(QtWidgets.QSizePolicy.Policy.Fixed, QtWidgets.QSizePolicy.Policy.Expanding)
         label.setFont(font)
         label.setFixedWidth(800)
         label.setTextFormat(Qt.TextFormat.RichText)
@@ -104,25 +100,24 @@ class AdditionRenderer:
         return label
 
     def nextTextValid(self, label, text):
-        lastText = label.text()
-        label.setText(text)
-        label.adjustSize()
-        label.updateGeometry()
-        log("label.height() < self.maxHeight: %d < %d" % (
-            label.height(),
+        doc = QtGui.QTextDocument(None)
+        doc.setHtml(text)
+        doc.setDefaultFont(label.font())
+        doc.setTextWidth(800 - 55 - 135)
+        size = doc.documentLayout().documentSize()
+        log("size.height() > self.maxHeight: %d < %d" % (
+            size.height(),
             self.maxHeight,
         ))
-        if label.height() < self.maxHeight:
-            return True
-        label.setText(lastText)
-        label.adjustSize()
-        return False
+        if size.height() > self.maxHeight:
+            return False
+        label.setText(text)
+        return True
 
     def finalize(self, label, pos):
-        log("pos: %d" % pos)
+        # log("pos: %d" % pos)
         hasNext = (pos < len(self.questions) - 1)
-        log("hasNext: %d" % hasNext)
-        label.setFixedHeight(480)
+        # log("hasNext: %d" % hasNext)
         return label, hasNext, pos
 
     def chunkQ(self, label):
@@ -153,20 +148,14 @@ class AdditionRenderer:
 
 class MyWindow(QtWidgets.QMainWindow):
     def __init__(self):
-        path = os.path.join(os.path.dirname(__file__), "resources", "selpoivre.yaml")
+        path = os.path.join(os.path.dirname(__file__), "resources", "addition.yaml")
         with open(path) as f:
             self.additions = yaml.safe_load(f)
         QtWidgets.QMainWindow.__init__(self)
         self.qIndex = 0
         self.qPos = 0
-        self.setMinimumWidth(800)
-        self.setMinimumHeight(480)
-        self.setWindowFlag(Qt.FramelessWindowHint)
-        log("geo: %s" % self.geometry())
-        log("minsize: %s" % self.minimumSize())
-        log("maxsize: %s" % self.maximumSize())
-        log("pos: %s" % self.pos())
-        log("rect: %s" % self.rect())
+        self.setFixedWidth(800)
+        self.setFixedHeight(480)
         self.setQ(self.qIndex, self.qPos)
 
     def setBackgroundImage(self, name):
@@ -176,11 +165,10 @@ class MyWindow(QtWidgets.QMainWindow):
         self.setStyleSheet("""
 QMainWindow {
   border-image: url(\"%s\");
-  background-color: #d4bee4;
+  background-color: #ff9d82;
 }
 QLabel {
-  margin: 45px 55px 38px 135px;
-  border: 1px solid green;
+  margin: 40px 55px 43px 135px;
 }
 """ % path);
 
@@ -202,12 +190,12 @@ QLabel {
         self.label, hasNext, nextPos = renderer.render()
         if hasNext:
             # self.setBackgroundImage("addition-back-arrow.png")
-            self.setBackgroundImage("selpoivre-back-arrow.png")
+            self.setBackgroundImage("addition-back-arrow.png")
             self.nextIndex = self.qIndex
             self.nextPos = nextPos
         else:
             # self.setBackgroundImage("addition-back.png")
-            self.setBackgroundImage("selpoivre-back.png")
+            self.setBackgroundImage("addition-back.png")
             if (self.qIndex + 1) != len(self.additions):
                 self.nextIndex = self.qIndex + 1
                 self.nextPos = 0
@@ -218,16 +206,10 @@ QLabel {
         self.pageNum.setMinimumWidth(75)
         self.pageNum.move(630, 400)
         self.pageNum.setStyleSheet("QLabel { color: #d4bee4 }")
-
         self.label.setParent(self)
         self.setCentralWidget(self.label)
 
-        log("label geo: %s" % self.label.geometry())
-        log("label minsize: %s" % self.label.minimumSize())
-        log("label maxsize: %s" % self.label.maximumSize())
-        log("label pos: %s" % self.label.pos())
-        log("label rect: %s" % self.label.rect())
-        
+
     def keyPressEvent(self, event):
         if event.key() == Qt.Key_Escape:
             sys.exit(0)
@@ -243,7 +225,6 @@ QLabel {
             self.prevQ()
 
 def run():
-    log(str(sys.argv))
     app = QApplication(sys.argv)
     cursor = QtGui.QCursor(Qt.BlankCursor);
     app.setOverrideCursor(cursor);

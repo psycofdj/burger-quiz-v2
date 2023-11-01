@@ -226,6 +226,7 @@
 
 - id: 11
   title: "La Réponse est en Noir & Blanc."
+  size: meduim
   questions:
   - Q: "C'est presque un cheval."
     A: "Un zèbre."
@@ -784,6 +785,7 @@
 
 - id: 35
   title: "Alors oui ça pourrait mais non, la réponse n'est pas Poutine."
+  size: medium
   questions:
   - Q: "N'est pas hyper tolérant."
     A: "Kim Jong-Un, Bachar al-Assad, Le Grand Miam parfois."
@@ -975,6 +977,7 @@
 
 - id: 45
   title: "Pierre Feuille Ciseaux. Vous connaissez le principe : la Pierre casse les ciseaux, les Ciseaux coupent la feuille, la Feuille enveloppe la Pierre. Essayez de me battre. C'est parti."
+  size: medium
   questions:
   - Q: "Pierre."
     A: "Feuille."
@@ -1105,6 +1108,7 @@
 
 - id: 53
   title: "La Réponse est une addition de mots. Je vous donne des mots qui n’ont, a priori, rien à voir entre eux et vous devez, en les additionnant, trouver le mot existant."
+  size: medium
   questions:
   - Q: "Calvitie + Rongeur."
     A: "Chauve-souris."
@@ -1250,6 +1254,7 @@
 
 - id: 62
   title: "La Réponse commence par le son “mo“."
+  size: medium
   questions:
   - Q: "Un jeu télévisé."
     A: "Motus. Money Drop. Mot de Passe. Il y avait aussi le Burger Quiz, mais ce n'était pas la bonne réponse."
@@ -1401,7 +1406,7 @@
 
 - id: 70
   title: "Toutes les réponses finissent par “Ouille“. Quel que soit ma proposition, votre réponse devra finir par le son “Ouille“, Et vous n'avez droit qu'à un seul “couille“  par équipe, Exemple : Une phrase pour dire de se dépêcher : Allez grouille !"
-  size: small
+  size: medium
   questions:
   - Q: "Un film."
     A: "La grande vadrouille. Ratatouille, La Princesse et la grenouille (Disney). Gribouille (Marc Allégret)"
@@ -1461,7 +1466,7 @@
 
 - id: 73
   title: "Réponse de cinéma, Je vais vous poser des questions perso et vous devrez me répondre avec un titre de film."
-  size: medium
+  size: small
   questions:
   - Q: "Comment ça va ?"
     A: "“Je vais bien, ne t'en fais pas“, “Je vais mieux“, “Je suis timide mais je me soigne“, “Grâce à dieu“, “J'accuse“…"

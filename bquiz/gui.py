@@ -87,8 +87,7 @@ class AdditionRenderer:
 
     @staticmethod
     def createLabel():
-        #font = QtGui.QFont("Ubuntu")
-        font = QtGui.QFont("Serif")
+        font = QtGui.QFont("Ubuntu")
         font.setStretch(QtGui.QFont.ExtraCondensed)
         label = QLabel(None)
         label.setFont(font)
@@ -156,9 +155,7 @@ class MyWindow(QtWidgets.QMainWindow):
         self.setQ(self.qIndex, self.qPos)
         self.setFixedWidth(800)
         self.setFixedHeight(480)
-        #self.setSizePolicy(QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Minimum)
         self.setWindowFlag(Qt.FramelessWindowHint)
-        print(self.geometry())
 
     def setBackgroundImage(self, name):
         path = os.path.join(os.path.dirname(__file__), "resources", name)
@@ -206,7 +203,7 @@ QLabel {
         self.pageNum.setText("<b>%s</b>" % (self.qIndex+1))
         self.pageNum.setMinimumHeight(110)
         self.pageNum.setMinimumWidth(75)
-        self.pageNum.move(665, 400)
+        self.pageNum.move(630, 400)
         self.pageNum.setStyleSheet("QLabel { color: #d4bee4 }")
 
         self.label.setParent(self)
@@ -228,6 +225,8 @@ QLabel {
 
 def run():
     app = QApplication(sys.argv)
+    cursor = QtGui.QCursor(Qt.BlankCursor);
+    app.setOverrideCursor(cursor);
     widget = MyWindow()
     widget.show()
     sys.exit(app.exec_())

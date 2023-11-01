@@ -32,6 +32,11 @@ from PySide6.QtGui import (
 )
 import os
 
+def log(arg):
+    print(arg)
+    with open("/tmp/log", "a") as f:
+        f.write(arg + "\n")
+
 class AdditionRenderer:
     def __init__(self, item, initialPos):
         self.initialPos = initialPos
@@ -101,10 +106,10 @@ class AdditionRenderer:
         lastText = label.text()
         label.setText(text)
         label.adjustSize()
-        # print("label.height() < self.maxHeight: %d < %d" % (
-        #     label.height(),
-        #     self.maxHeight,
-        # ))
+        log("label.height() < self.maxHeight: %d < %d" % (
+            label.height(),
+            self.maxHeight,
+        ))
         if label.height() < self.maxHeight:
             return True
         label.setText(lastText)
@@ -112,9 +117,9 @@ class AdditionRenderer:
         return False
 
     def finalize(self, label, pos):
-        # print("pos: %d" % pos)
+        log("pos: %d" % pos)
         hasNext = (pos < len(self.questions) - 1)
-        # print("hasNext: %d" % hasNext)
+        log("hasNext: %d" % hasNext)
         label.setFixedHeight(480)
         return label, hasNext, pos
 
@@ -127,11 +132,11 @@ class AdditionRenderer:
             maxIdx = maxIdx/2
         while qIdx+qCount < maxIdx:
             qCount += 1
-            # print("try: [%d:%d]" % (qIdx,qIdx+qCount))
+            log("try: [%d:%d]" % (qIdx,qIdx+qCount))
             qSubset = self.questions[qIdx:qIdx+qCount]
             text = self.formatText(qSubset)
             if not self.nextTextValid(label, text):
-                # print("rejected")
+                log("rejected")
                 break
         return self.finalize(label, qIdx+qCount)
 
@@ -140,7 +145,7 @@ class AdditionRenderer:
         text = self.formatText(self.questions)
         if self.initialPos != 0 or not self.nextTextValid(label, text):
             return self.chunkQ(label)
-        # print("one chunk !")
+        log("one chunk !")
         return self.finalize(label, len(self.questions) - 1)
 
 

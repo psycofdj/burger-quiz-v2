@@ -87,11 +87,12 @@ class AdditionRenderer:
 
     @staticmethod
     def createLabel():
-        font = QtGui.QFont("Ubuntu")
+        #font = QtGui.QFont("Ubuntu")
+        font = QtGui.QFont("Serif")
         font.setStretch(QtGui.QFont.ExtraCondensed)
         label = QLabel(None)
         label.setFont(font)
-        #label.setFixedWidth(840)
+        label.setFixedWidth(800)
         label.setTextFormat(Qt.TextFormat.RichText)
         label.setWordWrap(True)
         label.setAlignment(QtCore.Qt.AlignVCenter | QtCore.Qt.AlignLeft)
@@ -153,12 +154,11 @@ class MyWindow(QtWidgets.QMainWindow):
         self.qIndex = 0
         self.qPos = 0
         self.setQ(self.qIndex, self.qPos)
-        #self.setMinimumWidth(840)
-        #self.setMinimumHeight(480)
+        self.setFixedWidth(800)
+        self.setFixedHeight(480)
         #self.setSizePolicy(QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Minimum)
-        #self.setWindowFlag(Qt.FramelessWindowHint)
-        self.setWindowFlag(Qt.CustomizeWindowHint | Qt.FramelessWindowHint)
-        self.setWindowState(Qt.WindowMaximized)
+        self.setWindowFlag(Qt.FramelessWindowHint)
+        print(self.geometry())
 
     def setBackgroundImage(self, name):
         path = os.path.join(os.path.dirname(__file__), "resources", name)

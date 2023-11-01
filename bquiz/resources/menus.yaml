@@ -1,5 +1,5 @@
 - id: 1
-  menu: "Menu Crooner"
+  title: "Menu Crooner"
   questions:
   - Q: "Que veut dire “Crooner” ou plutôt “To Croon” en anglais ?"
     A: "Fredonner."
@@ -11,7 +11,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 2
-  menu: "Menu du Dimanche Soir."
+  title: "Menu du Dimanche Soir."
   questions:
   - Q: "Qui a composé la musique qui a longtemps été le générique de «ciné dimanche» de TF1, le dimanche soir ?"
     A: "Earth, Wind and Fire."
@@ -23,7 +23,7 @@
     A: "Faux et c'était pour zéro Miam."
 
 - id: 3
-  menu: "Menu Sous Couverture."
+  title: "Menu Sous Couverture."
   questions:
   - Q: "À votre avis, pendant combien de temps Robert Hanssen, expert du contre-espionnage, a-t-il donné des informations au KGB ?"
     A: "22 ans. De 1979 à 2001."
@@ -35,7 +35,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 4
-  menu: "Menu Censuré."
+  title: "Menu Censuré."
   questions:
   - Q: "Une scène de Rain Man a été censurée dans tous les avions par les compagnies aériennes américaines. Pourquoi à votre avis ?"
     A: "Dans une scène à l'aéroport, Ray Babitt (Dustin Hoffman) énumère les catastrophes aériennes par compagnie."
@@ -47,7 +47,7 @@
     A: "C’est malheureux mais c'est vrai."
 
 - id: 5
-  menu: "Menu Fier de ses origines."
+  title: "Menu Fier de ses origines."
   questions:
   - Q: "Le terme Paparazzi tire son origine d'un film italien des années 60, lequel ?"
     A: "La Dolce Vita de Federico Fellini."
@@ -59,7 +59,7 @@
     A: "Faux, ça n'est jamais arrivé. Mais c'était pour zéro Miam de toute façon."
 
 - id: 6
-  menu: "Menu que les moins de 20 ans ne peuvent pas connaître."
+  title: "Menu que les moins de 20 ans ne peuvent pas connaître."
   questions:
   - Q: "Aux États-Unis, que ne peut-on pas faire quand on à moins de 20 ans ? Voter, boire de l'alcool ou les 2 ?"
     A: "On ne peut pas boire de l'alcool, mais on peut voter."
@@ -71,7 +71,7 @@
     A: "Faux et c'était pour zéro Miam,"
 
 - id: 7
-  menu: "Menu qui n'a pas sa langue dans sa poche."
+  title: "Menu qui n'a pas sa langue dans sa poche."
   questions:
   - Q: "V ou F: Jean de La Fontaine a fait scandale en écrivant des fables érotiques ?"
     A: "Vrai."
@@ -83,7 +83,7 @@
     A: "Faux. Et cette vanne est scandaleuse. C'était pour zéro Miam."
 
 - id: 8
-  menu: "Menu on rigole, on rigole, mais on va quand même tous crever."
+  title: "Menu on rigole, on rigole, mais on va quand même tous crever."
   questions:
   - Q: "Depuis l'aube de l'Humanité on estime que 108 milliards d'individus sont nés. Mais d’après vous, combien sont morts ?"
     A: "100,8 milliards, soit 93% des êtres humains."
@@ -95,7 +95,7 @@
     A: "Vrai. Mais c'était pour zéro Miam."
 
 - id: 9
-  menu: "Menu Enceint."
+  title: "Menu Enceint."
   questions:
   - Q: "V ou F: chez les Hippocampes, c'est le mâle qui effectue la gestation ?"
     A: "Vrai."
@@ -107,7 +107,7 @@
     A: "Oui, c’est possible et c'est bien normal. On embrasse toutes les femmes enceintes et on leur dit qu'on les aime et qu'elles sont belles. C'était pour zéro Miam."
 
 - id: 10
-  menu: "Menu Super."
+  title: "Menu Super."
   questions:
   - Q: "Alors c'est comment d'être ici ?"
     A: "C'est super. Et c'était pour 1 Miam parce que ça prouve que vous êtes dans l'esprit de ce Menu. (Toutes les autres réponses perdantes.)"
@@ -119,7 +119,7 @@
     A: "Vrai mais c'était pour zéro Miam."
 
 - id: 11
-  menu: "Menu Sous Hypnose."
+  title: "Menu Sous Hypnose."
   questions:
   - Q: "Citez-moi 2 choses qu'on peut faire grâce à l'hypnose."
     A: "Arrêter de fumer / Arrêter de boire / Mincir / Passer pour un con sur TF1 / Soigner le stress / Faciliter la grossesse et l'accouche- ment / Se débarrasser d’une compulsion."
@@ -131,7 +131,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 12
-  menu: "Un beau Menu de 3,5 kg."
+  title: "Un beau Menu de 3,5 kg."
   questions:
   - Q: "Lors de sa première année de croissance, combien de kilos un bébé baleine bleue prend-il par jour ?À 10 kilos près."
     A: "Il prend environ 90 kilos par jour, Soit une prise moyenne d'un kilo toutes les 16 minutes."
@@ -143,7 +143,7 @@
     A: "Vrai. Il s'agit de Hessy Taft, une petite fille d'origine juive."
 
 - id: 13
-  menu: "Menu Bande FM."
+  title: "Menu Bande FM."
   questions:
   - Q: "Qui détient le record de la chanson la plus diffusée de l'histoire à la radio ?"
     A: "Les Beatles avec Yesterday. Aux alentours de sept millions de diffusions de 1965 à 2000. Elle détient aussi le record de la chanson la plus reprise au monde (plus de 2000 versions). Cette chanson était intitulée au départ «Scrambled Eggs»"
@@ -155,7 +155,7 @@
     A: "C'est le fait de parler sur l'intro d'une chanson et de s'arrêter juste avant que le chanteur se mette à chanter."
 
 - id: 14
-  menu: "Menu qui n’a pas un poil sur le caillou."
+  title: "Menu qui n’a pas un poil sur le caillou."
   questions:
   - Q: "Citez-moi au moins 3 Actrices hollywoodiennes qui se sont rasées la tête pour un rôle ?"
     A: "Sigourney Weaver pour Alien, Natalie Portman pour ”V for Vendetta”, Charlize Theron pour «Mad Max : Fury Road»..."
@@ -167,7 +167,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 15
-  menu: "Menu Tchao."
+  title: "Menu Tchao."
   questions:
   - Q: "V ou F: à la base, «Tchao» veut dire «Je suis votre esclave»."
     A: "Vrai. Le mot tire son origine du vénitien “s’ciao” (ou «s’ciavo») qui veut dire «esclave »."
@@ -179,7 +179,7 @@
     A: "Impossible à compter et c'était pour zéro Miam."
 
 - id: 16
-  menu: "Menu Paillette."
+  title: "Menu Paillette."
   questions:
   - Q: "Un projet d’eau de luxe a été créé par Ed Kean, qui prévoit d'extraire une eau vierge de toute pollution. Savez-vous d'où compte-t-il extraire cette eau si pure ?"
     A: "Des Icebergs. Comme si la fonte des glaces ne suffisait pas. Bravo à toi Ed."
@@ -191,7 +191,7 @@
     A: "Vrai, c'est une marque allemande."
 
 - id: 17
-  menu: "Menu En taule,"
+  title: "Menu En taule,"
   questions:
   - Q: "Quelle série a été interdite dans plus d'une dizaine de prisons aux USA ?"
     A: "Prison Break. La série est toujours interdite dans 13 prisons aux États-Unis, car elle révèle des méthodes pour s'évader de prison."
@@ -203,7 +203,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 18
-  menu: "Menu Geek."
+  title: "Menu Geek."
   questions:
   - Q: "Dans quelle langue le mot geek trouve-t-il son origine ?"
     A: "De l’ancien allemand. Un «Geck» désignait une espèce de fou en marge de la société."
@@ -215,7 +215,7 @@
     A: "Faux. Et c'était pour zéro Miam."
 
 - id: 19
-  menu: "Menu Achipé Achopé"
+  title: "Menu Achipé Achopé"
   questions:
   - Q: "Dans quel pays a été diffusée la 1° émission dédiée à la culture Hip Hop en 1984 ?"
     A: "En France. Elle s'appelait H.I.P. H.0.P et était présentée par Sidney sur TF1."
@@ -227,7 +227,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 20
-  menu: "Menu Séries TV, un Menu à Binge Miamer."
+  title: "Menu Séries TV, un Menu à Binge Miamer."
   questions:
   - Q: "La série Black Mirror n'a pas choisi son nom par hasard. Connaissez-vous sa signification ?"
     A: "Lorsque les ordinateurs, tablettes ou smartphones sont éteints, on voit notre reflet sur l'écran noir, comme un miroir noir."
@@ -239,7 +239,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 21
-  menu: "Menu Hyperglycémie."
+  title: "Menu Hyperglycémie."
   questions:
   - Q: "D'après vous, vous grossirez moins si vous vous enfilez une tablette de chocolat d'un coup ou si vous espacez sa dégustation sur plusieurs jours ?"
     A: "Vous grossirez moins en la défonçant d'un coup."
@@ -251,7 +251,7 @@
     A: "«Et la marmotte elle met le chocolat dans le papier d'alu»."
 
 - id: 22
-  menu: "Menu Bien élevé."
+  title: "Menu Bien élevé."
   questions:
   - Q: "Selon les règles de politesse, que faut-il dire lorsque quelqu'un éternue ?"
     A: "Rien. Dire ‘à vos souhaits” à une personne qui éternue est une façon détournée de lui faire remarquer qu’elle nous a importuné en faisant ce bruit."
@@ -263,7 +263,7 @@
     A: "Faux. Et c'était pour zéro Miam."
 
 - id: 23
-  menu: "Menu Recyclé."
+  title: "Menu Recyclé."
   questions:
   - Q: "Que font certaines araignées au lieu de jeter leur toile, et c'est vraiment économe de leur part ?"
     A: "Elles les mangent."
@@ -275,7 +275,7 @@
     A: "Faux. Mais c'était pour zéro Miam."
 
 - id: 24
-  menu: "Menu Addict."
+  title: "Menu Addict."
   questions:
   - Q: "Qu'est-ce que l’oniomanie ?"
     A: "C'est être atteint de fièvre acheteuse, acheter de façon compulsive."
@@ -287,7 +287,7 @@
     A: "Faux. Il y a 40 épisodes de 40 minutes en moyenne dans la saison 2 soit environ 26 heures, trop long pour une nuit. C'était pour zéro Miam."
 
 - id: 25
-  menu: "Menu Prévisible."
+  title: "Menu Prévisible."
   questions:
   - Q: "Quel est le mot de passe le plus prévisible sur internet en 2017 ?"
     A: "« 123456 » était le mot de passe le plus piraté. « Password » arrive en 2."
@@ -299,7 +299,7 @@
     A: "Faux, aucun lien. Le célèbre céphalopode nous a hélas quitté le 26 octobre 2010."
 
 - id: 26
-  menu: "Menu Russe."
+  title: "Menu Russe."
   questions:
   - Q: "V ou F: avant 2011 en Russie toutes les boissons en dessous de 10° n'étaient pas considérées comme de l'alcool ?"
     A: "Vrai. Les enfants pouvaient donc en acheter."
@@ -311,7 +311,7 @@
     A: "Faux."
 
 - id: 27
-  menu: "Menu avec des amis pareils, on retrouve espoir en la vie."
+  title: "Menu avec des amis pareils, on retrouve espoir en la vie."
   questions:
   - Q: "Même quand tout le monde avait lâché Georges Lucas, un seul de ses amis croyait dur comme fer au succès de la Guerre des Étoiles. Lequel ?"
     A: "Steven Spielberg."
@@ -323,7 +323,7 @@
     A: "Faux. C'était une limande. Pour zéro Miam."
 
 - id: 28
-  menu: "Menu avec des amis pareils, qui a besoin d’ennemis ?"
+  title: "Menu avec des amis pareils, qui a besoin d’ennemis ?"
   questions:
   - Q: "Quel meilleur ami de Jacques Chirac l'a trahi au dernier moment en se ralliant à Balladur, favori à l'époque pour la présidentielle ?"
     A: "Nicolas Sarkozy."
@@ -335,7 +335,7 @@
     A: "Comme vous voulez mais c'est pour zéro Miam."
 
 - id: 29
-  menu: "Menu pour les Lovers."
+  title: "Menu pour les Lovers."
   questions:
   - Q: "Citez-moi 3 films avec «Love» dans le titre."
     A: "«Shakespeare in love», «Love Actually», «1 love you Phillip Morris », «Mektoub My Love : canto uno», «PS. : | Love You», «From Paris with Love»..."
@@ -347,7 +347,7 @@
     A: "Faux. Mais c'était pour zéro Miam."
 
 - id: 30
-  menu: "Menu pour les Haters."
+  title: "Menu pour les Haters."
   questions:
   - Q: "Quel est le film dont le personnage principal porte le tatouage «Love» sur la main droite, et «Hate» sur la main gauche ?"
     A: "«La nuit du chasseur», de Charles Laughton, avec Robert Mitchum, sorti en 1955..."
@@ -359,7 +359,7 @@
     A: "Faux. Mais c'était pour zéro Miam."
 
 - id: 31
-  menu: "Menu de Rêves."
+  title: "Menu de Rêves."
   questions:
   - Q: "Peut-on croiser, dans ses rêves, des gens qu'on n'a jamais vus ?"
     A: "Non. On ne rêve que de visages déjà croisés. Le cerveau n'invente pas de visages, mais il en retient beaucoup."
@@ -371,7 +371,7 @@
     A: "Faux. Mais c'était pour zéro Miam."
 
 - id: 32
-  menu: "Menu Parlez-moi de votre mère."
+  title: "Menu Parlez-moi de votre mère."
   questions:
   - Q: "Parlez-moi de votre mère."
     A: "Merci, vous gagnez 1 Miam pour avoir fait le premier pas vers la guérison."
@@ -383,7 +383,7 @@
     A: "Faux. Pour zéro Miam."
 
 - id: 33
-  menu: "Menu Bio(Pic)."
+  title: "Menu Bio(Pic)."
   questions:
   - Q: "Forrest Fenn, collectionneur d'art et archéologue amateur, a caché des indices dans son autobiographie. Pourquoi ?"
     A: "Pour que ses lecteurs puissent retrouver un trésor d'une valeur d'1 million de dollars. Le trésor a finalement été retrouvé en juin 2020, 11 ans après."
@@ -395,7 +395,7 @@
     A: "Faux. (Zéro Miam)"
 
 - id: 34
-  menu: "Menu C’est de la Bombe !"
+  title: "Menu C’est de la Bombe !"
   questions:
   - Q: "V ou F: une bombe nucléaire est déjà tombée sur New York mais n'a pas explosé ?"
     A: "Vrai. C'était en 1961, à cause d'un souci technique un avion a largué deux bombes nucléaires sur la ville qui n'explosèrent heureusement pas."
@@ -407,7 +407,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 35
-  menu: "Menu Tom Cruise."
+  title: "Menu Tom Cruise."
   questions:
   - Q: "V ou F: pour une scène de Mission Impossible, Tom Cruise a appris à conduire un hélicoptère et a effectué un piqué dans le vide au bord d’une falaise ?"
     A: "Vrai, Il lui a fallu trois mois, à raison de 8h par jour, pour se qualifier."
@@ -419,7 +419,7 @@
     A: "Faux, il avait un assistant pour ça. Zéro Miam."
 
 - id: 36
-  menu: "Menu Beaux Gosses."
+  title: "Menu Beaux Gosses."
   questions:
   - Q: "Qui a été élu l'homme le plus sexy du siècle en 1999 ?"
     A: "Sean Connery."
@@ -431,7 +431,7 @@
     A: "Faux, parce qu'il a un iPhone 2. C'était pour zéro Miam."
 
 - id: 37
-  menu: "Bat-Menu."
+  title: "Bat-Menu."
   questions:
   - Q: "V ou F: Superman bosse pour Batman ?"
     A: "Vrai. En effet, le «Daily Planet» appartient à la Wayne Corporation, la société de Bruce Wayne alias Batman."
@@ -443,7 +443,7 @@
     A: "C'était pour zéro Miam."
 
 - id: 38
-  menu: "Menu Narcoleptique."
+  title: "Menu Narcoleptique."
   questions:
   - Q: "Napflix est un site espagnol parodiant Netflix, qui vous aide à vous endormir. Quel est le genre de contenu que l'on peut y trouver ?"
     A: "Oui, des programmes jugés soporifiques. Des concours de pétanque, un cours de physique quantique, une messe en latin, etc."
@@ -455,7 +455,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 39
-  menu: "Menu Animation"
+  title: "Menu Animation"
   questions:
   - Q: "D'après vous pourquoi de nombreux personnages de dessins animés n’ont que 4 doigts ?"
     A: "Parce que ça coûte moins cher que 5 doigts."
@@ -467,7 +467,7 @@
     A: "Faux. C'est l'inverse. L'un des précurseurs des mangas s’est inspiré de Bambi, entre autres, pour dessiner ses personnages."
 
 - id: 40
-  menu: "Menu Burger Studio."
+  title: "Menu Burger Studio."
   questions:
   - Q: "En quoi consiste la méthode «Actors Studio» ?"
     A: "L'objectif n’est pas de jouer mais d'être… être vrai et non plus imiter, singer ou faire semblant."
@@ -479,7 +479,7 @@
     A: "Faux."
 
 - id: 41
-  menu: "Menu Chat, cette petite boule de poils si attachante."
+  title: "Menu Chat, cette petite boule de poils si attachante."
   questions:
   - Q: "V ou F: il existe des chats sosies d'Hitler ?"
     A: "Vrai, il y a même un site dédié : Cats That Look Like Hitler."
@@ -491,7 +491,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 42
-  menu: "Menu Rat, cette petite boule de poils si répugnante."
+  title: "Menu Rat, cette petite boule de poils si répugnante."
   questions:
   - Q: "Quelle faculté le rat partage-t-il avec l'homme ?"
     A: "Le rat rit, ce qui est bizarre à dire, ce n’est pas une contrepèterie, mais c'est vrai. Si on le chatouille, il rigole de bon cœur."
@@ -503,7 +503,7 @@
     A: "Parce qu'il ne veut jamais lâcher ses Miam, d'ailleurs cette question était pour zéro Miam."
 
 - id: 43
-  menu: "Menu Pas de nouvelle, bonne nouvelle."
+  title: "Menu Pas de nouvelle, bonne nouvelle."
   questions:
   - Q: "V ou F: quand on dit «Pas de nouvelle, bonne nouvelle» il y a quand même une chance que la personne qui ne donne pas de nouvelle ait été kidnappée ou même tuée ?"
     A: "Tout à fait vrai. Vous voulez qu'on fasse une pause pour passer des coups de fils ?"
@@ -515,7 +515,7 @@
     A: "Vrai. C'était donc pour zéro Miam. Ha non je l'ai retrouvée ! Vous connaissez la blague du commissaire ? Non ? Ben mets-moi un doigt dans le cul, tu verras comme il serre."
 
 - id: 44
-  menu: "Menu Glandes Lacrymales."
+  title: "Menu Glandes Lacrymales."
   questions:
   - Q: "V ou F: les hommes pleurent plus que les femmes ?"
     A: "Faux. Une étude suggère que les femmes pleurent 2 à 5 fois par mois, tandis ge les hommes pleurent 0,5 fois par mois (ce qui n'est pas évident à réaliser)."
@@ -527,7 +527,7 @@
     A: "Faux. Mais c'était pour zéro Miam."
 
 - id: 45
-  menu: "Menu Zygomatiques du monde."
+  title: "Menu Zygomatiques du monde."
   questions:
   - Q: "Combien rit-on par jour en moyenne ?"
     A: "5 à 6 min."
@@ -539,7 +539,7 @@
     A: "Faux. Mais c'était pour zéro Miam."
 
 - id: 46
-  menu: "Menu «Seconde Guerre mondiale »."
+  title: "Menu «Seconde Guerre mondiale »."
   questions:
   - Q: "V ou F: Hitler a été élu «Homme de l’année» par le magazine Time ?"
     A: "Oui, en 1938, un an avant la déclaration de guerre."
@@ -551,7 +551,7 @@
     A: "Faux et c'était pour zéro Miam."
 
 - id: 47
-  menu: "Menu Facebook, cet ami qui ne vous veut que du bien."
+  title: "Menu Facebook, cet ami qui ne vous veut que du bien."
   questions:
   - Q: "Que veulent dire les lettres GAFAM ?"
     A: "Google- La -Facebook-Amazon-Microsoft, également appelés «les Big Five»."
@@ -563,7 +563,7 @@
     A: "C'était pour zéro Miam."
 
 - id: 48
-  menu: "Menu Weed."
+  title: "Menu Weed."
   questions:
   - Q: "Tout le monde dit «c'est le kif», «je kiffe», «t'es un kiffeur»… Mais V ou F, le kif, c'est avant tout de la weed ?"
     A: "Vrai. En arabe, Kif veut dire haschich."
@@ -575,7 +575,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 49
-  menu: "Menu Karaoké."
+  title: "Menu Karaoké."
   questions:
   - Q: "Daisuke Inoue, patron de bar, aurait inventé le Karaoké en 1971. votre avis, qu'est-ce qui a pu lui donner l'idée ?"
     A: "Il devait assurer l'animation musicale d'un congrès. Il n'a pas pu y aller et à la place, il a proposé une machine qui permet au public d'écouter des accompagnements et de chanter en direct."
@@ -587,7 +587,7 @@
     A: "Vrai, C'était au mariage de Houellebecq et tous deux en gardent un souvenir ému. Ils ont chanté du Johnny «que je t'aime»."
 
 - id: 50
-  menu: "Menu Pizza."
+  title: "Menu Pizza."
   questions:
   - Q: "V ou F: on utilisait déjà le mot «pizza» y'a plus de 1000 ans ?"
     A: "Vrai, On trouve ce mot dans un texte latin datant de 997. Il voulait alors dire «galette »."
@@ -599,7 +599,7 @@
     A: "Sans doute, mais c'était pour zéro Miam."
 
 - id: 51
-  menu: "Menu aux Frontières de l’Infini."
+  title: "Menu aux Frontières de l’Infini."
   questions:
   - Q: "En VF quelle est la devise de Buzz l'éclair, le héros de «Toy Story» ?"
     A: "«Vers l'infini et au-delà !»"
@@ -611,7 +611,7 @@
     A: "Vrai et c'était pour zéro Miam."
 
 - id: 52
-  menu: "Menu Belle Époque que cette Belle Époque."
+  title: "Menu Belle Époque que cette Belle Époque."
   questions:
   - Q: "V ou F: à «la Belle Époque», les prostituées étaient surnommées «les allumeuses» car elles sortaient en même temps que les allumeurs de réverbères ?"
     A: "Vrai."
@@ -623,7 +623,7 @@
     A: "Vrai. Les nazis, toujours au taquet sur la santé publique, ont constaté que le tabac pouvait nuire à la reproduction aryenne."
 
 - id: 53
-  menu: "Menu Pas Piqué des Hannetons."
+  title: "Menu Pas Piqué des Hannetons."
   questions:
   - Q: "À votre avis, dans l'expression «Pleurer comme une Madeleine», parle-t-on d'une pâtisserie ou d'une personne ?"
     A: "D'une personne : Madeleine De Magdala (alias Marie-Madeleine) personnage biblique qui aurait pleuré aux pieds de Jésus en lui confessant ses pêchés."
@@ -635,7 +635,7 @@
     A: "Faux, Au XIII‘ siècle, suppôt qui le vassal ou le sujet de quelqu'un. C'était pour zéro Miam."
 
 - id: 54
-  menu: "Menu À bout de souffle."
+  title: "Menu À bout de souffle."
   questions:
   - Q: "V ou F: un marathon a déjà été couru dans l'Espace ?"
     A: "Vrai. Le marathon de Boston en 2007 a vu la « participation » de Sunita Williams depuis la Station Spatiale Internationale."
@@ -647,7 +647,7 @@
     A: "Faux."
 
 - id: 55
-  menu: "Menu «Star Wars» ça marchera jamais."
+  title: "Menu «Star Wars» ça marchera jamais."
   questions:
   - Q: "Qu'a fait Georges Lucas au moment de la sortie de Star Wars tellement il était persuadé que son film ne marcherait jamais ?"
     A: "Il s'est barré à Hawaïl pour fuir la sortie du film."
@@ -659,7 +659,7 @@
     A: "Faux, C'était pour zéro Miam,"
 
 - id: 56
-  menu: "Menu la vraie Guerre des Étoiles."
+  title: "Menu la vraie Guerre des Étoiles."
   questions:
   - Q: "Quel pays a envoyé le premier homme dans l'Espace ?"
     A: "L'URSS, le 12 avril 1961, Premier vol humain dans l'espace par le cosmonaute Youri Gagarine, à bord de la fusée Vostok."
@@ -671,7 +671,7 @@
     A: "Vrai, Wernher Von Braun, haut responsable de la NASA lors de la conquête de la lune, était un peu SS pendant la guerre. Ayant besoin de ses talents d'ingénieur, les américains ont été un peu indulgents avec son CV, disons…"
 
 - id: 57
-  menu: "Menu Tchernobyl, Terre sainte de la radioactivité."
+  title: "Menu Tchernobyl, Terre sainte de la radioactivité."
   questions:
   - Q: "Malgré la forte radioactivité, de nombreux animaux ont réinvesti la zone autour de Tchernobyl. Pourquoi ?"
     A: "Parce que l'homme n'y est pas,"
@@ -683,7 +683,7 @@
     A: "Faux. Mais la Centrale Lubrizol à Rouen reste une visite pour les revenus plus modestes. C'était pour zéro Miam."
 
 - id: 58
-  menu: "Menu : Hommes, femmes, tout(es) pareil(les)"
+  title: "Menu : Hommes, femmes, tout(es) pareil(les)"
   questions:
   - Q: "Comment s'appelle la pomme d'Adam des femmes ?"
     A: "La pomme d'Adam. Elle est toute petite mais s'appelle pareil. C’est le cartilage thyroïde."
@@ -695,7 +695,7 @@
     A: "Faux. Non, quand même, non, ce serait injuste et absurde, ça se saurait."
 
 - id: 59
-  menu: "Menu Coupé au montage."
+  title: "Menu Coupé au montage."
   questions:
   - Q: "Quel acteur, très apprécié de Steven Spielberg, a pourtant été coupé au montage dans E.T. ?"
     A: "Harrison Ford, Il jouait le directeur de l'école d'Eliott."
@@ -707,7 +707,7 @@
     A: "Novak Djokovic."
 
 - id: 60
-  menu: "Menu Fruité"
+  title: "Menu Fruité"
   questions:
   - Q: "En quelle matière sont les étiquettes collées sur les fruits ?"
     A: "En plastique. Il faut donc arrêter de les manger."
@@ -719,7 +719,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 61
-  menu: "Menu Assez sympa"
+  title: "Menu Assez sympa"
   questions:
   - Q: "Quelle est la particularité d’une encre sympathique ?"
     A: "Elle est invisible,"
@@ -731,7 +731,7 @@
     A: "Vrai mais c'était pour zéro Miam donc je ne peux pas vous donner de Miam. Désolé.e."
 
 - id: 62
-  menu: "Menu Élémentaire mon cher Watson"
+  title: "Menu Élémentaire mon cher Watson"
   questions:
   - Q: "Quand l'auteur Arthur Conan Deus {ua son personnage Sherlock Holmes dans le magazine “The Strand”, il faillit tuer autre chose en même temps. Mais quoi ?"
     A: "Le journal lui-même. En signe de protestation, 20 000 lecteurs se sont désabonnés."
@@ -743,7 +743,7 @@
     A: "Faux. Et c'était pour zéro Miam."
 
 - id: 63
-  menu: "Menu Fin heureuse"
+  title: "Menu Fin heureuse"
   questions:
   - Q: "Quelle expression anglaise est utilisée pour décrire la fin heureuse d'un film ou d’une histoire ?"
     A: "Happy ending."
@@ -755,7 +755,7 @@
     A: "C'était pour zéro Miam."
 
 - id: 64
-  menu: "Menu Fin tragique"
+  title: "Menu Fin tragique"
   questions:
   - Q: "V ou F: en Anglais, une fin malheureuse de film s'appelle une “ragic ending” ?"
     A: "Faux."
@@ -767,7 +767,7 @@
     A: "Vrai. C'est pour zéro Miam."
 
 - id: 65
-  menu: "Menu Victor Hugo, #victug."
+  title: "Menu Victor Hugo, #victug."
   questions:
   - Q: "V ou F: Victor Hugo n'était pas si populaire que ça de son vivant, et n'eut que 30 personnes à ses funérailles ?"
     A: "Faux, archi faux. Il y avait 2 millions de personnes."
@@ -779,7 +779,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 66
-  menu: "Menu Wesh Anderson !"
+  title: "Menu Wesh Anderson !"
   questions:
   - Q: "V ou F: Wes Anderson était en colloc avec Owen Wilson quand ils étaient à l'université ?"
     A: "Vrai."
@@ -791,7 +791,7 @@
     A: "Vrai. Mais maintenant vous n'avez plus d'excuse pour ne pas voir ses films, C'était pour zéro Miam."
 
 - id: 67
-  menu: "Menu Double Z."
+  title: "Menu Double Z."
   questions:
   - Q: "V ou F: Zinedine Zidane a déjà mis une droite à Marcel Desailly et lui a pété l’arcade ?"
     A: "Vrai. Lors du match Marseille-Bordeaux en 1993,"
@@ -803,7 +803,7 @@
     A: "Vrai. C'était pour zéro Miam."
 
 - id: 68
-  menu: "Menu Assez corsé."
+  title: "Menu Assez corsé."
   questions:
   - Q: "Quelle est la particularité de la prison Casabianda en Haute-Corse ?"
     A: "C'est une prison ouverte sans mur d'enceinte, où les détenus effectuent des travaux agricoles. Aucun suicide ni évasion n’a eu lieu depuis la création en 1949. C’est l'unique prison de la sorte en France."
@@ -815,7 +815,7 @@
     A: "Faux."
 
 - id: 69
-  menu: "Menu Pas si vieux que ça en fait."
+  title: "Menu Pas si vieux que ça en fait."
   questions:
   - Q: "À quand remonte le dernier duel officiel à l'épée en France ? À 10 ans près."
     A: "1967, pas si vieux que fe en fait. Il opposait Gaston Deferre, Maire de Marseille, à René Ribière, parlementaire. Le duel s'arrêta au premier sang versé et Gaston l'emporta."
@@ -827,7 +827,7 @@
     A: "Vrai, Apparemment ce n'était pas une priorité."
 
 - id: 70
-  menu: "Menu Pixar Story."
+  title: "Menu Pixar Story."
   questions:
   - Q: "V ou F: à la manière du film “Là-Haut”, un homme a attaché une chaise de jardin à 45 ballons d'hélium et s'est envolé à 4600 mètres d'altitude ?"
     A: "Vrai. Il s'appelle Larry Walters, et on l'applaudit pour cette belle performance. La magicien David Blaine a lui aussi réussi un exploit du même genre."
@@ -839,7 +839,7 @@
     A: "Beaucoup d'entre elles sont celles de véritables pilotes automobiles. Richard Petty, Darrell Waïtrip, Mario Andretti ou Dale Earnhardt Jr. ont prêté leur voix à une voiture, Michael Schumacher fait même une apparition."
 
 - id: 71
-  menu: "Menu Insomnie."
+  title: "Menu Insomnie."
   questions:
   - Q: "Passer les nuits hivernales sous une grosse couette aiderait à vaincre l'insomnie. Pourquoi d'après vous ?"
     A: "La pression de la couette sur votre corps engendre une production de sérotonine, qui vous rend moins anxieux."
@@ -851,7 +851,7 @@
     A: "C'était pour zéro Miam."
 
 - id: 72
-  menu: "Menu Ça te fera des lunettes."
+  title: "Menu Ça te fera des lunettes."
   questions:
   - Q: "V ou F: c'est Jeanne d'Arc qui a inventé les lunettes à double foyer ?"
     A: "Faux, c'est Benjamin Franklin."
@@ -863,7 +863,7 @@
     A: "Faux. C'est à cause des taches autour de ses yeux, qui ressemblent à des lunettes."
 
 - id: 73
-  menu: "Menu Alpha Mâle."
+  title: "Menu Alpha Mâle."
   questions:
   - Q: "V ou F: les hippopotames dominants doivent chier sur les dominés pour asseoir leur autorité ?"
     A: "Faux. C'est tout l'inverse. Pour montrer leur soumission, tous les hippopotames dominés se succèdent devant le chef et lui chient copieusement dessus. Fascinante nature,"
@@ -875,7 +875,7 @@
     A: "Faux. Et pour info, Fred Testot est un mâle au taux de testostérone parfaitement équilibré."
 
 - id: 74
-  menu: "Menu Cinéma, nom féminin."
+  title: "Menu Cinéma, nom féminin."
   questions:
   - Q: "V ou F: le premier film de fiction a été réalisé par une femme ?"
     A: "Vrai. ”La fée aux choux” en 1896."
@@ -887,7 +887,7 @@
     A: "Vrai. Alice Guy, grande pionnière méconnue du cinéma,"
 
 - id: 75
-  menu: "Menu Invisible même à l'œil pas nu."
+  title: "Menu Invisible même à l'œil pas nu."
   questions:
   - Q: "Comment faisaient les espions pour écrire des messages invi- sibles quand ils n'avaient pas de citron sous la main ?"
     A: "Ils utilisaient leur urine comme encre. Il suffisait au destinataire de chauffer le papier pour que les mots apparaissent et libèrent ainsi tout l’arôme du message."
@@ -899,7 +899,7 @@
     A: "Comme vous voulez pour la réponse et le nombre de Miam."
 
 - id: 76
-  menu: "Menu Coquillages et crustacés mais surtout crustacés."
+  title: "Menu Coquillages et crustacés mais surtout crustacés."
   questions:
   - Q: "Quand on cuit un crustacé, il change de couleur. On appelle ça la cardinalisation. Pourquoi ce nom ?"
     A: "Car le crustacé devient rouge, comme la robe d’un cardinal."
@@ -911,7 +911,7 @@
     A: "Faux, ce sont bien des insectes. C'était pour 1 Miam."
 
 - id: 77
-  menu: "Menu Propriété pas vraiment intellectuelle."
+  title: "Menu Propriété pas vraiment intellectuelle."
   questions:
   - Q: "Comment s'appelle l'équivalent des droits d'auteur aux États-Unis et dans les pays anglo-saxons ?"
     A: "Le copyright."
@@ -923,7 +923,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 78
-  menu: "Menu Requin Requine."
+  title: "Menu Requin Requine."
   questions:
   - Q: "V ou F: les femelles requin-marteaux n'ont pas forcément besoin d'un mâle pour tomber enceinte ?"
     A: "Vrai. Une femelle en captivité est tombée enceinte alors qu'elle n'avait pas vu de mâle depuis 3 ans."
@@ -935,7 +935,7 @@
     A: "Faux, c'était pour zéro Miam."
 
 - id: 79
-  menu: "Menu Braquage en règle."
+  title: "Menu Braquage en règle."
   questions:
   - Q: "Smith Patrick Lyon est le premier braqueur de banques des États-Unis. En 1798, il vole plus de 160 800 $ mais se fait prendre bêtement quelques jours après. Comment d'après vous ?"
     A: "Il a été déposer l'argent volé dans la même banque."
@@ -947,7 +947,7 @@
     A: "Faux, Enfin, en fait on ne sait pas, Mais c'était pour zéro Miam."
 
 - id: 80
-  menu: "Menu Petite sieste."
+  title: "Menu Petite sieste."
   questions:
   - Q: "Selon les spécialistes et à 3 mn près, combien de temps dure la sieste parfaite ?"
     A: "26 min. Pas 27, ni 25, 26 on vous dit."
@@ -959,7 +959,7 @@
     A: "Mauvaise idée, il y a des études, on est assez sûr de ce qu'on avance pour le coup."
 
 - id: 81
-  menu: "Menu et si on parlait un peu des girafes ?"
+  title: "Menu et si on parlait un peu des girafes ?"
   questions:
   - Q: "Les Grecs anciens appelaient les girafes les “camélopard”, car ils pensaient qu'elles étaient le mélange de deux animaux. Lesquels d’après vous ?"
     A: "Les chameaux et les léopards."
@@ -971,7 +971,7 @@
     A: "Faux, c'est une connerie. Mais on ne dit pas que ce n’est jamais arrivé non plus."
 
 - id: 82
-  menu: "Menu Nos amis les tigres."
+  title: "Menu Nos amis les tigres."
   questions:
   - Q: "De manière générale, qui gagnent à la bagarre entre un tigre et un lion ?"
     A: "Le tigre, haut la patte. Il a une masse musculaire bien supérieure et il est surtout beaucoup plus agressif."
@@ -983,7 +983,7 @@
     A: "Faux, C'était pour zéro Miam."
 
 - id: 83
-  menu: "Menu Post-mortem."
+  title: "Menu Post-mortem."
   questions:
   - Q: "V ou F: après la mort les spermatozoïdes restent vivants ?"
     A: "Vrai. Ils peuvent survivre entre 12 et 36 heures après la mort. Il y a même déjà eu des fécondations posthumes, aux États-Unis notamment."
@@ -995,7 +995,7 @@
     A: "Non c’est faux et c'était pour zéro Miam."
 
 - id: 84
-  menu: "Menu qui sue (laissez le charme agir)."
+  title: "Menu qui sue (laissez le charme agir)."
   questions:
   - Q: "V ou F: la transpiration n’a pas d'odeur ?"
     A: "Vrai. C'est en entrant en contact avec les bactéries présentes sur votre corps que l'odeur se créée. La sueur en soit est inodore."
@@ -1007,7 +1007,7 @@
     A: "Bah non pas du tout. On peut suer EN musique mais on ne peut pas suer DE la musique."
 
 - id: 85
-  menu: "Menu Agriculture de l'extrême."
+  title: "Menu Agriculture de l'extrême."
   questions:
   - Q: "V ou F: c'est extrême mais on a réussi à faire pousser du raisin goût “barbe à papa“ ?"
     A: "Vrai. 12 ans de recherche pour obtenir le goût parfait, selon l'entreprise américaine qui la fabrique et que l'on croit évidemment sur parole."
@@ -1019,7 +1019,7 @@
     A: "Faux."
 
 - id: 86
-  menu: "Menu Phoenix, pour ne pas dire crémation."
+  title: "Menu Phoenix, pour ne pas dire crémation."
   questions:
   - Q: "Dans quel pays l'enterrement est-il interdit ?"
     A: "Au Japon. Tous les japonais sont incinérés, notamment pour des raisons de place."
@@ -1031,7 +1031,7 @@
     A: "Non faux, faut pas déconner non plus."
 
 - id: 87
-  menu: "Menu sont cons les chiens."
+  title: "Menu sont cons les chiens."
   questions:
   - Q: "V ou F: il existe en Écosse un pont duquel une cinquantaine de chiens ont sauté depuis 1950 ?"
     A: "Vrai, c'est le pont d'Overtoun. Il ne s'agit pas de suicides, l'odeur des visons vivants sous le pont les attire. Sont cons les chiens quand même."
@@ -1043,7 +1043,7 @@
     A: "Non ça c’est faux et c'était pour zéro Miam."
 
 - id: 88
-  menu: "Menu sont forts les chiens."
+  title: "Menu sont forts les chiens."
   questions:
   - Q: "V ou F: durant un procès criminel, l’odorat d’un chien peut servir de preuve ?"
     A: "Vrai, ça s'appelle l'odorologie et c'est reconnu comme une preuve judiciaire en France. Sont forts les chiens quand même."
@@ -1055,7 +1055,7 @@
     A: "Faux, comme les humains, ils n'en sont pas capables,"
 
 - id: 89
-  menu: "Menu Passage à l'heure d'été américaine ou Summertime en angjlais."
+  title: "Menu Passage à l'heure d'été américaine ou Summertime en angjlais."
   questions:
   - Q: "Quel père fondateur américain a inventé le passage à l'heure d'été ?"
     A: "Benjamin Franklin. Il l'a suggéré en 1784 dans un article du journal de Paris. L'Allemagne et le Royaume-Uni furent les premiers pays à l'adopter en 1916."
@@ -1067,7 +1067,7 @@
     A: "Non, c'est faux. Le barbecue gagne toujours."
 
 - id: 90
-  menu: "Menu Maudit théâtre !"
+  title: "Menu Maudit théâtre !"
   questions:
   - Q: "De quelle pièce de Shakespeare est-il interdit de prononcer le nom dans les théâtres britanniques ?"
     A: "Macbeth, On l'appellera plutôt “La pièce écossaise”, La légende dit que la pièce est maudite, suite aux nombreux accidents arrivés aux comédiens au fil des ans."
@@ -1079,7 +1079,7 @@
     A: "Faux et c'était pour zéro Miam virgule cinq. Ça peut faire la dif’ à la fin."
 
 - id: 91
-  menu: "Menu Noms de capitales (None je ne vais pas vous citer des pays en vous demandant leur capitale, détendez-vous.)"
+  title: "Menu Noms de capitales (None je ne vais pas vous citer des pays en vous demandant leur capitale, détendez-vous.)"
   questions:
   - Q: "Quel est l’ancien nom de la ville de Paris ?"
     A: "Lutèce. La ville a pris le nom de “Paris” en 310."
@@ -1091,7 +1091,7 @@
     A: "Vrai. Et ça a quand même une autre gueule. Alors oui c'est plus long à dire."
 
 - id: 92
-  menu: "Menu qui aurait bien besoin de lunettes."
+  title: "Menu qui aurait bien besoin de lunettes."
   questions:
   - Q: "De combien d’yeux la coquille Saint-Jacques est-elle dotée, à 50 près ?"
     A: "200."
@@ -1103,7 +1103,7 @@
     A: "Faux. C’est kif-kif. Après philosophiquement, on peut discuter mille ans."
 
 - id: 93
-  menu: "Menu mon nom est devenu un mot."
+  title: "Menu mon nom est devenu un mot."
   questions:
   - Q: "V ou F: John McAdam a déjà fabriqué du macadam ?"
     A: "Vrai. C'est le créateur du dit macadam."
@@ -1115,7 +1115,7 @@
     A: "Faux."
 
 - id: 94
-  menu: "Menu Faux-amis pour la vie."
+  title: "Menu Faux-amis pour la vie."
   questions:
   - Q: "Comment se traduit le mot italien “cantina” en français ?"
     A: "Cave. C’est un faux-ami mais ça reste dans la famille de la restauration quand même."
@@ -1127,7 +1127,7 @@
     A: "Vrai. Ça veut dire enrhumé."
 
 - id: 95
-  menu: "Menu Îles ou Ailes ?"
+  title: "Menu Îles ou Ailes ?"
   questions:
   - Q: "V ou F: il existe un vol régulier entre deux îles qui dure moins de 2 mn ?"
     A: "Vrai. Il dessert les îles écossaises Papa Westray et Westray."
@@ -1139,7 +1139,7 @@
     A: "Vrai. À Istres, au centre commercial Leclerc."
 
 - id: 96
-  menu: "Menu qui a une idée derrière..."
+  title: "Menu qui a une idée derrière..."
   questions:
   - Q: "Donnez au moins 3 synonymes de “derrière” ? (cul et fion pas acceptés)"
     A: "Miches, boule, derche, popotin, fesses, pétard, uk."
@@ -1151,7 +1151,7 @@
     A: "Vrai. Ils se reconnaissent grâce aux derrières de leurs congénères."
 
 - id: 97
-  menu: "Menu à dents."
+  title: "Menu à dents."
   questions:
   - Q: "VouE l'homme préhistorique avait de nombreuses caries ?"
     A: "Faux, Les caries n'existaient pas. C'est une bactérie qui est apparue il y a 150 ans."
@@ -1163,7 +1163,7 @@
     A: "Vrai, En mélangeant urine et dentifrice. Si c'est mousseux, vous êtes enceinte."
 
 - id: 98
-  menu: "Menu un tout petit peu vulgaire."
+  title: "Menu un tout petit peu vulgaire."
   questions:
   - Q: "Si je vous traite de “microcéphale”, est-ce que je vous insulte ?"
     A: "Oui. Cela veut dire petite tête. Petit cerveau ou gros con."
@@ -1175,7 +1175,7 @@
     A: "Un casse-couille. Mais en vieux français."
 
 - id: 99
-  menu: "Menu Mozart"
+  title: "Menu Mozart"
   questions:
   - Q: "V ou F: Mozart a écrit l'Ouverture de Don Giovanni le matin même de la répétition générale, et le tout en lendemain de cuite ?"
     A: "Vrai. La veille de la répétition générale, Mozart boit du punch avec sa femme et s'endort, À 5h du matin, elle le réveille pour qu'il compose l'Ouverture. 2 heures plus tard, il envoie sa composition au copiste chargé de préparer les partitions. Les musiciens découvriront les partitions le jour même. Efficace."
@@ -1187,7 +1187,7 @@
     A: "Faux. Je suis sûr qu'il aurait fait des merveilles, Génie."
 
 - id: 100
-  menu: "Menu “Oui, bien sûr”."
+  title: "Menu “Oui, bien sûr”."
   questions:
   - Q: "V ou F: “Oui-Oui” dit oui à tout ?"
     A: "Faux. Comme tout le monde, Oui-Oui dit parfois non."
@@ -1199,7 +1199,7 @@
     A: "Oui, bien sûr."
 
 - id: 101
-  menu: "Menu Qui sont nos amis pour la vie ?"
+  title: "Menu Qui sont nos amis pour la vie ?"
   questions:
   - Q: "D'où vient le nom “Milka“ ? Indice : il faut savoir dire “lait” en Allemand ou en Anglais."
     A: "C'est la contraction de “Milch” (lait en Allemand, je vous l'avais dit) et “Kakao” (qui veut dire cacao, je sais c'est dingue)."
@@ -1211,7 +1211,7 @@
     A: "Faux et c'était pour 1 Miam."
 
 - id: 102
-  menu: "Menu Vos papiers s’il vous plaît."
+  title: "Menu Vos papiers s’il vous plaît."
   questions:
   - Q: "V ou F: en Corée du Sud, ils sont si forts en chirurgie plastique que c’est difficile de reconnaître les gens sur leur passeport ?"
     A: "Vrai. Du coup, les hôpitaux donnent des certificats de chirurgie plastique pour que les clients puissent prouver que ce sont bien eux sur la photo."
@@ -1223,7 +1223,7 @@
     A: "C'était pour zéro Miam et on salue les auteurs Carambar qui nous ont filé un coup de main sur ce Menu."
 
 - id: 103
-  menu: "Menu Résistant"
+  title: "Menu Résistant"
   questions:
   - Q: "Quelle est la particularité du mouvement de résistance “La rose blanche”, actif pendant la Seconde Guerre mondiale ?"
     A: "C'était un mouvement de résistance allemand, opposé au régime nazi. Oui, tous les Allemands n'ont pas été nazis. Mais la plupart des membres de “la rose Blanche“ ont été arrêtés par la Gestapo et guillotinés."
@@ -1235,7 +1235,7 @@
     A: "Car il n'avait jamais essayé de se suicider en se tranchant la gorge. Il préférait ne pas mourir et donner des informations. C'était pour zéro Miam."
 
 - id: 104
-  menu: "Menu Danse classique."
+  title: "Menu Danse classique."
   questions:
   - Q: "Quelle est la langue officielle de la danse classique dans le monde ?"
     A: "Le français."
@@ -1247,7 +1247,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 105
-  menu: "Menu Violon, l'instrument, pas le lieu où on purge une peine."
+  title: "Menu Violon, l'instrument, pas le lieu où on purge une peine."
   questions:
   - Q: "La profession de chef d'orchestre n'existe que depuis la fin du XIXieme siècle. Qui avait le rôle de chef d'orchestre avant ?"
     A: "Le 1er violon. Vous aviez un gros indice compte tenu du titre du menu."
@@ -1259,7 +1259,7 @@
     A: "Faux. C'était pour zéro Miam."
 
 - id: 106
-  menu: "Menu Gratte."
+  title: "Menu Gratte."
   questions:
   - Q: "À quelle famille appartient cet instrument de musique connu de tous : la guitare ?"
     A: "Instrument à cordes pincées."
@@ -1271,7 +1271,7 @@
     A: "Vrai. Si vous faites partie de ces gens-là : ARRÊTEZ BORDEL. Zéro Miam !"
 
 - id: 107
-  menu: "Menu Esprit de déduction. Si vous ne connaissez pas les réponses, vous pourrez quand même les trouver grâce à votre perspicacité et votre brillant esprit de déduction."
+  title: "Menu Esprit de déduction. Si vous ne connaissez pas les réponses, vous pourrez quand même les trouver grâce à votre perspicacité et votre brillant esprit de déduction."
   questions:
   - Q: "Pourquoi à votre avis dans les films américains les numéros de téléphone commencent le plus souvent par 555 ?"
     A: "Ce sont des numéros qui n'ont pas été attribués par les services de télécommunication pour être utilisés dans des films sans déranger des particuliers."
@@ -1283,7 +1283,7 @@
     A: "C'est leur poids en livres. Le jeu venant des USA, ils ont gardé la conversion,"
 
 - id: 108
-  menu: "Menu GOAT. C’est un Menu of all time. Que sur les GOAT (Greatest Of AII Time)."
+  title: "Menu GOAT. C’est un Menu of all time. Que sur les GOAT (Greatest Of AII Time)."
   questions:
   - Q: "Quelle est la BOAT (Boisson la plus bue of all time) ? (après l'eau bien sûr)"
     A: "Le Thé est la boisson la plus bue dans le monde après l'eau. 500 millions de tasses de thé sont bues chaque jour."
@@ -1295,7 +1295,7 @@
     A: "5 mois."
 
 - id: 109
-  menu: "Menu Sniper, mais pas le groupe de rap, le tireur d'élite."
+  title: "Menu Sniper, mais pas le groupe de rap, le tireur d'élite."
   questions:
   - Q: "En 2009, pendant la guerre d'Afghanistan, le soldat britannique Craig Harrison a tué 2 talibans à une distance record. À 500m près, quelle distance sa balle a-t-elle parcouru ?"
     A: "2475 m, soit 2,475 km (de rien pour la conversion). La balle a mis 6 secondes à atteindre sa cible et a perdu 120 mètres d'altitude."
@@ -1307,7 +1307,7 @@
     A: "Faux. Et c'était pour zéro Miam, faut pas déconner non plus."
 
 - id: 110
-  menu: "Menu Mortel ! Un Menu sur les morts drôles, parce que oui parfois c'est marrant."
+  title: "Menu Mortel ! Un Menu sur les morts drôles, parce que oui parfois c'est marrant."
   questions:
   - Q: "V ou F: un avocat s'est tué pendant qu'il reconstituait la scène du crime pour innocenter son client ?"
     A: "Vrai. Il s'agit de Clément Vallandigham. Il est mort pendant la fusillade qu'il reconstituait mais son client fut acquitté. Marrant non ? Bof."
@@ -1319,7 +1319,7 @@
     A: "Faux, c'était pour zéro Miam."
 
 - id: 111
-  menu: "Menu Tiré d’une histoire vraie."
+  title: "Menu Tiré d’une histoire vraie."
   questions:
   - Q: "Citez-moi 2 films de Spielberg tiré d’une histoire vraie. il Faut Sauver le Soldat Ryan. Lincoln. Attrape-moi si tu peux."
     A: "Pentagone Papers. Le pont des espions. Cheval de guerre. Le Terminal, La liste de Schindier. Et E.T. bien sûr."
@@ -1331,7 +1331,7 @@
     A: "C'est vrai. Ce n'est pas une histoire vraie, mais c'est une vraie histoire. C'était pour zéro Miam."
 
 - id: 112
-  menu: "Menu F*ck."
+  title: "Menu F*ck."
   questions:
   - Q: "Comment “Fuck“ peut-il se dire ou s'écrire sans être considéré comme vulgaire?"
     A: "“F.….” ou “the F-word” ou “the four letter word” ou encore “the F bomb”."
@@ -1343,7 +1343,7 @@
     A: "L'équipe doit faire un double doigt d'honneur."
 
 - id: 113
-  menu: "Menu Mémorable."
+  title: "Menu Mémorable."
   questions:
   - Q: "V ou F: comme le personnage dans le film Memento, il existe des gens qui perdent la mémoire plusieurs fois par jour ?"
     A: "Vrai. Riley Horner, une jeune américaine, a sa mémoire qui se réinitialise toutes les 2 heures suite à un coup sur la tête."
@@ -1355,7 +1355,7 @@
     A: "Riley Horner. Je suis limite vexé, vous ne m’écoutez pas du tout en fait ?"
 
 - id: 114
-  menu: "Menu FDP Fils de Pub."
+  title: "Menu FDP Fils de Pub."
   questions:
   - Q: "À combien de pubs sommes-nous confrontés en moyenne chaque jour ? (À 200 près)."
     A: "Entre les affiches, la télé, internet, le téléphone, etc...On estime à 1200 le nombre de pubs visibles en moyenne chaque jour."
@@ -1367,7 +1367,7 @@
     A: "Faux. En réalité 8 Français sur 10 avouent en avoir ras le cul. Du coup, 1 français sur 5 utilise des bloqueurs de pub."
 
 - id: 115
-  menu: "Menu le Juste Prix du Dark Net. C'est un juste prix illégal et dangereux."
+  title: "Menu le Juste Prix du Dark Net. C'est un juste prix illégal et dangereux."
   questions:
   - Q: "Combien coûte une Kalachnikov ?"
     A: "Entre 250 et 2500€ au marché noir."
@@ -1379,7 +1379,7 @@
     A: "Ça ne coûte rien, c'est gratuit comme ce Miam et c'est ça qui est beau, Dans un autre contexte, cette question serait mignonne mais dans ce Menu ça fout un petit malaise."
 
 - id: 116
-  menu: "Menu Et si on se faisait une petite pause-café ?"
+  title: "Menu Et si on se faisait une petite pause-café ?"
   questions:
   - Q: "Quelle est la couleur naturelle d'un grain de café quand il est fraîchement cueilli ?"
     A: "Vert, pas noir. Le piège classique. Tout le monde croit que... et en fait non."
@@ -1391,7 +1391,7 @@
     A: "Faux. Il s'agit de l’abréviation de l'expression “espressamente preparato per chi lo richiede” qui veut dire “expressément fabriqué pour qui le commande”."
 
 - id: 117
-  menu: "Menu Assez Rare."
+  title: "Menu Assez Rare."
   questions:
   - Q: "L'hématidrose est une maladie très rare, où les personnes qui en souffrent transpirent autre chose que de l'eau, quoi d’après vous ?"
     A: "Du sang. C'est une maladie très rare mais qui ne présente pas de danger particulier."
@@ -1403,7 +1403,7 @@
     A: "et c'est extrêmement rare."
 
 - id: 118
-  menu: "Menu Popopopopopopopolololooooo … OLÉ. Un Menu qui comme son nom ne l'indique pas forcément, parle de tennis."
+  title: "Menu Popopopopopopopolololooooo … OLÉ. Un Menu qui comme son nom ne l'indique pas forcément, parle de tennis."
   questions:
   - Q: "V ou F: comme dans beaucoup d'autres sports, il y a une grosse différence de salaire entre homme et femme au tennis ?"
     A: "Faux. C'est l'un des rares sports avec une parité salariale. Joueuses et joueurs gagnent la même somme s'ils remportent le tournoi du Grand Chelem,"
@@ -1415,7 +1415,7 @@
     A: "Il a détruit 1055 raquettes. Soit 1,53 raquettes) par match."
 
 - id: 119
-  menu: "Menu Ah c’est marrant je pensais plus."
+  title: "Menu Ah c’est marrant je pensais plus."
   questions:
   - Q: "Dans combien de films a joué James Dean durant toute sa carrière ? À 1 près."
     A: "3. Ah c'est marrant, je pensais plus.… “À l'Est d'Eden” d'Elia Kazan, “La Fureur de Vivre” de Nicholas Ray et “Géant” de George Stevens."
@@ -1427,7 +1427,7 @@
     A: "C'est vrai, Ah c'est marrant, je pensais moins. Titre de la chanson : « Manie Ma Nana »."
 
 - id: 120
-  menu: "Menu a prendre absolument en 2ieme, Un menu qui concerne les questions du Menu précédent. Si vous avez voulu faire les intéressant en choisissant ce menu en 1er, vous êtes dans la merde. Mais en même temps on vous avait prévenu."
+  title: "Menu a prendre absolument en 2ieme, Un menu qui concerne les questions du Menu précédent. Si vous avez voulu faire les intéressant en choisissant ce menu en 1er, vous êtes dans la merde. Mais en même temps on vous avait prévenu."
   questions:
   - Q: "Combien y a-t-il eu de films “Mr. Bean“ au cinéma ?"
     A: "2."

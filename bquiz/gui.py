@@ -158,13 +158,15 @@ class MyWindow(QtWidgets.QMainWindow):
         QtWidgets.QMainWindow.__init__(self)
         self.qIndex = 0
         self.qPos = 0
-        self.setQ(self.qIndex, self.qPos)
         self.setMinimumWidth(800)
         self.setMinimumHeight(480)
         self.setWindowFlag(Qt.FramelessWindowHint)
         log("geo: %s" % self.geometry())
         log("minsize: %s" % self.minimumSize())
         log("maxsize: %s" % self.maximumSize())
+        log("pos: %s" % self.pos())
+        log("rect: %s" % self.rect())
+        self.setQ(self.qIndex, self.qPos)
 
     def setBackgroundImage(self, name):
         path = os.path.join(os.path.dirname(__file__), "resources", name)
@@ -219,6 +221,12 @@ QLabel {
         self.label.setParent(self)
         self.setCentralWidget(self.label)
 
+        log("label geo: %s" % self.label.geometry())
+        log("label minsize: %s" % self.label.minimumSize())
+        log("label maxsize: %s" % self.label.maximumSize())
+        log("label pos: %s" % self.label.pos())
+        log("label rect: %s" % self.label.rect())
+        
     def keyPressEvent(self, event):
         if event.key() == Qt.Key_Escape:
             sys.exit(0)

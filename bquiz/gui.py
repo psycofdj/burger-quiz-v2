@@ -95,6 +95,7 @@ class AdditionRenderer:
         font = QtGui.QFont("Ubuntu")
         font.setStretch(QtGui.QFont.ExtraCondensed)
         label = QLabel(None)
+        label.setSizePolicy(QtWidgets.QSizePolicy.Policy.Fixed, QtWidgets.QSizePolicy.Policy.Expanding)
         label.setFont(font)
         label.setFixedWidth(800)
         label.setTextFormat(Qt.TextFormat.RichText)

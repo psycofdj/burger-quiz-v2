@@ -168,6 +168,7 @@ QMainWindow {
 }
 QLabel {
   margin: 45px 55px 38px 135px;
+  border: 1px solid green;
 }
 """ % path);
 

@@ -33,9 +33,9 @@ from PySide6.QtGui import (
 import os
 
 def log(arg):
-    print(arg)
+    print(str(arg))
     with open("/tmp/log", "a") as f:
-        f.write(arg + "\n")
+        f.write(str(arg) + "\n")
 
 class AdditionRenderer:
     def __init__(self, item, initialPos):
@@ -159,9 +159,12 @@ class MyWindow(QtWidgets.QMainWindow):
         self.qIndex = 0
         self.qPos = 0
         self.setQ(self.qIndex, self.qPos)
-        self.setFixedWidth(800)
-        self.setFixedHeight(480)
+        self.setMinimumWidth(800)
+        self.setMinimumHeight(480)
         self.setWindowFlag(Qt.FramelessWindowHint)
+        log("geo: %s" % self.geometry())
+        log("minsize: %s" % self.minimumSize())
+        log("maxsize: %s" % self.maximumSize())
 
     def setBackgroundImage(self, name):
         path = os.path.join(os.path.dirname(__file__), "resources", name)

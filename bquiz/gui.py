@@ -364,7 +364,9 @@ class MyWindow(QtWidgets.QMainWindow):
         self.pageNum.setMinimumHeight(110)
         self.pageNum.setMinimumWidth(75)
         self.pageNum.move(630, 400)
-        #self.pageNum.setStyleSheet("QLabel { color: #d4bee4 }")
+        self.pageNum.setStyleSheet("QLabel { color: %(color)s }" % {
+            "color": self.config[self.current]["bg-color"],
+        })
         self.label.setParent(self)
         self.setCentralWidget(self.label)
         self.setWindowFlag(Qt.FramelessWindowHint)

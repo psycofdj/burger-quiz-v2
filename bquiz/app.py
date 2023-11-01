@@ -7,6 +7,7 @@ import wiringpi as wpi
 import os.path
 import time
 import signal
+import threading
 
 from .lcd import LCD
 from .btn import Btn
@@ -18,27 +19,31 @@ class App:
         wpi.wiringPiSetup()
         self.objs = []
 
-        self.registerBtn("reset",        7)
-        self.registerBtn("ketchupPlus",  0)
-        self.registerBtn("ketchupMinus", 2)
-        self.registerBtn("mayoPlus",     3)
-        self.registerBtn("mayoMinus",   12)
-        self.registerBtn("nuggets",   13, sensitivity=100)
+        self.registerBtn("mayoPlus",    26)
+        self.registerBtn("mayoMinus",   27)
+        self.registerBtn("reset",       24)
+        self.registerBtn("ketchupPlus",  23)
+        self.registerBtn("ketchupMinus", 22)
+        self.registerBtn("nuggets",   21, sensitivity=100)
         self.registerBtn("selpoivre", 14, sensitivity=100)
-        self.registerBtn("menu",      21, sensitivity=100)
-        self.registerBtn("addition",  22, sensitivity=100)
-        self.registerBtn("sample1",  23, sensitivity=100)
-        self.registerBtn("sample2",  24, sensitivity=100)
-        self.registerBtn("sample3",  27, sensitivity=100)
-        self.registerBtn("sample4",  26, sensitivity=100)
-        self.registerBtn("mayoBuzz",    11)
+        self.registerBtn("menu",      12, sensitivity=100)
+        self.registerBtn("addition",  13, sensitivity=100)
+
+        self.registerBtn("sample1",  3, sensitivity=100)
+        self.registerBtn("sample2",  7, sensitivity=100)
+        self.registerBtn("sample3",  0, sensitivity=100)
+        self.registerBtn("sample4",  2, sensitivity=100)
+
         self.registerBtn("ketchupBuzz", 10)
+        self.registerBtn("mayoBuzz",    11)
+
         self.registerLED("ketchup", 5)
         self.registerLED("mayo", 6)
         self.registerRelay("relayMayo", 4)
         self.registerRelay("relayKetchup", 1)
-        self.registerLCD("sc0", 0)
-        self.registerLCD("sc1", 1)
+
+        # self.registerLCD("sc0", 0)
+        # self.registerLCD("sc1", 1)
 
         self.set_scores(mayo=0, ketchup=0)
         self.vlc = vlc.Instance("--no-xlib")
@@ -89,15 +94,15 @@ class App:
     def registerBtn(self, name, port, **kwds):
         btn = Btn(port, kind=Btn.NC, **kwds)
         def on_press():
-            print("[btn:%s] on_press" % name)
+            print("[btn:%s:%d] on_press" % (name, port))
             fn = getattr(self, "%s_on_press" % name, lambda: None)
             fn();
         def on_release():
-            print("[btn:%s] on_release" % name)
+            print("[btn:%s:%d] on_release" % (name, port))
             fn = getattr(self, "%s_on_release" % name, lambda: None)
             fn();
         def on_long_press():
-            print("[btn:%s] on_long_press" % name)
+            print("[btn:%s:%d] on_long_press" % (name, port))
             fn = getattr(self, "%s_on_long_press" % name, lambda: None)
             fn();
         setattr(btn, "on_press", on_press)
@@ -134,7 +139,7 @@ class App:
 
     def random_tos(self):
         idx = random.randrange(0, len(self.tos), 1)
-        self.sc0.set_text(self.tos[idx])
+        #self.sc0.set_text(self.tos[idx])
 
     def reset_on_press(self):
         self.random_tos()
@@ -188,9 +193,10 @@ class App:
         self.async_play("addition.mp3")
 
     def print_scores(self):
-        self.sc1.set_line(0, "== SCORES ==".center(20))
-        self.sc1.set_line(1, "ketchup".center(10) + "mayo".center(10))
-        self.sc1.set_line(2, str(self.scores["ketchup"]).center(10) + str(self.scores["mayo"]).center(10))
+        pass
+        # self.sc1.set_line(0, "== SCORES ==".center(20))
+        # self.sc1.set_line(1, "ketchup".center(10) + "mayo".center(10))
+        # self.sc1.set_line(2, str(self.scores["ketchup"]).center(10) + str(self.scores["mayo"]).center(10))
 
     def add_scores(self, mayo=0, ketchup=0):
         self.set_scores(mayo=self.scores["mayo"]+mayo, ketchup=self.scores["ketchup"]+ketchup)
@@ -228,7 +234,7 @@ class App:
 
     def run(self):
         print("burger quiz is running")
-        signal.signal(signal.SIGTERM, self.shutdown)
+        # signal.signal(signal.SIGTERM, self.shutdown)
         self.random_tos()
         try:
             while not self.stopped:
@@ -238,3 +244,8 @@ class App:
 
         self.finalize()
         print("burger quiz stopped")
+
+    def spawn(self):
+        thread = threading.Thread(target=self.run)
+        thread.start()
+        return thread

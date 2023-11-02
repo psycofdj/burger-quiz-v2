@@ -15,10 +15,10 @@ from .btn import Btn
 from .relay import Relay
 from .led import LED
 
-class App(QtCore.QObject):
+class Hardware(QtCore.QObject):
     test = QtCore.Signal()
     def __init__(self, parent = None):
-        QtCore.QObject.__init__(self, parent)
+        super().__init__(parent)
         wpi.wiringPiSetup()
         self.objs = []
         self.registerBtn("mayoPlusBtn",     26)
@@ -28,18 +28,18 @@ class App(QtCore.QObject):
         self.registerBtn("ketchupMinusBtn", 22)
         self.registerBtn("nuggetsBtn",      21)
         self.registerBtn("selpoivreBtn",    14)
-        self.registerBtn("menuBtn",         12)
+        self.registerBtn("menusBtn",        12)
         self.registerBtn("additionBtn",     13)
         self.registerBtn("sample1Btn",      3)
         self.registerBtn("sample2Btn",      7)
         self.registerBtn("sample3Btn",      0)
         self.registerBtn("sample4Btn",      2)
-        self.registerBtn("ketchupBuzz", 10)
-        self.registerBtn("mayoBuzz",    11)
-        self.registerLED("ketchup", 5)
-        self.registerLED("mayo", 6)
-        self.registerRelay("relayMayo", 4)
-        self.registerRelay("relayKetchup", 1)
+        self.registerBtn("ketchupBuzz",     10)
+        self.registerBtn("mayoBuzz",        11)
+        self.registerLED("ketchupLED",      5)
+        self.registerLED("mayoLED",         6)
+        self.registerRelay("relayMayo",     4)
+        self.registerRelay("relayKetchup",  1)
 
         # self.set_scores(mayo=0, ketchup=0)
         # self.vlc = vlc.Instance("--no-xlib")

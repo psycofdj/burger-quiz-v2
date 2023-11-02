@@ -2,15 +2,14 @@ import random
 
 from PySide6  import QtCore
 
-from .match import Match
+from bquiz.game.match import Match
 from bquiz.gui.toss import TossFrame
 from bquiz.types import Team
 
 class Toss(Match):
-    tos_changed = QtCore.Signal(str)
-    has_winner = QtCore.Signal(Team)
-    def __init__(self, parent = None):
-        Match.__init__(self, parent)
+    tosChanged = QtCore.Signal(str)
+    def __init__(self, hw, parent = None):
+        super().__init__(hw, parent)
         x, y, z, u = (
             random.randrange(1, 99, 1),
             random.randrange(1, 99, 1),
@@ -37,27 +36,23 @@ class Toss(Match):
             "Celui qui fait le mieux samblant de parler Russe",
             "Celui qui fait le plus long oooooommmmmmmmmmm",
         ]
-        self.tosIdx = 0
+        self.hw.resetBtn.pressed.connect(self.randomTos)
+        self.hw.mayoPlusBtn.pressed.connect(self.setMayoLeader)
+        self.hw.mayoMinusBtn.pressed.connect(self.setMayoLeader)
+        self.hw.ketchupPlusBtn.pressed.connect(self.setKetchupLeader)
+        self.hw.ketchupMinusBtn.pressed.connect(self.setKetchupLeader)
         self.randomTos()
-        self.frame = TossFrame(self)
-        self.tos_changed.connect(self.frame.setTos)
+
+    def getFrame(self):
+        return TossFrame(self)
+
+    def reset(self):
+        super().reset()
         self.randomTos()
 
     def setTos(self, idx):
-        idx = idx % len(self.data)
-        self.tos = self.data[idx]
-        self.tos_changed.emit(self.tos)
+        self.frame.setTos(self.data[idx % len(self.data)])
 
     @QtCore.Slot()
     def randomTos(self):
         self.setTos(random.randrange(0, len(self.data), 1))
-
-    @QtCore.Slot()
-    def mayoPressed(self):
-        self.winner = Team.MAYO
-        self.has_winner.emit(self.winner)
-
-    @QtCore.Slot()
-    def ketchupPressed(self):
-        self.winner = Team.MAYO
-        self.has_winner.emit(self.winner)

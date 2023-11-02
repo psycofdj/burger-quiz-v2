@@ -8,8 +8,8 @@ class Btn(QtCore.QObject):
     released = QtCore.Signal()
     NO = 0
     NC = 1
-    Pressed = 1
-    Released = 0
+    PRESSED = 1
+    RELEASED = 0
     def __init__(self, port, parent=None, kind=NO, sensitivity=30):
         QtCore.QObject.__init__(self, parent)
         wpi.pinMode(port, wpi.INPUT)
@@ -17,21 +17,21 @@ class Btn(QtCore.QObject):
         self.sensitivity = sensitivity
         self.port = port
         self.kind = kind
-        self.state = Btn.Released
+        self.state = Btn.RELEASED
         self.events = 0
         self.pressed_since = None
         self.released_since = None
 
     def switch(self):
         self.events = 0
-        if self.state == Btn.Pressed:
-            self.state = Btn.Released
+        if self.state == Btn.PRESSED:
+            self.state = Btn.RELEASED
             self.pressed_since = None
             self.released_since = datetime.datetime.now()
             self.released.emit()
         else:
             self.pressed_since = datetime.datetime.now()
-            self.state = Btn.Pressed
+            self.state = Btn.PRESSED
             self.pressed.emit()
 
     def update(self):
@@ -40,9 +40,9 @@ class Btn(QtCore.QObject):
                 self.released_since = None
             return
         state = wpi.digitalRead(self.port)
-        if state == wpi.LOW and self.state == Btn.Released:
+        if state == wpi.LOW and self.state == Btn.RELEASED:
             self.events += 1
-        if state == wpi.HIGH and self.state == Btn.Pressed:
+        if state == wpi.HIGH and self.state == Btn.PRESSED:
             self.events += 1
         if self.events >= self.sensitivity:
             self.switch()

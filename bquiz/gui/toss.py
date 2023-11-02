@@ -1,7 +1,6 @@
 from PySide6 import QtCore, QtWidgets
 
-from .base import BaseFrame
-
+from bquiz.gui.base import BaseFrame
 
 class TossFrame(BaseFrame):
     INTRO = """
@@ -52,8 +51,8 @@ class TossFrame(BaseFrame):
     <b class="r2">P</b>our commencer je vais vous demander de nommer un chef dans chacunes des équipes, et pour
     déterminer celui qui commencer, les chefs vont s'affronter sur un petit toss.
 </p>"""
-    def __init__(self, parent = None):
-        BaseFrame.__init__(self, parent)
+    def __init__(self, handler, parent = None):
+        super().__init__(handler, parent)
         self.setBackgound("base.png", "#000000")
 
         self.tos = QtWidgets.QLabel(self)

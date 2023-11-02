@@ -1,28 +1,26 @@
+from PySide6 import QtCore
 import wiringpi as wpi
 import datetime
 
-class Btn:
+class Btn(QtCore.QObject):
+    pressed = QtCore.Signal()
+    longPressed = QtCore.Signal()
+    released = QtCore.Signal()
     NO = 0
     NC = 1
     Pressed = 1
     Released = 0
-    def __init__(self, port, kind=NO, sensitivity=30):
+    def __init__(self, port, parent=None, kind=NO, sensitivity=30):
+        QtCore.QObject.__init__(self, parent)
         wpi.pinMode(port, wpi.INPUT)
         wpi.pullUpDnControl(port, wpi.PUD_UP)
         self.sensitivity = sensitivity
         self.port = port
         self.kind = kind
         self.state = Btn.Released
-        self.on_press = lambda *args: None
-        self.on_release = lambda *args: None
         self.events = 0
         self.pressed_since = None
         self.released_since = None
-
-    def fire(self, event):
-        fn = getattr(self, event, None)
-        if fn is not None:
-            fn()
 
     def switch(self):
         self.events = 0
@@ -30,11 +28,11 @@ class Btn:
             self.state = Btn.Released
             self.pressed_since = None
             self.released_since = datetime.datetime.now()
-            self.fire("on_release")
+            self.released.emit()
         else:
             self.pressed_since = datetime.datetime.now()
             self.state = Btn.Pressed
-            self.fire("on_press")
+            self.pressed.emit()
 
     def update(self):
         if self.released_since is not None:
@@ -51,7 +49,7 @@ class Btn:
         if self.pressed_since is not None:
             if datetime.datetime.now() - self.pressed_since > datetime.timedelta(seconds=1):
                 self.pressed_since = None
-                self.fire("on_long_press")
+                self.longPressed.emit()
 
     def finalize(self):
         pass

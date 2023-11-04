@@ -10,10 +10,11 @@ class Btn(QtCore.QObject):
     NC = 1
     PRESSED = 1
     RELEASED = 0
-    def __init__(self, port, parent=None, kind=NO, sensitivity=30):
-        QtCore.QObject.__init__(self, parent)
+    def __init__(self, name, port, parent=None, kind=NO, sensitivity=30):
+        super().__init__(parent)
         wpi.pinMode(port, wpi.INPUT)
         wpi.pullUpDnControl(port, wpi.PUD_UP)
+        self.setObjectName(name)
         self.sensitivity = sensitivity
         self.port = port
         self.kind = kind
@@ -28,11 +29,13 @@ class Btn(QtCore.QObject):
             self.state = Btn.RELEASED
             self.pressed_since = None
             self.released_since = datetime.datetime.now()
+            print("%s::released" % self.objectName())
             self.released.emit()
         else:
             self.pressed_since = datetime.datetime.now()
             self.state = Btn.PRESSED
             self.pressed.emit()
+            print("%s::pressed" % self.objectName())
 
     def update(self):
         if self.released_since is not None:
@@ -50,6 +53,7 @@ class Btn(QtCore.QObject):
             if datetime.datetime.now() - self.pressed_since > datetime.timedelta(seconds=1):
                 self.pressed_since = None
                 self.longPressed.emit()
+                print("%s::longPressed" % self.objectName())
 
     def finalize(self):
         pass

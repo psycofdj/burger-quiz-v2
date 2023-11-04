@@ -12,6 +12,7 @@ class Engine(QtCore.QObject):
     def __init__(self, hw, widget = None):
         super().__init__(widget)
 
+        self.buzzing = False
         self.state = State.TOSS
         self.mainWindow = widget
         self.toss = Toss(hw, self.mainWindow)
@@ -25,6 +26,9 @@ class Engine(QtCore.QObject):
         hw.selpoivreBtn.pressed.connect(self.startSelPoivre)
         hw.menusBtn.pressed.connect(self.startMenus)
         hw.additionBtn.pressed.connect(self.startAddition)
+        hw.mayoBuzz.pressed.connect(self.mayoBuzz)
+        hw.ketchupBuzz.pressed.connect(self.ketchupBuzz)
+        self.hw = hw
         self.startToss()
 
     def errorNotNow(self, newState):
@@ -47,6 +51,34 @@ class Engine(QtCore.QObject):
         [ obj.frame.show() for name,obj in l.items() if name == self.state.name ]
         [ obj.frame.hide() for name,obj in l.items() if name != self.state.name ]
         self.current = getattr(self, state.name.lower())
+
+
+    def stopLock(self):
+        self.hw.mayoRelay.off()
+        self.hw.ketchupRelay.off()
+        self.buzzing = False
+
+    def buzzlock(fn):
+        def wrapper(self, *args, **kwargs):
+            if not self.buzzing:
+                self.buzzing = True
+                self.timer = QtCore.QTimer.singleShot(3000, self.stopLock)
+                fn(self, *args, **kwargs)
+        return wrapper
+
+    @buzzlock
+    @QtCore.Slot()
+    def mayoBuzz(self):
+        print("mayo buzz")
+        self.hw.mayoLED.blink(seconds=3)
+        self.hw.mayoRelay.on()
+
+    @buzzlock
+    @QtCore.Slot()
+    def ketchupBuzz(self):
+        print("ketchup buzz")
+        self.hw.ketchupLED.blink(seconds=3)
+        self.hw.ketchupRelay.on()
 
     @QtCore.Slot()
     def reset(self):

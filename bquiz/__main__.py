@@ -15,7 +15,7 @@ class MainWindow(QMainWindow):
         QMainWindow.__init__(self)
         self.setFixedWidth(800)
         self.setFixedHeight(480)
-        if os.path.isfile("/dev/i2c-0"):
+        if os.path.exists("/dev/i2c-0"):
             self.hw = Hardware(self)
         else:
             self.hw = Mock()
@@ -26,7 +26,7 @@ class MainWindow(QMainWindow):
 def main():
     sys.stdout = sys.stderr
     app = QApplication(sys.argv)
-    if os.path.isfile("/dev/i2c-0"):
+    if os.path.exists("/dev/i2c-0"):
         cursor = QtGui.QCursor(QtCore.Qt.BlankCursor);
         app.setOverrideCursor(cursor);
     win = MainWindow()

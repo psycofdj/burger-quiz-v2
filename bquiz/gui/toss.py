@@ -51,25 +51,24 @@ class TossFrame(BaseFrame):
     <b class="r2">P</b>our commencer je vais vous demander de nommer un chef dans chacunes des équipes, et pour
     déterminer celui qui commencer, les chefs vont s'affronter sur un petit toss.
 </p>"""
-    def __init__(self, handler, parent = None):
-        super().__init__(handler, parent)
-        self.setBackgound("base.png", "#000000")
+    def __init__(self, handler, widget = None):
+        super().__init__("base.png", "base.png", "#000000", handler, widget)
 
-        self.tos = QtWidgets.QLabel(self)
-        self.tos.setObjectName("tos")
-        self.tos.setAlignment(QtCore.Qt.AlignCenter | QtCore.Qt.AlignVCenter)
-        self.tos.setGeometry(55, 55+480-110-75, 800-110, 75)
-        self.tos.setWordWrap(True)
-        self.tos.setTextFormat(QtCore.Qt.RichText)
-        self.tos.setStyleSheet("")
-        self.tos.setText("")
-        self.tos.setStyleSheet("""
+        self.toss = QtWidgets.QLabel(self)
+        self.toss.setObjectName("toss")
+        self.toss.setAlignment(QtCore.Qt.AlignCenter | QtCore.Qt.AlignVCenter)
+        self.toss.setGeometry(55, 55+480-110-75, 800-110, 75)
+        self.toss.setWordWrap(True)
+        self.toss.setTextFormat(QtCore.Qt.RichText)
+        self.toss.setStyleSheet("")
+        self.toss.setStyleSheet("""
         QLabel {
           color: #ffb328;
           font-size: 22px;
           font-weight:600;
         }
         """)
+        self.toss.setText("")
 
         self.static = QtWidgets.QLabel(self)
         self.static.setObjectName("static")
@@ -87,6 +86,6 @@ class TossFrame(BaseFrame):
 
 
     @QtCore.Slot(str)
-    def setTos(self, value):
-        self.tos.setText(value)
+    def setToss(self, value):
+        self.toss.setText(value)
 

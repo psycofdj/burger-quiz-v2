@@ -3,8 +3,8 @@ from PySide6 import QtCore, QtWidgets
 from bquiz.types import Team
 
 class BaseFrame(QtWidgets.QFrame):
-    def __init__(self, handler, parent = None):
-        super().__init__(parent)
+    def __init__(self, bg, altBg, color, handler, widget = None):
+        super().__init__(widget)
         self.handler = handler
         self.setObjectName("mainFrame")
 
@@ -23,11 +23,22 @@ class BaseFrame(QtWidgets.QFrame):
         self.page.setGeometry(745, 425, 50, 50)
         self.page.setAlignment(QtCore.Qt.AlignCenter|QtCore.Qt.AlignVCenter)
 
+        self.bg = bg
+        self.altBg = altBg
+        self.color = color
         self.image = "base.png"
-        self.color = "#cccccc"
         self.ketchup.setText(str(self.handler.ketchupScore))
         self.mayo.setText(str(self.handler.mayoScore))
         self.page.setText("")
+
+        self.error = QtWidgets.QLabel(self)
+        self.error.setObjectName("error")
+        self.error.setGeometry(100, 240-50, 600, 100)
+        self.error.setAlignment(QtCore.Qt.AlignCenter|QtCore.Qt.AlignVCenter)
+        self.error.setText("")
+        self.error.hide()
+
+        self.useBg()
         self.updateStyle()
 
     def getTeamStyle(self, team):
@@ -68,6 +79,13 @@ class BaseFrame(QtWidgets.QFrame):
         QLabel#page {
           color: %(bg-color)s;
         }
+        QLabel#error {
+          font-size: 20px;
+          color: white;
+          background: back;
+          border: 5px solid red;
+          border-radius: 30px;
+        }
         QFrame#mainFrame {
           border-image: url("%(path)s");
           background-color: %(bg-color)s;
@@ -84,13 +102,23 @@ class BaseFrame(QtWidgets.QFrame):
         self.setFixedWidth(800)
         self.setFixedHeight(480)
 
-    def reset(self):
+    def update(self):
         self.ketchup.setText(str(self.handler.ketchupScore))
         self.mayo.setText(str(self.handler.mayoScore))
-        self.page.setText("")
+        if self.handler.pageNum is not None:
+            self.page.setText(str(self.handler.pageNum))
+        self.error.setText("")
+        self.error.hide()
         self.updateStyle()
 
-    def setBackgound(self, image, color):
-        self.image = image
+    def useBg(self):
+        self.image = self.bg
+        self.updateStyle()
+
+    def useAltBg(self):
+        self.image = self.altBg
+        self.updateStyle()
+
+    def setColor(self, color):
         self.color = color
         self.updateStyle()

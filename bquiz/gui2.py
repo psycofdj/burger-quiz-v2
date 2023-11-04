@@ -32,11 +32,6 @@ from PySide6.QtGui import (
 )
 import os
 
-def log(arg):
-    print(str(arg))
-    with open("/tmp/log", "a") as f:
-        f.write(str(arg) + "\n")
-
 class DefaultRenderer:
     def __init__(self, item, initialPos):
         self.initialPos = initialPos
@@ -268,10 +263,10 @@ class MyWindow(QtWidgets.QMainWindow):
     def __init__(self):
         self.config = {
             "nuggets" : {
-                "bg-color": "#ffff8d",
+                # "bg-color": "#ffff8d",
                 "file": "nuggets.yaml",
                 "renderer": NuggetsRenderer,
-                "bg": 'nuggets-back.png',
+                # "bg": 'nuggets-back.png',
                 "bg-arrow": 'nuggets-back.png',
             },
             "selpoivre": {

@@ -10,6 +10,7 @@
     A: "Hitl'hair, Lucif'hair, Freddy Krug'Hair. Le Jok'Hair. Marine le Peigne éventuellement…"
   - Q: "Un écrivain."
     A: "Baudel'hair, Volt'hair, Flaub'hair. Racine aussi, même si c’est un peu tiré par les cheveux."
+  - "page-break"
   - Q: "Ça fait chier."
     A: "Laxa’tif. Hitl'hair était accepté."
   - Q: "Peut briser un couple."
@@ -34,6 +35,7 @@
     A: "Pascal Praud, Eric Zemmour accepté."
   - Q: "“Dans mon équipe je te veux“."
     A: "Une coach de the Voice. Didier Deschamps accepté."
+  - "page-break"
   - Q: "“D'un ballon d'or je n'ai pas besoin pour savoir que le meilleur je suis“."
     A: "Zlatan Ibrahimovic."
   - Q: "“Mes rêves et mon enfance vous avez volés. Au début d'une extinction de masse nous sommes et d'argent est tout ce dont vous parlez ? Osez-vous comment ?“"
@@ -58,6 +60,7 @@
     A: "Wookieepédia."
   - Q: "Un jeu où on doit trouver Charlie"
     A: "Wookie l'est Charlie ?"
+  - "page-break"
   - Q: "Wookiee l'est dur celui-là… Balance les secrets de tout le monde."
     A: "Wookieeleaks."
   - Q: "Une marque de clope."
@@ -71,7 +74,6 @@
 
 - id: 4
   title: "Je vais vous décrire des séries TV avec la voix dramatique et anxiogène de programmes type “ Au cœur du reportage exclusif de l’action d'enquête“. À vous de trouver le nom de la série."
-  size: "small"
   questions:
   - Q: "Sexe, drogue, homicides, c'est le quotidien du New York des années 90. Pourtant, dans Un immeuble du bas de la ville, un groupe d’adulescents est à l'écart de ces fléaux, Entre leur appartement et un petit café de quartier, ils partagent névroses, histoires d'amour et problématiques professionnelles, Is n'ont aucun ami noir, c'est le quotidien d’une bande d'amis blancs en colocation."
     A: "Friends"
@@ -79,6 +81,7 @@
     A: "Breaking Bad"
   - Q: "Centrale nucléaire, déchets toxiques, élections truquées, télé poubelle, c'est le quotidien débilitant de cette famille de Springfield. Et s'ils en-sont à 30 saisons et+, Ils ne vieillissent jamais et restent toujours jaunes."
     A: "Les Simpson."
+  - "page-break"
   - Q: "Touristes mécontents, disparitions de bagages à gérer, vacances qui toument mal, c'est le quotidien de Tom Delormes. Pourtant, avec sa chemise bleu azur, son sourire permanent et sa volonté d'acier, Tom parvient toujours à satisfaire les clients de son Camping, qui a le nom d'une célèbre chanteuse qui s'appelle Vanessa."
     A: "Camping Paradis."
   - Q: "Grosses cylindrées, trafic de cannabis, rien ne va plus sur la Canebière. Dans un environnement hostile, les zones de non-droit Se multiplient, comme dans le quartier du Mistral, Mais certains habitants, à l'image de Mirta Torres, haussent le ton, agissent et réussissent là où l'État a échoué… Une véritable leçon de vie, qui est quand même plus belle."
@@ -99,6 +102,7 @@
     A: "Une piscine."
   - Q: "C'est un peu comme un enfant mais en plus poilu."
     A: "Un chien, un chat, ou autre animal domestique poilu. Un adulte était accepté aussi."
+  - "page-break"
   - Q: "C'est un peu comme les USA mais avec des habitants qui parlent plus français que les français."
     A: "Le Canada."
   - Q: "C'est un peu comme une télé, sauf qu'il n'y a qu'une chaîne et que ça ne bouge pas."
@@ -125,6 +129,7 @@
     A: "Barbe Rousse."
   - Q: "Des frères sorciers."
     A: "Frères Weasley (dans Harry Potter)"
+  - "page-break"
   - Q: "Un héros de littérature."
     A: "Poil de carotte, écrit par Jules Renard, ironique."
   - Q: "Un chanteur ou une chanteuse."
@@ -147,6 +152,7 @@
     A: "“Kill Schtroumpf 1 & 2“, “il était une Schtroumpf à Hollywood“, “Schtroumpf Fiction“…"
   - Q: "Combien font Schtroumpf + Schtroumpf divisé par 3 ?"
     A: "Schtroumpf. Ou 42, Schtroumpf, Schtroumpf, Schiroumpf, Schtroumpf…"
+  - "page-break"
   - Q: "Un ingrédient pour schtroumpfer une omelette de pommes de Schtroumpf ?"
     A: "Des pommes de Schtroumpf principalement."
   - Q: "Citez un Schtroumpf de Stendhal avec deux couleurs dans le titre."
@@ -160,7 +166,6 @@
 
 - id: 8
   title: "Chez “Burger“ ne nous avons forcément le bien d'exception dont vous rêvez. Je vais vous faire visiter des lieux, à vous de trouver les noms de ces lieux…"
-  size: "small"
   questions:
   - Q: "Entrez, je vous en prie… Alors ce bien là, si je dis pas de bêtises, on l'a rentré il y a un petit moment maintenant. Comme vous ne le voir, on est clairement dans de l'ancien. On a une jolie hauteur sous plafond, je dirais dans les 7/8m…. Moulures, ps Cheminées, on est sur ce re se fait de mieux en architecture à la française. En loi Carrez, on est à 68 154 m°, Bien sûr, il faut prévoir un petit budget entretien miroirs, Là, juste dans la galerie il yen a 357."
     A: "Château de Versailles."
@@ -168,6 +173,7 @@
     A: "L'hôtel de Shining."
   - Q: "Ici on est sur un tout autre produit. Le point fort, la vue : 360 sur tout Paris, imprenable. Et on est qu'au premier étage ! Le seul bémol ; si les ascenseurs sont en panne, c'est 1665 marches à pieds. C'est, je dirais, le ee sacrifice à accepter. Sinon, la nuit toutes les heures mais c'est ok avec le syndic, Il y'a plein d'ampoules qui clignotent sur toute la structure."
     A: "La Tour Eiffel."
+  - "page-break"
   - Q: "La on est dans le must de l'architecture éco friendly, on fait pas mieux. Vous voyez, les matériaux, tout est fait main. On est dans du vrai. Alors OUI, c'est un peu étroit, OUI il faut mesurer 8cm, OUI tous les voisins sont bleus, mais au moins tout est bio."
     A: "Un champignon de Schtroumpf."
   - Q: "Ah c'est de traviole, hein. Faut aimer ce qui est rond et de traviole."
@@ -181,7 +187,6 @@
 
 - id: 9
   title: "Il y a plein de films que j’adorerais voir mais je ne me souviens jamais des titres. En revanche, je me souviens parfaitement des affiches. Donc je vais vous décrire des affiches de films, à vous de me donner le titre de ce film."
-  size: "small"
   questions:
   - Q: "Je me souviens que l'affiche c'est une femme qui nage en crawl mais elle devrait jeter un œil à ce qu'il se passe en dessous parce qu'à mon avis elle risque de se faire bouffer par un requin énorme."
     A: "Les dents de la mer, Jaws."
@@ -189,6 +194,7 @@
     A: "Le Silence des Agneaux, The Silence of the Lambs."
   - Q: "Celle-là heureusement qu'on voit le nombril sinon j'aurais jamais deviné que c'était un ventre. Donc, on voit un ventre avec une main posée dessus qui tient une rose. On dirait une belle histoire d'amour mais on m'a dit que non pas vraiment."
     A: "American Beauty."
+  - "page-break"
   - Q: "Cette affiche là j'ai pas tout saisi mais je dois dire que ça m'intrigue un peu. Il y a une main d'enfant qui colle son doigt à celui d'une vielle dame — enfin, ça a l'air d'être une vieille dame. Et elle a l'air de s'être blessée aussi puisque le bout de son doigt est rouge. Et on voit la Terre aussi, donc on doit être dans l'espace. Je crois que c'était un titre très court, genre B.T. ou E.C."
     A: "E.T."
   - Q: "C'estun œil. Voilà, j'ai pas + d'infos. Si, il est bleu. Un œil bleu, grand ouvert. Un peu injecté de sang quand même… Soit le mec est fatigué, soit il se drogue."
@@ -213,6 +219,7 @@
     A: "Gérard Collomb"
   - Q: "Cyrano de Bergerac"
     A: "Gérard Depardieu"
+  - "page-break"
   - Q: "Un Bronzé."
     A: "Gérard Jugnot, Il y avait aussi Michel Blanc mais comme il s'appelle pas Gérard ça marchait pas."
   - Q: "Magicien."
@@ -226,7 +233,6 @@
 
 - id: 11
   title: "La Réponse est en Noir & Blanc."
-  size: meduim
   questions:
   - Q: "C'est presque un cheval."
     A: "Un zèbre."
@@ -238,6 +244,7 @@
     A: "Docteur Fotamour, Les sentiers de la Gloire, Lolita, L'uftime Razzia, le Baiser du tueur."
   - Q: "Un dessert"
     A: "Un Orero. Un Cake réglisse vanille, 2 boules chocolat coco…"
+  - "page-break"
   - Q: "Un tableau de Picasso."
     A: "Guernica, l'Atelier de la modiste, le Charnier, les Demoiselles d'Honneur, Femme nue avec guitare."
   - Q: "On en a vu 101…"
@@ -260,6 +267,7 @@
     A: "Une sacoche Lacoste, une paire d'Air Max, une chemise manche courte, le burkini."
   - Q: "Un jeu populaire à la cour de Louis XIV ?"
     A: "Le Uno, Candy Crush, GTA."
+  - "page-break"
   - Q: "Un invité du Burger Quiz."
     A: "Henri IV, Jeanne d'Arc, Ramsès Il."
   - Q: "Un artiste présent à Woodstock."
@@ -282,6 +290,7 @@
     A: "Claude Lellouche."
   - Q: "Liane Démence"
     A: "Liane Foly"
+  - "page-break"
   - Q: "Claude Fortuné."
     A: "Claude Rich."
   - Q: "Patricia Braquage."
@@ -306,6 +315,7 @@
     A: "Yannick Noah."
   - Q: "Adore l'eau glacée et peut peser jusqu'à 2 tonnes."
     A: "Un morse."
+  - "page-break"
   - Q: "Il était plutôt du matin et maintenant il est à midi."
     A: "William Leymergie."
   - Q: "Ne pleure pas pour moi, Argentine."
@@ -330,6 +340,7 @@
     A: "NTM."
   - Q: "C'est quand t'as une voix super aiguë."
     A: "Soprano."
+  - "page-break"
   - Q: "Un petit ourson tout mignon."
     A: "Booba."
   - Q: "C'est un mec entraîné pour ne jamais rater sa cible."
@@ -354,6 +365,7 @@
     A: "Les chœurs de l'Armée Jaune, Les Soviets United."
   - Q: "Une couleur primaire."
     A: "Bleu, Jaune."
+  - "page-break"
   - Q: "Un fruit rouge."
     A: "Des mûres, des myrlilles…"
   - Q: "A ne pas griller si on veut garder son permis ?"
@@ -402,6 +414,7 @@
     A: "Le Marsupilami"
   - Q: "- Pour l'apéro."
     A: "Un petit jaune."
+  - "page-break"
   - Q: "Il sonne faux."
     A: "Un rire jaune."
   - Q: "Ne peux pas blairer Gros Minet."
@@ -424,6 +437,7 @@
     A: "Quelqu'un sur Twitter, un chroniqueur TV, Erdogan…"
   - Q: "A perdu contre la France."
     A: "La Croatie en finale de coupe du monde, la Belgique en demi-finale de coupe du monde."
+  - "page-break"
   - Q: "Pétain l'aimait bien."
     A: "Sa moustache, le drapeau français, sa petite baraque à Vichy, sa femme."
   - Q: "Est grand, blond et blanc."
@@ -446,6 +460,7 @@
     A: "Roger Rabbit."
   - Q: "Ça peut être chiant si l'oeil en sort."
     A: "De son orbite, une orbite."
+  - "page-break"
   - Q: "Hey Jude."
     A: "Les Beatles."
   - Q: "C'est un mec qui fait des beat."
@@ -468,6 +483,7 @@
     A: "Docteur House."
   - Q: "Nom de Zeus !"
     A: "Doc Brown de “Retour vers le futur“."
+  - "page-break"
   - Q: "A le bout en métal."
     A: "Doc Martens."
   - Q: "A donné vie à une créature avec des boulons dans le front."
@@ -492,6 +508,7 @@
     A: "King Kong."
   - Q: "Grâce à eux, et nos envies prennent vie. Surtout pour bricoler."
     A: "Leroy Merlin."
+  - "page-break"
   - Q: "Another one bites the dust, hey !"
     A: "Queen."
   - Q: "Alexandre Astier."
@@ -516,6 +533,7 @@
     A: "Un juge impartial, Batman."
   - Q: "Il parle dans la tête des gens."
     A: "Professeur Xavier, Obi Wan Kenobi, les esprits de Jeanne d'Arc, Messmer…"
+  - "page-break"
   - Q: "Il n'est pas présent avec nous ici ce soir."
     A: "Donald Trump, Pascal le grand frère, Charly, Lulu, Bart Simpson, n'importe qui sauf les personnes présentes."
   - Q: "Ilest parfois dans mon oreille."
@@ -540,6 +558,7 @@
     A: "Un canard, le Canard enchainé, Castor Passion."
   - Q: "Une ville."
     A: "Dans Rennes, Lyon, Autruche (Ardennes), Hérisson (Allier), Faucon (Vaucluse)…"
+  - "page-break"
   - Q: "Un jeu de cour d'école."
     A: "Saute-mouton, chat, l'épervier…"
   - Q: "Plus qu'une moustache mais moins qu'une barbe."
@@ -560,6 +579,7 @@
     A: "Ratajkowski."
   - Q: "Vu dans Transformers, Fury ou encore dans un clip de Sia."
     A: "Shia Labeouf."
+  - "page-break"
   - Q: "Malin au féminin."
     A: "Maligne, et non pas maline (dans la prononciation, pas seulement l'orthographe)."
   - Q: "C'est une série avec des femmes au foyer désespérées."
@@ -584,6 +604,7 @@
     A: "Le Grand 8."
   - Q: "Un palais."
     A: "Le Grand Palais."
+  - "page-break"
   - Q: "Une chanteuse pourtant pas très grande."
     A: "Arianna Grande."
   - Q: "14-18."
@@ -608,6 +629,7 @@
     A: "Bouddha, Richard Gere, Steven Seagal, Tina Turner, Helena Noguerra…"
   - Q: "A des petites lunettes rondes."
     A: "Harry Potter, Alain Chabat, John Lennon."
+  - "page-break"
   - Q: "Est mort assassiné."
     A: "Kennedy, César, Gianni Versace, John Lennon, Tupac, Sharon Tate, Marvin Gaye…"
   - Q: "À combattu l'oppression."
@@ -632,6 +654,7 @@
     A: "Jackie, James, Charlie, Chris, Bobby."
   - Q: "Une marque"
     A: "Athéna, Renault, Nicolas, Jennifer, Go Sport pas accepté."
+  - "page-break"
   - Q: "Une fusée."
     A: "Ariane."
   - Q: "Un chanteur français."
@@ -656,6 +679,7 @@
     A: "Le chef de chantier, le policier."
   - Q: "Messager des dieux ou sac à main."
     A: "Hermès."
+  - "page-break"
   - Q: "Last night, he saved my life."
     A: "Un DJ, David Guetta."
   - Q: "Il est son père."
@@ -680,6 +704,7 @@
     A: "Winter is coming."
   - Q: "Tradition estudiantine américaine qui se déroule à Cancun."
     A: "Springbreak."
+  - "page-break"
   - Q: "Une expression."
     A: "Une hirondelle ne fait pas le printemps. T'es habillé pour l'hiver. On ne peut pas être et avoir été."
   - Q: "Une expression qui n'existe pas."
@@ -704,6 +729,7 @@
     A: "Un cheese cake, brownie, panna cotta."
   - Q: "Une expression d’un mec de com."
     A: "Marchandising, Copyright, Custom publishing, Start-up, meeting."
+  - "page-break"
   - Q: "Un sport."
     A: "Baseball, Skateboard, Bowling, Football…"
   - Q: "Un mot courant en français."
@@ -728,6 +754,7 @@
     A: "Pink, Diams, Zaz, Tal, Lâäâm…"
   - Q: "La poule se le tape."
     A: "Coq."
+  - "page-break"
   - Q: "Ça veut dire que c'est marrant."
     A: "Lol, ha !"
   - Q: "Un style de musique."
@@ -752,6 +779,7 @@
     A: "Gaston, Robinson, Léon, Gédéon."
   - Q: "Un joueur de foot que vous aimez."
     A: "Mbappé, Kanté, Dembélé, Zidane accepté parce que voilà, c'est Zizou faut pas déconner non plus."
+  - "page-break"
   - Q: "Un président."
     A: "Mitterrand, Harry S. Truman et Reagan si on prononce à la française."
   - Q: "Une partie du corps humain."
@@ -772,6 +800,7 @@
     A: "Grénaaaade."
   - Q: "Il joue dans le Grand Bain ou encore dans Braquo."
     A: "Jean-Hugues Anglaaaade."
+  - "page-break"
   - Q: "Souvent à base de morue."
     A: "Une brandaaaade."
   - Q: "On peut s'en badigeonner sur le corps."
@@ -785,7 +814,6 @@
 
 - id: 35
   title: "Alors oui ça pourrait mais non, la réponse n'est pas Poutine."
-  size: medium
   questions:
   - Q: "N'est pas hyper tolérant."
     A: "Kim Jong-Un, Bachar al-Assad, Le Grand Miam parfois."
@@ -797,7 +825,8 @@
     A: "La manif pour tous, Jean-Marie le Pen, les frères musulmans…"
   - Q: "Ce n'est pas bien de l'insulter."
     A: "Tout le monde. Ce n'est pas bien d'insulter les gens."
-  - Q: "Atravaillé dans les services secrets."
+  - "page-break"
+  - Q: "A travaillé dans les services secrets."
     A: "James Bond, Hubert Bonisseur de La Bath."
   - Q: "Produit pas mal de fake news."
     A: "Trump, Morandini."
@@ -823,6 +852,7 @@
     A: "Nicole Kidman."
   - Q: "Le Pays d'où viennent les poupées russes ?"
     A: "Du Japon, ce n'était pas facile."
+  - "page-break"
   - Q: "Dans quel village a grandi l’acteur Bourvil ?"
     A: "À Bourville, en Seine-Maritime."
   - Q: "Dans quelle ville est née Paris Hilton ?"
@@ -843,6 +873,7 @@
     A: "Twitter ou les réseaux sociaux en général."
   - Q: "J'ai pensé à un truc, après vous aimez vous aimez pas mais je pense que c'est pas si nul : on laisse du lait périmer, on injecte des bactéries et on le mange en fin de repas."
     A: "Le fromage."
+  - "page-break"
   - Q: "Alors ça, c'est un carton c'est sûr. Je vais mettre plein de poisons différents dans une tige en papier et je vais les vendre par pack de 20 pour que les gens meurent plus jeunes."
     A: "La cigarette."
   - Q: "Dites-moi si je dis de la merde : pourquoi on n'essaierait pas de construire des grands oiseaux en métal ? Comme ça, on monte dedans et on vole comme eux."
@@ -865,6 +896,7 @@
     A: "Mille-feuille"
   - Q: "Une réplique de “La Cité de la Peur“."
     A: "“On peut tromper mille fois une personne…“, “Prenez un chewing-gum Emile“ accepté également."
+  - "page-break"
   - Q: "Shéhérazade."
     A: "Les 1001 nuits."
   - Q: "Une catégorie de maman bonnasse."
@@ -878,7 +910,6 @@
 
 - id: 39
   title: "La Réponse n'est pas un homme politique."
-  size: small
   questions:
   - Q: "Essaye d'être élu."
     A: "Un délégué de classe, un joueur de foot pour le Ballon d'Or, Miss Aquitaine, un talent à The Voice…"
@@ -893,7 +924,6 @@
 
 - id: 40
   title: "La réponse tient en 2 caractères, comme sur un mini mini Twitter où on n'aurait droit qu’à 2 caractères: 2 lettres, 2 chiffres ou 1 lettre et 1 chiffre."
-  size: medium
   questions:
   - Q: "A tué beaucoup de gens quand même."
     A: "SS."
@@ -919,6 +949,7 @@
     A: "Double menton."
   - Q: "Au basket."
     A: "Un triple-double."
+  - "page-break"
   - Q: "Une expression."
     A: "Quitte ou double."
   - Q: "Pour dormir en étoile."
@@ -944,7 +975,6 @@
 
 - id: 43
   title: "La Réponse tient en 3 mots (pas plus, pas moins)."
-  size: medium
   questions:
   - Q: "Une devise."
     A: "Liberté, Égalité, Fraternité (France). Je me souviens (Québec). Nation, Religion, Roi (Cambodge)."
@@ -968,6 +998,7 @@
     A: "Afro."
   - Q: "C'est aussi un coup de cafard."
     A: "Le blues."
+  - "page-break"
   - Q: "C'est aussi un matériau dont les atomes sont unis par des liaisons métalliques."
     A: "Le métal"
   - Q: "À une lettre près, c'est aussi une plateforme qui loue des appartements."
@@ -977,7 +1008,6 @@
 
 - id: 45
   title: "Pierre Feuille Ciseaux. Vous connaissez le principe : la Pierre casse les ciseaux, les Ciseaux coupent la feuille, la Feuille enveloppe la Pierre. Essayez de me battre. C'est parti."
-  size: medium
   questions:
   - Q: "Pierre."
     A: "Feuille."
@@ -1043,6 +1073,7 @@
     A: "41."
   - Q: "C'est une phrase d'enfant qui veut jouer à chat avec toi alors que t'as pas envie parce que tu as d'autres problèmes."
     A: "Attrape-moi si tu peux !"
+  - "page-break"
   - Q: "C'est une manière de régler un conflit."
     A: "Duel. “La Guerre des Mondes“ pas accepté car on ne règle rien en faisant la guerre. Aimez-vous. Aimons-nous."
   - Q: "C'est une voiture, ou un projet mais au départ c'est quand même un Président."
@@ -1063,6 +1094,7 @@
     A: "Une mandoline."
   - Q: "C'est aussi un élément indispensable à notre portable."
     A: "Une batterie."
+  - "page-break"
   - Q: "C'est aussi très désagréable quand on l'a au pied."
     A: "Un cor."
   - Q: "C'est aussi un mensonge qu'on voit venir à 30 bornes."
@@ -1085,6 +1117,7 @@
     A: "Oui, un film de boules. Un film boulicier n'est pas accepté."
   - Q: "Un plat végé."
     A: "Un boulgour aux courgettes. Un taboulé aux olives. Des bou- lettes de soja. Un Boulgogi mais sans boeuf."
+  - "page-break"
   - Q: "Une ville."
     A: "Kaboul, Boulogne, Il y avait aussi Boulazac en Dordogne mais c’est moins connu."
   - Q: "C'est le maître de Bill. :"
@@ -1108,7 +1141,6 @@
 
 - id: 53
   title: "La Réponse est une addition de mots. Je vous donne des mots qui n’ont, a priori, rien à voir entre eux et vous devez, en les additionnant, trouver le mot existant."
-  size: medium
   questions:
   - Q: "Calvitie + Rongeur."
     A: "Chauve-souris."
@@ -1137,7 +1169,6 @@
 
 - id: 55
   title: "La Réponse termine par le son “once“."
-  size: medium
   questions:
   - Q: "Ce que vous allez me donner, là, maintenant."
     A: "Une réponse."
@@ -1221,6 +1252,7 @@
     A: "Des P."
   - Q: "Marque plutôt la déception."
     A: "O…"
+  - "page-break"
   - Q: "On en a tous un."
     A: "Un Q."
   - Q: "Mon morceau préféré dans le poulet."
@@ -1243,6 +1275,7 @@
     A: "Arbovirus."
   - Q: "Un mini-piège : c'est l’un des plus gros, comme son nom ne l'indique pas."
     A: "Mimivirus."
+  - "page-break"
   - Q: "On monte en difficulté : Porte le nom d'une planète d'Avatar."
     A: "Pandoravirus."
   - Q: "Pas évident : Romain joué par Jean-Paul Rouve dans “Astérix & Obélix, Mission Cléopâtre“."
@@ -1254,7 +1287,6 @@
 
 - id: 62
   title: "La Réponse commence par le son “mo“."
-  size: medium
   questions:
   - Q: "Un jeu télévisé."
     A: "Motus. Money Drop. Mot de Passe. Il y avait aussi le Burger Quiz, mais ce n'était pas la bonne réponse."
@@ -1269,7 +1301,6 @@
 
 - id: 63
   title: "La Réponse est un dessin animé mais pas un Disney."
-  size: small
   questions:
   - Q: "C'est l'histoire d’une princesse."
     A: "Anastasia, Princesse Mononoké."
@@ -1295,6 +1326,7 @@
     A: "Michel Hazanavicius, Agnès Jaoui, Éric Lartigau, Maurice Barthélemy, Anne Depétrini, Guillaume Canet, Gilles Lellouche, Nicolas Bedos, Quentin Dupieux, Alain Chabat et plein d'autres."
   - Q: "Il y aurait pu être le père d'Harrison Ford, mais non."
     A: "John Ford, Francis Ford Coppola, Tom Ford."
+  - "page-break"
   - Q: "A un nom de boisson."
     A: "Jacques Demy, John Waters."
   - Q: "C'est aussi une jardinerie."
@@ -1317,6 +1349,7 @@
     A: "La Tour Montparnasse Infernale."
   - Q: "Pendant l'occupation allemande, deux français doivent atteindre la zone libre pour sauver un parachutiste anglais."
     A: "La Grande Vadrouille."
+  - "page-break"
   - Q: "Une famille oublie son propre enfant et le laisse face à de dangereux criminels."
     A: "Maman j'ai raté l'avion."
   - Q: "2 journalistes vont en Corée du Nord interviewer le pire dictateur de la Planète."
@@ -1342,7 +1375,6 @@
 
 - id: 67
   title: "La Réponse n’est pas les Dalton."
-  size: medium
   questions:
   - Q: "Porte pas mal la moustache."
     A: "Zorro, Errol Flynn, Ron Burgundy, Francis Cabrel. Hitler pas accepté, ça lui va pas du tout, il aurait dû essayer la barbe."
@@ -1357,7 +1389,6 @@
 
 - id: 68
   title: "Il y a Huppert dans la Réponse. Je vais vous faire des propositions et votre réponse doit impérativement contenir le nom “Huppert“, même s’il faut faire un jeu de mots pour y parvenir. Exemples : Pratique contre la pluie : Un Huppertméable."
-  size: medium
   questions:
   - Q: "Te ramène des cadeaux le 25 Décembre."
     A: "L'Huppert Noël."
@@ -1369,6 +1400,7 @@
     A: "Une jeune fille Huppert."
   - Q: "Un quartier de New York."
     A: "Huppert East Side."
+  - "page-break"
   - Q: "Une expression."
     A: "T'Huppert rien pour attendre, Huppert et passe. Un d'Huppertdu, 10 de retrouvé. J'étais dHuppert."
   - Q: "Un film."
@@ -1393,6 +1425,7 @@
     A: "Cubitus. Radius, Humérus. Phallus pas accepté."
   - Q: "Une planète."
     A: "Vénus. Uranus, Et sinon Ossus, Raxus ou Nixus (c'est dans Star Wars)."
+  - "page-break"
   - Q: "Un synonyme de balle-trou."
     A: "Anus pas accepté, on a dit après c'est tout."
   - Q: "Donc pas le droit de répondre “anus“ sur celle-ci : une partie du corps qu'on ne montre pas."
@@ -1406,7 +1439,6 @@
 
 - id: 70
   title: "Toutes les réponses finissent par “Ouille“. Quel que soit ma proposition, votre réponse devra finir par le son “Ouille“, Et vous n'avez droit qu'à un seul “couille“  par équipe, Exemple : Une phrase pour dire de se dépêcher : Allez grouille !"
-  size: medium
   questions:
   - Q: "Un film."
     A: "La grande vadrouille. Ratatouille, La Princesse et la grenouille (Disney). Gribouille (Marc Allégret)"
@@ -1414,6 +1446,7 @@
     A: "Jean Anouilh, Et ouais, un peu de culture ça fait du bien."
   - Q: "Souvent sous une bite."
     A: "Des couilles. On ne va pas parler littérature toute la journée non plus. Et vous avez utilisé votre “couille”."
+  - "page-break"
   - Q: "Une phrase à la con."
     A: "La pluie ça mouille, Tout ce qu'on voit aujourd'hui, ça fout la trouille. Un bru… une flou. route. non. heu. Tu bafouilles, Ça vasouille."
   - Q: "Un visiteur."
@@ -1438,6 +1471,7 @@
     A: "Citrate de bétaïne, Sigourney Weaver, Cystite…"
   - Q: "Rééééééé"
     A: "Réponse à la question, Rébarbatif, Récalcitrant, Renegaaaaade…"
+  - "page-break"
   - Q: "Dooooooo…"
     A: "Docile, Dominique Farrugia, Dominateur, Dojo…"
   - Q: "Soooooool…"
@@ -1449,7 +1483,6 @@
 
 - id: 72
   title: "La réponse a disparu."
-  size: medium
   questions:
   - Q: "Une mode vestimentaire."
     A: "Les Jabots, les perruques, les armures, le style tecktonik."
@@ -1466,7 +1499,6 @@
 
 - id: 73
   title: "Réponse de cinéma, Je vais vous poser des questions perso et vous devrez me répondre avec un titre de film."
-  size: small
   questions:
   - Q: "Comment ça va ?"
     A: "“Je vais bien, ne t'en fais pas“, “Je vais mieux“, “Je suis timide mais je me soigne“, “Grâce à dieu“, “J'accuse“…"

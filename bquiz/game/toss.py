@@ -8,8 +8,8 @@ from bquiz.types import Team
 
 class Toss(Match):
     tosChanged = QtCore.Signal(str)
-    def __init__(self, hw, parent = None):
-        super().__init__(hw, parent)
+    def __init__(self, hw, widget = None):
+        super().__init__(hw, widget)
         x, y, z, u = (
             random.randrange(1, 99, 1),
             random.randrange(1, 99, 1),
@@ -36,23 +36,24 @@ class Toss(Match):
             "Celui qui fait le mieux samblant de parler Russe",
             "Celui qui fait le plus long oooooommmmmmmmmmm",
         ]
-        self.hw.resetBtn.pressed.connect(self.randomTos)
-        self.hw.mayoPlusBtn.pressed.connect(self.setMayoLeader)
-        self.hw.mayoMinusBtn.pressed.connect(self.setMayoLeader)
-        self.hw.ketchupPlusBtn.pressed.connect(self.setKetchupLeader)
-        self.hw.ketchupMinusBtn.pressed.connect(self.setKetchupLeader)
-        self.randomTos()
+        hw.resetBtn.pressed.connect(self.randomToss)
+        hw.mayoPlusBtn.pressed.connect(self.setMayoLeader)
+        hw.mayoMinusBtn.pressed.connect(self.setMayoLeader)
+        hw.ketchupPlusBtn.pressed.connect(self.setKetchupLeader)
+        hw.ketchupMinusBtn.pressed.connect(self.setKetchupLeader)
+        self.randomToss()
 
-    def getFrame(self):
-        return TossFrame(self)
+    def getFrame(self, widget):
+        return TossFrame(self, widget)
 
     def reset(self):
         super().reset()
-        self.randomTos()
+        print("game::toss::reset")
+        self.randomToss()
 
-    def setTos(self, idx):
-        self.frame.setTos(self.data[idx % len(self.data)])
+    def setToss(self, idx):
+        self.frame.setToss(self.data[idx % len(self.data)])
 
     @QtCore.Slot()
-    def randomTos(self):
-        self.setTos(random.randrange(0, len(self.data), 1))
+    def randomToss(self):
+        self.setToss(random.randrange(0, len(self.data), 1))

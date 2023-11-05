@@ -1,18 +1,20 @@
-import time
-import yaml
 import random
-
+import time
 from PySide6  import QtCore
-
+from bquiz.data import data
 from bquiz.game.question import Question
 from bquiz.gui.nuggets import NuggetsFrame
 
 class Nuggets(Question):
     def __init__(self, hw, widget = None):
         super().__init__(hw, widget)
-        self.data = self.readFile("nuggets.yaml")
+        self.data = data['nuggets']
         self.randomQ()
-        hw.resetBtn.pressed.connect(self.randomQ)
+        self.hw.resetBtn.pressed.connect(self.randomQ)
+
+    def finalize(self):
+        self.hw.resetBtn.pressed.disconnect(self.randomQ)
+        super().finalize()
 
     def getFrame(self, widget):
         return NuggetsFrame(self, widget)

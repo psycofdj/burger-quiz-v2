@@ -22,14 +22,10 @@ class Engine(QtCore.QObject):
         self.samplePlayer.audio_set_volume(100)
         self.samplePlayer.audio_output_device_enum()
 
+        self.current = None
         self.buzzing = False
         self.state = State.TOSS
         self.mainWindow = widget
-        self.toss = Toss(hw, self.mainWindow)
-        self.nuggets = Nuggets(hw, self.mainWindow)
-        self.selpoivre = SelPoivre(hw, self.mainWindow)
-        self.menus = Menus(hw, self.mainWindow)
-        self.addition = Addition(hw, self.mainWindow)
 
         hw.resetBtn.longPressed.connect(self.reset)
         hw.nuggetsBtn.pressed.connect(self.startNuggets)
@@ -56,16 +52,20 @@ class Engine(QtCore.QObject):
     def setState(self, state):
         self.state = state
         l = {
-            State.TOSS.name: self.toss,
-            State.NUGGETS.name: self.nuggets,
-            State.SELPOIVRE.name: self.selpoivre,
-            State.MENUS.name: self.menus,
-            State.ADDITION.name: self.addition,
+            State.TOSS.name: Toss,
+            State.NUGGETS.name: Nuggets,
+            State.SELPOIVRE.name: SelPoivre,
+            State.MENUS.name: Menus,
+            State.ADDITION.name: Addition,
         }
-        [ obj.frame.show() for name,obj in l.items() if name == self.state.name ]
-        [ obj.frame.hide() for name,obj in l.items() if name != self.state.name ]
-        self.current = getattr(self, state.name.lower())
-
+        handler = l[state.name]
+        new = handler(self.hw, self.mainWindow)
+        if self.current != None:
+            new.clone(self.current)
+            self.current.frame.hide()
+            self.current.finalize()
+        self.current = new
+        self.current.frame.show()
 
     def stopLock(self):
         self.hw.mayoRelay.off()
@@ -108,10 +108,7 @@ class Engine(QtCore.QObject):
 
     @QtCore.Slot()
     def reset(self):
-        self.toss.reset()
-        self.nuggets.reset()
-        self.menus.reset()
-        self.addition.reset()
+        self.current.reset()
         self.startToss()
 
     def startToss(self):
@@ -122,9 +119,9 @@ class Engine(QtCore.QObject):
     def startNuggets(self):
         if self.state != State.TOSS:
             return self.current.ephemeralError(self.errorNotNow(State.NUGGETS))
-        if not self.toss.leader:
+        if not self.current.leader:
             return self.current.ephemeralError("Quelle équipe à la main ?")
-        self.nuggets.clone(self.toss)
+        #self.nuggets.clone(self.toss)
         self.setState(State.NUGGETS)
         self.playSound("nuggets.mp3")
 
@@ -133,7 +130,7 @@ class Engine(QtCore.QObject):
     def startSelPoivre(self):
         if self.state != State.NUGGETS:
             return self.current.ephemeralError(self.errorNotNow(State.SELPOIVRE))
-        self.selpoivre.clone(self.nuggets)
+        #self.selpoivre.clone(self.nuggets)
         self.setState(State.SELPOIVRE)
         self.playSound("sel-ou-poivre.mp3")
 
@@ -141,7 +138,7 @@ class Engine(QtCore.QObject):
     def startMenus(self):
         if self.state != State.SELPOIVRE:
             return self.current.ephemeralError(self.errorNotNow(State.MENUS))
-        self.menus.clone(self.selpoivre)
+        #self.menus.clone(self.selpoivre)
         self.setState(State.MENUS)
         self.playSound("menus.mp3")
 
@@ -149,7 +146,7 @@ class Engine(QtCore.QObject):
     def startAddition(self):
         if self.state != State.MENUS:
             return self.current.ephemeralError(self.errorNotNow(State.ADDITION))
-        self.addition.clone(self.menus)
+        #self.addition.clone(self.menus)
         self.setState(State.ADDITION)
         self.playSound("addition.mp3")
     @QtCore.Slot()

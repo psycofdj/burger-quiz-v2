@@ -6,10 +6,17 @@ class Question(Match):
     def __init__(self, hw, widget = None):
         super().__init__(hw, widget)
         self.questions = []
-        hw.mayoPlusBtn.pressed.connect(self.incMayoScore)
-        hw.mayoMinusBtn.pressed.connect(self.decMayoScore)
-        hw.ketchupPlusBtn.pressed.connect(self.incKetchupScore)
-        hw.ketchupMinusBtn.pressed.connect(self.decKetchupScore)
+        self.hw.mayoPlusBtn.pressed.connect(self.incMayoScore)
+        self.hw.mayoMinusBtn.pressed.connect(self.decMayoScore)
+        self.hw.ketchupPlusBtn.pressed.connect(self.incKetchupScore)
+        self.hw.ketchupMinusBtn.pressed.connect(self.decKetchupScore)
+
+    def finalize(self):
+        self.hw.mayoPlusBtn.pressed.disconnect(self.incMayoScore)
+        self.hw.mayoMinusBtn.pressed.disconnect(self.decMayoScore)
+        self.hw.ketchupPlusBtn.pressed.disconnect(self.incKetchupScore)
+        self.hw.ketchupMinusBtn.pressed.disconnect(self.decKetchupScore)
+        super().finalize()
 
     def reset(self):
         super().reset()
@@ -43,10 +50,12 @@ class Question(Match):
 
     @QtCore.Slot()
     def incMayoScore(self):
+        print("question::incMayoScore")
         self.setScore(self.mayoScore + 1, self.ketchupScore)
 
     @QtCore.Slot()
     def incKetchupScore(self):
+        print("question::incKetchupScore")
         self.setScore(self.mayoScore, self.ketchupScore + 1)
 
     @QtCore.Slot()

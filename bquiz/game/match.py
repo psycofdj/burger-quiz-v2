@@ -6,12 +6,16 @@ from bquiz.types import Team
 class Match(QtCore.QObject):
     def __init__(self, hw, widget = None):
         super().__init__(widget)
+        self.hw = hw
         self.pageNum = None
         self.leader = None
         self.mayoScore = 0
         self.ketchupScore = 0
         self.frame = self.getFrame(widget)
         self.frame.hide()
+
+    def finalize(self):
+        pass
 
     def clone(self, match):
         self.leader = match.leader
@@ -29,13 +33,6 @@ class Match(QtCore.QObject):
     def setPageNum(self, num):
         self.pageNum = num
         self.frame.update()
-
-    @staticmethod
-    def readFile(name):
-        root = os.path.dirname(os.path.dirname(__file__))
-        path = os.path.join(root, "resources", name)
-        with open(path) as f:
-            return yaml.safe_load(f)
 
     def getFrame(self, widget):
         return BaseFrame(self, widget)

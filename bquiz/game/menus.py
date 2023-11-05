@@ -4,16 +4,21 @@ import random
 
 from PySide6  import QtCore
 
+from bquiz.data import data
 from bquiz.game.question import Question
 from bquiz.gui.menus import MenusFrame
 
 class Menus(Question):
     def __init__(self, hw, widget = None):
         super().__init__(hw, widget)
-        self.menus = self.readFile("menus.yaml")
-        self.menusRouge = self.readFile("menus-rouge.yaml")
+        self.menus = data['menus']
+        self.menusRouge = data['menus-rouge']
         self.randomQ()
-        hw.resetBtn.pressed.connect(self.randomQ)
+        self.hw.resetBtn.pressed.connect(self.randomQ)
+
+    def finalize(self):
+        self.hw.resetBtn.pressed.disconnect(self.randomQ)
+        super().finalize()
 
     def getFrame(self, widget):
         return MenusFrame(self, widget)

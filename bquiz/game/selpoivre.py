@@ -4,15 +4,19 @@ import random
 
 from PySide6  import QtCore
 
+from bquiz.data import data
 from bquiz.game.question import Question
 from bquiz.gui.selpoivre import SelPoivreFrame
 
 class SelPoivre(Question):
     def __init__(self, hw, widget = None):
         super().__init__(hw, widget)
-        self.data = self.readFile("selpoivre.yaml")
         self.randomQ()
-        hw.resetBtn.pressed.connect(self.randomQ)
+        self.hw.resetBtn.pressed.connect(self.randomQ)
+
+    def finalize(self):
+        self.hw.resetBtn.pressed.disconnect(self.randomQ)
+        super().finalize()
 
     def getFrame(self, widget):
         return SelPoivreFrame(self, widget)

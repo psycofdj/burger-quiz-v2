@@ -90,17 +90,17 @@ class Engine(QtCore.QObject):
     @QtCore.Slot()
     def mayoBuzz(self):
         if self.state not in [ State.NUGGETS, State.MENUS ]:
-            self.hw.mayoLED.blink(seconds=3)
-            self.hw.mayoRelay.on()
             self.playSound2("buzz-mayo.mp3")
+            self.hw.mayoRelay.on()
+            self.hw.mayoLED.blink(seconds=3)
 
     @buzzlock
     @QtCore.Slot()
     def ketchupBuzz(self):
         if self.state not in [ State.NUGGETS, State.MENUS ]:
-        self.hw.ketchupLED.blink(seconds=3)
-        self.hw.ketchupRelay.on()
-        self.playSound2("buzz-ketchup.mp3")
+            self.playSound2("buzz-ketchup.mp3")
+            self.hw.ketchupRelay.on()
+            self.hw.ketchupLED.blink(seconds=3)
 
     @QtCore.Slot()
     def reset(self):

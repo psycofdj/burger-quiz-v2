@@ -27,5 +27,4 @@ class Nuggets(Question):
 
     def reset(self):
         super().reset()
-        print("game::nuggets::reset")
         self.randomQ()

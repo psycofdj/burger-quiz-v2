@@ -13,7 +13,6 @@ class Question(Match):
 
     def reset(self):
         super().reset()
-        print("game::question::reset")
         self.setQ(0, 0)
 
     def nextQ(self):

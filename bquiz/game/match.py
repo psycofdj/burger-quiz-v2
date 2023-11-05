@@ -20,7 +20,6 @@ class Match(QtCore.QObject):
         self.frame.update()
 
     def reset(self):
-        print("game::match::reset")
         self.leader = None
         self.mayoScore = 0
         self.ketchupScore = 0
@@ -67,3 +66,6 @@ class Match(QtCore.QObject):
         self.frame.error.raise_()
         self.frame.error.show()
         QtCore.QTimer.singleShot(5000, self.hideError)
+
+    def resourcePath(self, filename):
+        return self.frame.resourcePath(filename)

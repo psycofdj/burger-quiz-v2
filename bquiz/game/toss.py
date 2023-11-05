@@ -48,7 +48,6 @@ class Toss(Match):
 
     def reset(self):
         super().reset()
-        print("game::toss::reset")
         self.randomToss()
 
     def setToss(self, idx):

@@ -1,4 +1,6 @@
-from PySide6 import QtCore, QtWidgets
+from PySide6 import QtCore, QtWidgets, QtMultimedia
+
+import vlc
 
 from bquiz.types import State
 from bquiz.game.toss import Toss
@@ -11,6 +13,14 @@ class Engine(QtCore.QObject):
 
     def __init__(self, hw, widget = None):
         super().__init__(widget)
+
+        self.vlc = vlc.Instance("--no-xlib")
+        self.buzzerPlayer = self.vlc.media_player_new()
+        self.buzzerPlayer.audio_set_volume(100)
+        self.buzzerPlayer.audio_output_device_enum()
+        self.samplePlayer = self.vlc.media_player_new()
+        self.samplePlayer.audio_set_volume(100)
+        self.samplePlayer.audio_output_device_enum()
 
         self.buzzing = False
         self.state = State.TOSS
@@ -66,23 +76,34 @@ class Engine(QtCore.QObject):
                 fn(self, *args, **kwargs)
         return wrapper
 
+    def playSound(self, name):
+        filepath = self.current.resourcePath(name)
+        self.samplePlayer.set_media(self.vlc.media_new(filepath))
+        self.samplePlayer.play()
+
+    def playSound2(self, name):
+        filepath = self.current.resourcePath(name)
+        self.buzzerPlayer.set_media(self.vlc.media_new(filepath))
+        self.buzzerPlayer.play()
+
     @buzzlock
     @QtCore.Slot()
     def mayoBuzz(self):
-        print("mayo buzz")
-        self.hw.mayoLED.blink(seconds=3)
-        self.hw.mayoRelay.on()
+        if self.state not in [ State.NUGGETS, State.MENUS ]:
+            self.hw.mayoLED.blink(seconds=3)
+            self.hw.mayoRelay.on()
+            self.playSound2("buzz-mayo.mp3")
 
     @buzzlock
     @QtCore.Slot()
     def ketchupBuzz(self):
-        print("ketchup buzz")
+        if self.state not in [ State.NUGGETS, State.MENUS ]:
         self.hw.ketchupLED.blink(seconds=3)
         self.hw.ketchupRelay.on()
+        self.playSound2("buzz-ketchup.mp3")
 
     @QtCore.Slot()
     def reset(self):
-        print("game::engine::reset")
         self.toss.reset()
         self.nuggets.reset()
         self.menus.reset()
@@ -100,6 +121,8 @@ class Engine(QtCore.QObject):
             return self.current.ephemeralError("Quelle équipe à la main ?")
         self.nuggets.clone(self.toss)
         self.setState(State.NUGGETS)
+        self.playSound("nuggets.mp3")
+
 
     @QtCore.Slot()
     def startSelPoivre(self):
@@ -107,6 +130,7 @@ class Engine(QtCore.QObject):
             return self.current.ephemeralError(self.errorNotNow(State.SELPOIVRE))
         self.selpoivre.clone(self.nuggets)
         self.setState(State.SELPOIVRE)
+        self.playSound("sel-ou-poivre.mp3")
 
     @QtCore.Slot()
     def startMenus(self):
@@ -114,7 +138,7 @@ class Engine(QtCore.QObject):
             return self.current.ephemeralError(self.errorNotNow(State.MENUS))
         self.menus.clone(self.selpoivre)
         self.setState(State.MENUS)
-
+        self.playSound("menus.mp3")
 
     @QtCore.Slot()
     def startAddition(self):
@@ -122,7 +146,4 @@ class Engine(QtCore.QObject):
             return self.current.ephemeralError(self.errorNotNow(State.ADDITION))
         self.addition.clone(self.menus)
         self.setState(State.ADDITION)
-
-# Local Variables:
-# ispell-local-dictionary: "francais"
-# End:
+        self.playSound("addition.mp3")

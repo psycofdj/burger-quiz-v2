@@ -68,9 +68,13 @@ class BaseFrame(QtWidgets.QFrame):
             "color": config[team]
         }
 
-    def updateStyle(self):
+    def resourcePath(self, filename):
         root = os.path.dirname(os.path.dirname(__file__))
-        path = os.path.join(root, "resources", self.image)
+        path = os.path.join(root, "resources", filename)
+        return path
+
+    def updateStyle(self):
+        path = self.resourcePath(self.image)
         style = """
         QLabel#page, QLabel#mayo, QLabel#ketchup {
           font-family: Ubuntu;

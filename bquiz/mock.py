@@ -6,12 +6,26 @@ from PySide6 import QtGui, QtCore, QtWidgets, QtGui
 class MockBtn(QtWidgets.QPushButton):
     longPressed = QtCore.Signal()
     def __init__(self, name, parent = None):
-        super().__init__(name)
+        super().__init__(parent)
         self.setText(name)
-    #     self.clicked.connect(self.longPressed)
-    # @QtCore.Slot()
-    # def longPressed(self):
-    #     self.longPressed.emit()
+
+class MockLED(QtWidgets.QWidget):
+    def __init__(self, name, parent = None):
+        super().__init__(parent)
+    def on(self):
+        pass
+    def off(self):
+        pass
+    def blink(self, *args, **kwds):
+        pass
+
+class MockRelay(QtWidgets.QWidget):
+    def __init__(self, name, parent = None):
+        super().__init__(parent)
+    def on(self):
+        pass
+    def off(self):
+        pass
 
 class Mock(QtWidgets.QMainWindow):
     def __init__(self):
@@ -26,10 +40,16 @@ class Mock(QtWidgets.QMainWindow):
         self.selpoivreBtn = MockBtn("selpoivreBtn")
         self.menusBtn = MockBtn("menusBtn")
         self.additionBtn = MockBtn("additionBtn")
+        self.mayoBuzz = MockBtn("mayoBuzz")
+        self.ketchupBuzz = MockBtn("ketchupBuzz")
         self.sample1Btn = MockBtn("sample1Btn")
         self.sample2Btn = MockBtn("sample2Btn")
         self.sample3Btn = MockBtn("sample3Btn")
         self.sample4Btn = MockBtn("sample4Btn")
+        self.ketchupLED = MockLED("ketchupLED")
+        self.mayoLED = MockLED("ketchupLED")
+        self.ketchupRelay = MockRelay("ketchupRelay")
+        self.mayoRelay = MockRelay("ketchupRelay")
         self.bye = MockBtn("bye")
         self.box = QtWidgets.QVBoxLayout(self.widget)
         self.box.addWidget(self.mayoPlusBtn)
@@ -46,6 +66,8 @@ class Mock(QtWidgets.QMainWindow):
         self.box.addWidget(self.sample3Btn)
         self.box.addWidget(self.sample4Btn)
         self.box.addWidget(self.bye)
+        self.box.addWidget(self.mayoBuzz)
+        self.box.addWidget(self.ketchupBuzz)
         self.setCentralWidget(self.widget)
         self.bye.clicked.connect(self.doBye)
 

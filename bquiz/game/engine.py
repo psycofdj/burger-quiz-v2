@@ -38,6 +38,10 @@ class Engine(QtCore.QObject):
         hw.additionBtn.pressed.connect(self.startAddition)
         hw.mayoBuzz.pressed.connect(self.mayoBuzz)
         hw.ketchupBuzz.pressed.connect(self.ketchupBuzz)
+        hw.sample1Btn.pressed.connect(self.sample1)
+        hw.sample2Btn.pressed.connect(self.sample2)
+        hw.sample3Btn.pressed.connect(self.sample3)
+        hw.sample4Btn.pressed.connect(self.sample4)
         self.hw = hw
         self.startToss()
 
@@ -112,6 +116,7 @@ class Engine(QtCore.QObject):
 
     def startToss(self):
         self.setState(State.TOSS)
+        self.playSound("intro.mp3")
 
     @QtCore.Slot()
     def startNuggets(self):
@@ -147,3 +152,15 @@ class Engine(QtCore.QObject):
         self.addition.clone(self.menus)
         self.setState(State.ADDITION)
         self.playSound("addition.mp3")
+    @QtCore.Slot()
+    def sample1(self):
+        self.playSound("arrete.mp3")
+    @QtCore.Slot()
+    def sample2(self):
+        self.playSound("fermez.mp3")
+    @QtCore.Slot()
+    def sample3(self):
+        self.playSound("con.mp3")
+    @QtCore.Slot()
+    def sample4(self):
+        self.playSound("doigts.mp3")

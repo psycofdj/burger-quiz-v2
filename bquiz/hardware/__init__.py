@@ -17,30 +17,25 @@ class Hardware(QtCore.QObject):
         wpi.wiringPiSetup()
         self.stopped = False
         self.objs = []
-        self.registerBtn("mayoPlusBtn",     26)
-        self.registerBtn("mayoMinusBtn",    27)
-        self.registerBtn("resetBtn",        24)
-        self.registerBtn("ketchupPlusBtn",  23)
-        self.registerBtn("ketchupMinusBtn", 22)
-        self.registerBtn("nuggetsBtn",      21)
-        self.registerBtn("selpoivreBtn",    14)
-        self.registerBtn("menusBtn",        12)
-        self.registerBtn("additionBtn",     13)
-        self.registerBtn("sample1Btn",      3)
-        self.registerBtn("sample2Btn",      7)
-        self.registerBtn("sample3Btn",      0)
-        self.registerBtn("sample4Btn",      2)
+        self.registerBtn("mayoPlusBtn",     22)
+        self.registerBtn("mayoMinusBtn",    23)
+        self.registerBtn("resetBtn",        26)
+        self.registerBtn("ketchupPlusBtn",  24)
+        self.registerBtn("ketchupMinusBtn", 27)
+        self.registerBtn("nuggetsBtn",      2)
+        self.registerBtn("selpoivreBtn",    0)
+        self.registerBtn("menusBtn",        7)
+        self.registerBtn("additionBtn",     3)
+        self.registerBtn("sample1Btn",      21)
+        self.registerBtn("sample2Btn",      14)
+        self.registerBtn("sample3Btn",      13)
+        self.registerBtn("sample4Btn",      12)
         self.registerBtn("ketchupBuzz",     10)
         self.registerBtn("mayoBuzz",        11)
         self.registerLED("ketchupLED",      5)
         self.registerLED("mayoLED",         6)
-        self.registerRelay("mayoRelay",     4)
-        self.registerRelay("ketchupRelay",  1)
-        # self.vlc = vlc.Instance("--no-xlib")
-        # self.buzzer_player = self.vlc.media_player_new()
-        # self.buzzer_player.audio_set_volume(100)
-        # self.sample_player = self.vlc.media_player_new()
-        # self.sample_player.audio_set_volume(100)
+        self.registerRelay("mayoRelay",     1)
+        self.registerRelay("ketchupRelay",  4)
 
     def registerLED(self, name, port):
         led = LED(name, port, self)
@@ -61,17 +56,6 @@ class Hardware(QtCore.QObject):
         lcd = LCD(port)
         self.objs.append(lcd)
         setattr(self, name, lcd)
-
-    # def async_play(self, name, player="sample_player"):
-    #     path = os.path.join(
-    #         os.path.dirname(__file__),
-    #         "resources",
-    #         name,
-    #     )
-    #     handler = getattr(self, player, self.sample_player)
-    #     handler.set_media(self.vlc.media_new(path))
-    #     print("[media:%s]: playing %s" % (player, name))
-    #     handler.play()
 
     def update(self):
         for c_obj in self.objs:

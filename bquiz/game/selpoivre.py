@@ -11,6 +11,7 @@ from bquiz.gui.selpoivre import SelPoivreFrame
 class SelPoivre(Question):
     def __init__(self, hw, widget = None):
         super().__init__(hw, widget)
+        self.data = data['selpoivre']
         self.randomQ()
         self.hw.resetBtn.pressed.connect(self.randomQ)
 

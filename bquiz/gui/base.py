@@ -10,12 +10,12 @@ class BaseFrame(QtWidgets.QFrame):
 
         self.ketchup = QtWidgets.QLabel(self)
         self.ketchup.setObjectName("ketchup")
-        self.ketchup.setGeometry(5, 5, 50, 50)
+        self.ketchup.setGeometry(745, 5, 50, 50)
         self.ketchup.setAlignment(QtCore.Qt.AlignCenter|QtCore.Qt.AlignVCenter)
 
         self.mayo = QtWidgets.QLabel(self)
         self.mayo.setObjectName("mayo")
-        self.mayo.setGeometry(745, 5, 50, 50)
+        self.mayo.setGeometry(5, 5, 50, 50)
         self.mayo.setAlignment(QtCore.Qt.AlignCenter|QtCore.Qt.AlignVCenter)
 
         self.page = QtWidgets.QLabel(self)

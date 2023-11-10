@@ -29,13 +29,13 @@ class Btn(QtCore.QObject):
             self.state = Btn.RELEASED
             self.pressed_since = None
             self.released_since = datetime.datetime.now()
-            print("%s::released" % self.objectName())
+            print("%s::released (port=%d)" % (self.objectName(), self.port))
             self.released.emit()
         else:
             self.pressed_since = datetime.datetime.now()
             self.state = Btn.PRESSED
             self.pressed.emit()
-            print("%s::pressed" % self.objectName())
+            print("%s::pressed (port=%d)" % (self.objectName(), self.port))
 
     def update(self):
         if self.released_since is not None:

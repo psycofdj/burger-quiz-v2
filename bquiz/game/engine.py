@@ -1,6 +1,7 @@
 from PySide6 import QtCore, QtWidgets, QtMultimedia
 
 import vlc
+import time
 
 from bquiz.types import State
 from bquiz.game.toss import Toss
@@ -15,12 +16,11 @@ class Engine(QtCore.QObject):
         super().__init__(widget)
 
         self.vlc = vlc.Instance("--no-xlib")
+        self.backgroundPlayer = self.vlc.media_list_player_new()
         self.buzzerPlayer = self.vlc.media_player_new()
-        self.buzzerPlayer.audio_set_volume(100)
-        self.buzzerPlayer.audio_output_device_enum()
         self.samplePlayer = self.vlc.media_player_new()
         self.samplePlayer.audio_set_volume(100)
-        self.samplePlayer.audio_output_device_enum()
+        self.buzzerPlayer.audio_set_volume(100)
 
         self.current = None
         self.buzzing = False
@@ -85,26 +85,37 @@ class Engine(QtCore.QObject):
         self.samplePlayer.set_media(self.vlc.media_new(filepath))
         self.samplePlayer.play()
 
+
     def playSound2(self, name):
         filepath = self.current.resourcePath(name)
         self.buzzerPlayer.set_media(self.vlc.media_new(filepath))
         self.buzzerPlayer.play()
 
+
+    def playBackground(self, name):
+        filepath = self.current.resourcePath(name)
+        media = self.vlc.media_new(filepath)
+        media_list = self.vlc.media_list_new()
+        media_list.add_media(media)
+        self.backgroundPlayer.set_media_list(media_list)
+        self.backgroundPlayer.set_playback_mode(vlc.PlaybackMode.loop)
+        self.backgroundPlayer.play()
+
     @buzzlock
     @QtCore.Slot()
     def mayoBuzz(self):
         if self.state not in [ State.NUGGETS, State.MENUS ]:
-            self.playSound2("buzz-mayo.mp3")
             self.hw.mayoRelay.on()
             self.hw.mayoLED.blink(seconds=3)
+            self.playSound2("buzz-mayo.mp3")
 
     @buzzlock
     @QtCore.Slot()
     def ketchupBuzz(self):
         if self.state not in [ State.NUGGETS, State.MENUS ]:
-            self.playSound2("buzz-ketchup.mp3")
             self.hw.ketchupRelay.on()
             self.hw.ketchupLED.blink(seconds=3)
+            self.playSound2("buzz-ketchup.mp3")
 
     @QtCore.Slot()
     def reset(self):
@@ -114,6 +125,7 @@ class Engine(QtCore.QObject):
     def startToss(self):
         self.setState(State.TOSS)
         self.playSound("intro.mp3")
+        self.playBackground("silence.mp3")
 
     @QtCore.Slot()
     def startNuggets(self):
@@ -121,16 +133,13 @@ class Engine(QtCore.QObject):
             return self.current.ephemeralError(self.errorNotNow(State.NUGGETS))
         if not self.current.leader:
             return self.current.ephemeralError("Quelle équipe à la main ?")
-        #self.nuggets.clone(self.toss)
         self.setState(State.NUGGETS)
         self.playSound("nuggets.mp3")
-
 
     @QtCore.Slot()
     def startSelPoivre(self):
         if self.state != State.NUGGETS:
             return self.current.ephemeralError(self.errorNotNow(State.SELPOIVRE))
-        #self.selpoivre.clone(self.nuggets)
         self.setState(State.SELPOIVRE)
         self.playSound("sel-ou-poivre.mp3")
 
@@ -138,7 +147,6 @@ class Engine(QtCore.QObject):
     def startMenus(self):
         if self.state != State.SELPOIVRE:
             return self.current.ephemeralError(self.errorNotNow(State.MENUS))
-        #self.menus.clone(self.selpoivre)
         self.setState(State.MENUS)
         self.playSound("menus.mp3")
 
@@ -146,9 +154,9 @@ class Engine(QtCore.QObject):
     def startAddition(self):
         if self.state != State.MENUS:
             return self.current.ephemeralError(self.errorNotNow(State.ADDITION))
-        #self.addition.clone(self.menus)
         self.setState(State.ADDITION)
         self.playSound("addition.mp3")
+
     @QtCore.Slot()
     def sample1(self):
         self.playSound("arrete.mp3")

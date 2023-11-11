@@ -120,6 +120,7 @@ class QuestionFrame(BaseFrame):
         return self.render()
 
     def mousePressEvent(self, event):
+        super().mousePressEvent(event)
         if event.pos().x() > self.width() / 2:
             self.handler.nextQ()
         else:

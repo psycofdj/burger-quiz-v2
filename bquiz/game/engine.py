@@ -14,13 +14,10 @@ class Engine(QtCore.QObject):
 
     def __init__(self, hw, widget = None):
         super().__init__(widget)
-
         self.vlc = vlc.Instance("--no-xlib")
         self.backgroundPlayer = self.vlc.media_list_player_new()
         self.buzzerPlayer = self.vlc.media_player_new()
         self.samplePlayer = self.vlc.media_player_new()
-        self.samplePlayer.audio_set_volume(100)
-        self.buzzerPlayer.audio_set_volume(100)
 
         self.current = None
         self.buzzing = False
@@ -85,12 +82,10 @@ class Engine(QtCore.QObject):
         self.samplePlayer.set_media(self.vlc.media_new(filepath))
         self.samplePlayer.play()
 
-
     def playSound2(self, name):
         filepath = self.current.resourcePath(name)
         self.buzzerPlayer.set_media(self.vlc.media_new(filepath))
         self.buzzerPlayer.play()
-
 
     def playBackground(self, name):
         filepath = self.current.resourcePath(name)
@@ -126,6 +121,7 @@ class Engine(QtCore.QObject):
         self.setState(State.TOSS)
         self.playSound("intro.mp3")
         self.playBackground("silence.mp3")
+        #self.playBackground("silence2.mp3")
 
     @QtCore.Slot()
     def startNuggets(self):

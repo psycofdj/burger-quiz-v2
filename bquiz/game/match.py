@@ -1,4 +1,5 @@
 import os
+import subprocess
 import yaml
 from PySide6 import QtCore, QtWidgets
 from bquiz.types import Team
@@ -11,8 +12,14 @@ class Match(QtCore.QObject):
         self.leader = None
         self.mayoScore = 0
         self.ketchupScore = 0
+        self.volume = self.getSystemVolume()
         self.frame = self.getFrame(widget)
         self.frame.hide()
+        self.frame.dblClick.connect(self.volumeShow)
+        self.frame.click.connect(self.volumeHide)
+        self.frame.volumeMinus.clicked.connect(self.volumeMinus)
+        self.frame.volumePlus.clicked.connect(self.volumePlus)
+
 
     def finalize(self):
         pass
@@ -21,6 +28,7 @@ class Match(QtCore.QObject):
         self.leader = match.leader
         self.mayoScore = match.mayoScore
         self.ketchupScore = match.ketchupScore
+        self.volume = match.volume
         self.frame.update()
 
     def reset(self):
@@ -66,3 +74,31 @@ class Match(QtCore.QObject):
 
     def resourcePath(self, filename):
         return self.frame.resourcePath(filename)
+
+    def getSystemVolume(self):
+        out = subprocess.check_output(['/bin/bash', '-c', "amixer -D pulse sget Master | grep 'Left:' | awk -F'[][]' '{ print $2 }'"])
+        vol = out.decode('utf-8').split("%")[0]
+        return int(vol)
+
+    def setVolume(self, val):
+        self.volume = max(min(val, 85), 0)
+        cmd = "amixer -q set Master %d%%" % (self.volume)
+        os.system(cmd)
+        self.frame.update()
+
+    @QtCore.Slot()
+    def volumeShow(self):
+        self.frame.volumeBox.raise_()
+        self.frame.volumeBox.show()
+
+    @QtCore.Slot()
+    def volumeHide(self):
+        self.frame.volumeBox.hide()
+
+    @QtCore.Slot()
+    def volumePlus(self):
+        self.setVolume(self.volume + 5)
+
+    @QtCore.Slot()
+    def volumeMinus(self):
+        self.setVolume(self.volume - 5)

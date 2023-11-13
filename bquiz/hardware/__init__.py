@@ -5,7 +5,6 @@ import wiringpi as wpi
 import signal
 import threading
 
-from .lcd import LCD
 from .btn import Btn
 from .relay import Relay
 from .led import LED
@@ -51,11 +50,6 @@ class Hardware(QtCore.QObject):
         btn = Btn(name, port, kind=Btn.NC, parent=self, **kwds)
         self.objs.append(btn)
         setattr(self, name, btn)
-
-    def registerLCD(self, name, port):
-        lcd = LCD(port)
-        self.objs.append(lcd)
-        setattr(self, name, lcd)
 
     def update(self):
         for c_obj in self.objs:

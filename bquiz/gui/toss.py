@@ -84,7 +84,6 @@ class TossFrame(BaseFrame):
         """)
         self.static.setText(TossFrame.INTRO)
 
-
     @QtCore.Slot(str)
     def setToss(self, value):
         self.toss.setText(value)

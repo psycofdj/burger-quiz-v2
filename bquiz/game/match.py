@@ -15,7 +15,7 @@ class Match(QtCore.QObject):
         self.volume = self.getSystemVolume()
         self.frame = self.getFrame(widget)
         self.frame.hide()
-        self.frame.dblClick.connect(self.volumeShow)
+        self.frame.longClick.connect(self.volumeShow)
         self.frame.click.connect(self.volumeHide)
         self.frame.volumeMinus.clicked.connect(self.volumeMinus)
         self.frame.volumePlus.clicked.connect(self.volumePlus)

@@ -20,9 +20,15 @@ class MainWindow(QMainWindow):
             self.hw = Hardware(self)
         else:
             self.hw = Mock()
+            self.hw.move(860, 0)
             self.hw.show()
         self.engine = Engine(self.hw, self)
         self.hw.spawn()
+
+    def keyPressEvent(self, event):
+        want = QtCore.QKeyCombination(QtCore.Qt.ControlModifier, QtCore.Qt.Key_C)
+        if event.keyCombination() == want:
+            sys.exit(1)
 
 def main():
     sys.stdout = sys.stderr

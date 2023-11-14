@@ -4,7 +4,7 @@ from PySide6 import QtCore, QtWidgets
 from bquiz.types import Team
 
 class BaseFrame(QtWidgets.QFrame):
-    dblClick = QtCore.Signal()
+    longClick = QtCore.Signal()
     click = QtCore.Signal()
     def __init__(self, bg, altBg, color, handler, widget = None):
         super().__init__(widget)
@@ -66,14 +66,17 @@ class BaseFrame(QtWidgets.QFrame):
         self.updateStyle()
         self.lastClick = datetime.datetime.now()
 
-    def mousePressEvent(self, event):
+    def mouseReleaseEvent(self, event):
         now = datetime.datetime.now()
         diff = now - self.lastClick
         self.lastClick = now
-        if diff < datetime.timedelta(seconds=0.3):
-            self.dblClick.emit()
+        if diff > datetime.timedelta(seconds=0.5):
+            self.longClick.emit()
         else:
             self.click.emit()
+
+    def mousePressEvent(self, event):
+        self.lastClick = datetime.datetime.now()
 
     def getTeamStyle(self, team):
         config = {
